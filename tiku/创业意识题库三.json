@@ -1,0 +1,4101 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "questionBank": [
+    {
+      "question": [
+        {
+          "id": "3db458b6e340452f8771066a59d4eab0",
+          "questionTitle": "选择项目要综合考虑个人能力等诸多要素，最好是（）",
+          "questionSolution": "答案：B\r\n选择项目要综合考虑个人能力等诸多要素，最好是不熟悉不做",
+          "testQuestionAnswers": [
+            {
+              "id": "bf2dd595f40a4a539811e1f62b798182",
+              "questionId": "3db458b6e340452f8771066a59d4eab0",
+              "optionContent": "利润不高不做",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "92998defdf7f41f3aa2ae9fda0b7ca1b",
+              "questionId": "3db458b6e340452f8771066a59d4eab0",
+              "optionContent": "不熟悉不做",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "8fed459fc3104f5da676e055e7db81ac",
+              "questionId": "3db458b6e340452f8771066a59d4eab0",
+              "optionContent": "投资大不做",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "bee83567e6ca4b2c8b2db13fcf01d0f9",
+              "questionId": "3db458b6e340452f8771066a59d4eab0",
+              "optionContent": "风险大不做",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "430a07ea3cbd432486644bba9e5d5429",
+          "questionTitle": "市场经济是法治经济，同时也是信用经济，需要以（  ）为准绳来规范市场行为，维护市场秩序。",
+          "questionSolution": "答案：B\r\n市场经济是法治经济，同时也是信用经济，需要以（法律  ）为准绳来规范市场行为，维护市场秩序。",
+          "testQuestionAnswers": [
+            {
+              "id": "5a192157a6994abbaaa6a5d3683d9ad4",
+              "questionId": "430a07ea3cbd432486644bba9e5d5429",
+              "optionContent": "道德",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "eea6b902b4944ce68f92185fea595ba7",
+              "questionId": "430a07ea3cbd432486644bba9e5d5429",
+              "optionContent": "法律",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "294e4982ed644c36a4245672850aa109",
+              "questionId": "430a07ea3cbd432486644bba9e5d5429",
+              "optionContent": "伦理",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "c6434ca097f74f34bf6a5e9341d500c1",
+              "questionId": "430a07ea3cbd432486644bba9e5d5429",
+              "optionContent": "制度",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4387594dfa4b4aad9cfe81c848cac1e0",
+          "questionTitle": "从一个词语或题目开始的进行发散性思维的方法是",
+          "questionSolution": "答案：A\r\n从一个词语或题目开始的进行发散性思维的方法是一般性头脑风暴法",
+          "testQuestionAnswers": [
+            {
+              "id": "22fd0981f76b4eaeb4fb0fa1c35265e4",
+              "questionId": "4387594dfa4b4aad9cfe81c848cac1e0",
+              "optionContent": "一般性头脑风暴法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "145ff76314fc465c90308187aeabed82",
+              "questionId": "4387594dfa4b4aad9cfe81c848cac1e0",
+              "optionContent": "技术性头脑风暴法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "c029a68e4d5a4cffa33602fb52f0c698",
+              "questionId": "4387594dfa4b4aad9cfe81c848cac1e0",
+              "optionContent": "特殊方法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "90684e9f5ea940b0a9c106d1a7d86e8d",
+              "questionId": "4387594dfa4b4aad9cfe81c848cac1e0",
+              "optionContent": "结构性头脑风暴法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "465bec8a748e4c6e8eede1e5f6680137",
+          "questionTitle": "以下哪种说法不属于生产制造类型的企业：（  ）",
+          "questionSolution": "答案：B\r\n解析：以下哪种说法不属于生产制造类型的企业：（资金量小，且周转速度快   ）",
+          "testQuestionAnswers": [
+            {
+              "id": "5cd2ba3b9e704adfa71108b2dd498c41",
+              "questionId": "465bec8a748e4c6e8eede1e5f6680137",
+              "optionContent": "生产技术高，开发能力强",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d6e1e07c0e9c45efb5228905c50068cf",
+              "questionId": "465bec8a748e4c6e8eede1e5f6680137",
+              "optionContent": "资金量小，且周转速度快 ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "2b772b923c204fc396e309166f3e2ba0",
+              "questionId": "465bec8a748e4c6e8eede1e5f6680137",
+              "optionContent": "区域人口多，劳动力廉价且密集    ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2053a8c545f04c78b8eb4a953868e798",
+              "questionId": "465bec8a748e4c6e8eede1e5f6680137",
+              "optionContent": "生产组织有效",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "465f9272c4b14737b5925dba65d91a25",
+          "questionTitle": "通过自我评价练习，大于多少分的比较适合创业。",
+          "questionSolution": "答案：B\r\n通过自我评价练习，大于 50 分的比较适合创业。",
+          "testQuestionAnswers": [
+            {
+              "id": "9ffccbfa4b64447597a9bbfda17e7664",
+              "questionId": "465f9272c4b14737b5925dba65d91a25",
+              "optionContent": "90",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "9331f93db19340eba06388e0475decb8",
+              "questionId": "465f9272c4b14737b5925dba65d91a25",
+              "optionContent": "50",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "d9ff60bd525d4339afbf14076e0763d8",
+              "questionId": "465f9272c4b14737b5925dba65d91a25",
+              "optionContent": "  40",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a05625938bad4f13804c01c71e81bef1",
+              "questionId": "465f9272c4b14737b5925dba65d91a25",
+              "optionContent": " 30 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "490b2bf039ea459ab6d5852084359844",
+          "questionTitle": " 以下不属于仓储商店经营特点的是：",
+          "questionSolution": "答案：B\r\n通常采取会员制销售来锁定顾客不属于仓储商店经营特点",
+          "testQuestionAnswers": [
+            {
+              "id": "9c99ebffcdf049aa9f90c58cba09c5ab",
+              "questionId": "490b2bf039ea459ab6d5852084359844",
+              "optionContent": "通常采取会员制销售来锁定顾客 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "408d110fd49f4d338aef1e8ef32a5d99",
+              "questionId": "490b2bf039ea459ab6d5852084359844",
+              "optionContent": "位于市区高租金地区",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "a50281bb1ed84161abe5082cd0d1cd03",
+              "questionId": "490b2bf039ea459ab6d5852084359844",
+              "optionContent": " 以零售的方式运作批发，又称量贩商店",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "49c2ec5061d84985b002c0c548454e20",
+          "questionTitle": "人民需要红色紧身衣，因此我开个服装店专门卖这种服装，这是（  ）",
+          "questionSolution": "答案：B\r\n解析：从顾客需要出发 ",
+          "testQuestionAnswers": [
+            {
+              "id": "42fb970445974df885e62bfc7efe8a35",
+              "questionId": "49c2ec5061d84985b002c0c548454e20",
+              "optionContent": "从兴趣出发的构思",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f3c2502bf44c4287893750872594c0e6",
+              "questionId": "49c2ec5061d84985b002c0c548454e20",
+              "optionContent": "从顾客需要出发 ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "ed31171bba1143918c45860e5d31db0f",
+              "questionId": "49c2ec5061d84985b002c0c548454e20",
+              "optionContent": "从兴趣出发的构思",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "6b91d7edd9004b49840b767af80f95e0",
+              "questionId": "49c2ec5061d84985b002c0c548454e20",
+              "optionContent": " 从资金多少构思",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4b4c6db1d028490cb3a0c8a36181e014",
+          "questionTitle": "小微企业成功的要素中，以下哪一项属于贸易企业的考虑因素",
+          "questionSolution": "答案：A\r\n解析：小微企业成功的要素中，库存可靠属于贸易企业的考虑因素",
+          "testQuestionAnswers": [
+            {
+              "id": "bbfb8bac3d3f4fab99be0dce89e393d4",
+              "questionId": "4b4c6db1d028490cb3a0c8a36181e014",
+              "optionContent": "库存可靠",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "701274bec36b476da251168516d134c1",
+              "questionId": "4b4c6db1d028490cb3a0c8a36181e014",
+              "optionContent": "生产组织有效",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "23a887dfdcfa4030a9bba2eb2792a732",
+              "questionId": "4b4c6db1d028490cb3a0c8a36181e014",
+              "optionContent": "服务收费合理",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "aece603c17834c6bad750cabf25e60ce",
+              "questionId": "4b4c6db1d028490cb3a0c8a36181e014",
+              "optionContent": "高效运输产品",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4cc503e964b1402c947b96723d9be5d7",
+          "questionTitle": "开一家杂货店要考虑（）",
+          "questionSolution": "答案：D\r\n开一家杂货店要考虑是否雷同、产品质量、产品价格",
+          "testQuestionAnswers": [
+            {
+              "id": "ff5507d5e4a34b649a4ef6e639e87693",
+              "questionId": "4cc503e964b1402c947b96723d9be5d7",
+              "optionContent": "是否雷同 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "53a4faa866f446bbb883fb28b0f57b80",
+              "questionId": "4cc503e964b1402c947b96723d9be5d7",
+              "optionContent": "产品质量",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "98ad8343133d4766909d4d378c5fa843",
+              "questionId": "4cc503e964b1402c947b96723d9be5d7",
+              "optionContent": "产品价格 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "78b42d8199a34fed97cad52d1f417fa4",
+              "questionId": "4cc503e964b1402c947b96723d9be5d7",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4cdb06bd417a4d629ec0c324d209d516",
+          "questionTitle": "下列哪种表现应是创业者应有的良好心理素质，如（   ）。",
+          "questionSolution": "答案：B\r\n解析：下列哪种表现应是创业者应有的良好心理素质，如（ 面对挫折百折不回   ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "961351b7271e4266a99cdaeff1d4167f",
+              "questionId": "4cdb06bd417a4d629ec0c324d209d516",
+              "optionContent": "不顺利时心浮气躁  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d2c03338dfe44a808f763ef0789b1318",
+              "questionId": "4cdb06bd417a4d629ec0c324d209d516",
+              "optionContent": "面对挫折百折不回 ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "67d3d162da924a8681224a7f83522982",
+              "questionId": "4cdb06bd417a4d629ec0c324d209d516",
+              "optionContent": "稍有吃亏耿耿于怀",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "597acb00d62449f68ab77856483d4e00",
+              "questionId": "4cdb06bd417a4d629ec0c324d209d516",
+              "optionContent": "稍有成就得意忘形",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4d1be4ae2c07428bac688a9d7b09a95d",
+          "questionTitle": " GYB培训中，产生企业想法有几种方法",
+          "questionSolution": "答案：B\r\n GYB培训中，产生企业想法有五种方法。",
+          "testQuestionAnswers": [
+            {
+              "id": "274efda100254aca9eb5df1684628986",
+              "questionId": "4d1be4ae2c07428bac688a9d7b09a95d",
+              "optionContent": "三种",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "fd83f027d9fc48de8bd64a2a535c5c95",
+              "questionId": "4d1be4ae2c07428bac688a9d7b09a95d",
+              "optionContent": " 五种",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "5d8dedc9d9604ac9af7a003204f3afdc",
+              "questionId": "4d1be4ae2c07428bac688a9d7b09a95d",
+              "optionContent": "一种",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d01a1eb9d3d548d8b4c6edc8d67e20c9",
+              "questionId": "4d1be4ae2c07428bac688a9d7b09a95d",
+              "optionContent": "七种  ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4db242d353c545c2846a53257aab57b0",
+          "questionTitle": "收集顾客信息、了解顾客需求，对于创办企业（   )",
+          "questionSolution": "答案：A\r\n解析：收集顾客信息、了解顾客需求，对于创办企业（  至关重要）",
+          "testQuestionAnswers": [
+            {
+              "id": "a6527a817d714530a597dd45632abefb",
+              "questionId": "4db242d353c545c2846a53257aab57b0",
+              "optionContent": "至关重要   ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "d9944fc9b1e947f689085567d1be17f9",
+              "questionId": "4db242d353c545c2846a53257aab57b0",
+              "optionContent": "无关紧要",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f91d90b0109a428db7b8cf6acc748d63",
+              "questionId": "4db242d353c545c2846a53257aab57b0",
+              "optionContent": "有时候重要，有时候不重要",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "5d9f8a8a0023483e92a853bfd25dcf25",
+              "questionId": "4db242d353c545c2846a53257aab57b0",
+              "optionContent": "没有关系",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "4fd4b73be6bc45b6af0937841aa7f1aa",
+          "questionTitle": "只要存在（   ）就有商机，就有创业的机会。",
+          "questionSolution": "答案：A\r\n解析：只要存在（ 尚未满足的需求   ）就有商机，就有创业的机会。",
+          "testQuestionAnswers": [
+            {
+              "id": "61f10abd5ab442629cb78d6cec26a550",
+              "questionId": "4fd4b73be6bc45b6af0937841aa7f1aa",
+              "optionContent": "尚未满足的需求",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c047c7c6fd6645db9e6f4e9e7cf6d49b",
+              "questionId": "4fd4b73be6bc45b6af0937841aa7f1aa",
+              "optionContent": "货币与商品的交换",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "960be2ef8b3d47699c7ec260b66b053a",
+              "questionId": "4fd4b73be6bc45b6af0937841aa7f1aa",
+              "optionContent": "经济发展，生活改善",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "21f3038dd18b47969fbe48788f4e93bf",
+              "questionId": "4fd4b73be6bc45b6af0937841aa7f1aa",
+              "optionContent": "好的商品和有钱的顾客",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "50cdefb3f230429eb921dc68c14d1570",
+          "questionTitle": "在评估你的财务状况时，我们至少需要计算多长时间的日常开支，才可能产生足够的利润保证企业正常运转。",
+          "questionSolution": "答案：A\r\n解析：在评估你的财务状况时，我们至少需要计算3个月的日常开支，才可能产生足够的利润保证企业正常运转。",
+          "testQuestionAnswers": [
+            {
+              "id": "44454d536ac84fa4a132d3fab3060562",
+              "questionId": "50cdefb3f230429eb921dc68c14d1570",
+              "optionContent": "3个月",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "ff92112ada2643b188b8f68f7e94871e",
+              "questionId": "50cdefb3f230429eb921dc68c14d1570",
+              "optionContent": "6个月",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "28f586d3afb6407c9e1145d9fe731c49",
+              "questionId": "50cdefb3f230429eb921dc68c14d1570",
+              "optionContent": "9个月",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ddee747a9321476a8b1cb189fd62831a",
+              "questionId": "50cdefb3f230429eb921dc68c14d1570",
+              "optionContent": "12个月",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "50f773e83fce4077b633c99b970ddce7",
+          "questionTitle": "在自家开办一家电器维修部，属于哪种企业类型：",
+          "questionSolution": "答案：C\r\n解析：在自家开办一家电器维修部，属于哪种企业类型：服务业",
+          "testQuestionAnswers": [
+            {
+              "id": "70c2a07cf98e402eb8374ae56025feab",
+              "questionId": "50f773e83fce4077b633c99b970ddce7",
+              "optionContent": "零售业  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1cdf89714f814023b16b048a29e4c492",
+              "questionId": "50f773e83fce4077b633c99b970ddce7",
+              "optionContent": "制造业  ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "6f582b3505ec4b5ba31828447b7fe54f",
+              "questionId": "50f773e83fce4077b633c99b970ddce7",
+              "optionContent": "服务业  ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "7fe21c9a3994478e80261398c0b69b6b",
+              "questionId": "50f773e83fce4077b633c99b970ddce7",
+              "optionContent": "农、林、牧、渔业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5288c61f829c405592fe41e6618e17ad",
+          "questionTitle": "企业想法中“满足顾客哪些需要”指的是（ ）",
+          "questionSolution": "答案：C\r\n企业想法中“满足顾客哪些需要”指的是顾客需要的商品属性",
+          "testQuestionAnswers": [
+            {
+              "id": "6e4aafc29b374af5afba432c952a0d27",
+              "questionId": "5288c61f829c405592fe41e6618e17ad",
+              "optionContent": "顾客需要的商品规格",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1bfa2b0c2680469f8bda9715d7dca475",
+              "questionId": "5288c61f829c405592fe41e6618e17ad",
+              "optionContent": "顾客需要的商品品种",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "56681912d8ec4f3ab96761c9b832982a",
+              "questionId": "5288c61f829c405592fe41e6618e17ad",
+              "optionContent": "顾客需要的商品属性",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "3dd6880ac9fb4d768b7cdde50c993b10",
+              "questionId": "5288c61f829c405592fe41e6618e17ad",
+              "optionContent": "顾客接受的商品价格",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "534c242c378e40598589eece0cfadba9",
+          "questionTitle": "（  ）既是最重要的市场游戏规则，又是最好的竞争手段。",
+          "questionSolution": "答案：D\r\n解析：（诚信  ）既是最重要的市场游戏规则，又是最好的竞争手段。",
+          "testQuestionAnswers": [
+            {
+              "id": "11420d731d164b3fbee688f0ef34b5fd",
+              "questionId": "534c242c378e40598589eece0cfadba9",
+              "optionContent": "合同",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "5c1b43e2bfb64f8784bfed530c478984",
+              "questionId": "534c242c378e40598589eece0cfadba9",
+              "optionContent": "合作",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "71255047d7694978a281e28ea0798553",
+              "questionId": "534c242c378e40598589eece0cfadba9",
+              "optionContent": "合作",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2e2688779d284dbab496fe5c40e12586",
+              "questionId": "534c242c378e40598589eece0cfadba9",
+              "optionContent": "诚信",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "540ccfd6c3e041f18ee0d3ac0e6e5875",
+          "questionTitle": "黄亮和李燕对他们创办朱砂泥工艺品生产企业的构思进行了SWOT分析，发现威胁来自于同行的竞争，制作朱砂泥工艺品因投资少，容易上马，产品容易模仿，会出现许多类似的作坊。以下应对威胁比较好的策略是:（   ）",
+          "questionSolution": "答案：C\r\n解析：黄亮和李燕对他们创办朱砂泥工艺品生产企业的构思进行了SWOT分析，发现威胁来自于同行的竞争，制作朱砂泥工艺品因投资少，容易上马，产品容易模仿，会出现许多类似的作坊。以下应对威胁比较好的策略是:（提供与竞争对手的产品质量、款式、包装不同的产品       ）",
+          "testQuestionAnswers": [
+            {
+              "id": "614b076d15d04ab59603b6cac680b623",
+              "questionId": "540ccfd6c3e041f18ee0d3ac0e6e5875",
+              "optionContent": "向消费者协会投诉模仿企业",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "808389c052be4a148d3d368e54165a4f",
+              "questionId": "540ccfd6c3e041f18ee0d3ac0e6e5875",
+              "optionContent": "打消这个创业的想法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "371378d5f11c4bd3b429c0f1c9374020",
+              "questionId": "540ccfd6c3e041f18ee0d3ac0e6e5875",
+              "optionContent": "提供与竞争对手的产品质量、款式、包装不同的产品     ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "55d0ad1873cd406ca83dd415d161e155",
+              "questionId": "540ccfd6c3e041f18ee0d3ac0e6e5875",
+              "optionContent": "用低价挤走同行",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5455b8e7ac054d8d8e4a1c76072985e8",
+          "questionTitle": "在创业实践中通常说的“白手起家”是指（）",
+          "questionSolution": "答案：D\r\n在创业实践中通常说的“白手起家”是指借助他人资金",
+          "testQuestionAnswers": [
+            {
+              "id": "23a29181063941caadd40378b7da9db6",
+              "questionId": "5455b8e7ac054d8d8e4a1c76072985e8",
+              "optionContent": "完全没有资金",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "edab0ab6ac67457d9ddad4269fec76c8",
+              "questionId": "5455b8e7ac054d8d8e4a1c76072985e8",
+              "optionContent": "做无本生意",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "b9d25d6476014c6fb914029682923755",
+              "questionId": "5455b8e7ac054d8d8e4a1c76072985e8",
+              "optionContent": "空麻袋下米",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "c475318664314d40b321764100aa1847",
+              "questionId": "5455b8e7ac054d8d8e4a1c76072985e8",
+              "optionContent": "借助他人资金",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "551e1397f78941b3a54ebfc340f9dca7",
+          "questionTitle": " 下面不属于实地调研了解对象为？",
+          "questionSolution": "答案：B\r\n关键信息提供者、同行或竞争对手、供应（批发）商 都不属于实地调研了解对象为",
+          "testQuestionAnswers": [
+            {
+              "id": "a1b5b2bf6f9245d9ba2ddc17f715a12b",
+              "questionId": "551e1397f78941b3a54ebfc340f9dca7",
+              "optionContent": "关键信息提供者",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "869153975c234d01bf44290206a3840a",
+              "questionId": "551e1397f78941b3a54ebfc340f9dca7",
+              "optionContent": "以下都错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "1cdf8c333cc6474186139e2d8ad8050b",
+              "questionId": "551e1397f78941b3a54ebfc340f9dca7",
+              "optionContent": "同行或竞争对手",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "725a7e8bd70d4761aabb5bc3dcc5723f",
+              "questionId": "551e1397f78941b3a54ebfc340f9dca7",
+              "optionContent": "供应（批发）商 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "55e067e074014c50a2f2d14a72cb8b73",
+          "questionTitle": "评估自身创业能力的思路是（  ）",
+          "questionSolution": "答案：A\r\n评估自身创业能力的思路是用客观标准评价",
+          "testQuestionAnswers": [
+            {
+              "id": "312030ed53584184979d908a0ae9343f",
+              "questionId": "55e067e074014c50a2f2d14a72cb8b73",
+              "optionContent": "用客观标准评价",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "88e72db00547461eb1e49ad29fa85960",
+              "questionId": "55e067e074014c50a2f2d14a72cb8b73",
+              "optionContent": "让领导评价",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e4088d3495e9496d953e18b4a58f5f5e",
+              "questionId": "55e067e074014c50a2f2d14a72cb8b73",
+              "optionContent": "让专家评价",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ae628addea434576b4c3dd3ebd45ef98",
+              "questionId": "55e067e074014c50a2f2d14a72cb8b73",
+              "optionContent": "用自己的标准评价",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "55f278b0034845d5bcd8db42360ff0ee",
+          "questionTitle": " 下面哪种能力在自我评价练习当中有提到。",
+          "questionSolution": "答案：A\r\n  决策能力在自我评价练习当中有提到",
+          "testQuestionAnswers": [
+            {
+              "id": "70e38294e9444fff80e4072d0da30d8a",
+              "questionId": "55f278b0034845d5bcd8db42360ff0ee",
+              "optionContent": "  决策能力",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9850832a15864c20809b21e12aa4938a",
+              "questionId": "55f278b0034845d5bcd8db42360ff0ee",
+              "optionContent": " 耐力",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9f7b5487c8094813964a34a9106c0380",
+              "questionId": "55f278b0034845d5bcd8db42360ff0ee",
+              "optionContent": "爱的能力",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "5c864193c45242ae952e4604428a741a",
+              "questionId": "55f278b0034845d5bcd8db42360ff0ee",
+              "optionContent": "  包容的能力 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "56be919562f04aabaa76940565065d95",
+          "questionTitle": "“诚信招来天下客，无欺誉揽万人心”这句话主要反映的是创业者的哪项素质？",
+          "questionSolution": "答案：B\r\n解析：“诚信招来天下客，无欺誉揽万人心”这句话主要反映的是创业者的诚信",
+          "testQuestionAnswers": [
+            {
+              "id": "fc65f0a5b9234cc7a3a43ae2ad561138",
+              "questionId": "56be919562f04aabaa76940565065d95",
+              "optionContent": "承诺",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "a5695767b47948fdb5e858b4d487729b",
+              "questionId": "56be919562f04aabaa76940565065d95",
+              "optionContent": "诚信",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "b0f76fe575674349ba443a51711f1919",
+              "questionId": "56be919562f04aabaa76940565065d95",
+              "optionContent": "决策",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "227e69a9deec4c0dbb6446df6c63d683",
+              "questionId": "56be919562f04aabaa76940565065d95",
+              "optionContent": "动机",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "56c41c7a83404a1eacfae493bc4812a6",
+          "questionTitle": "哪种行业属于服务业：（  ）",
+          "questionSolution": "答案：C\r\n解析：哪种行业属于服务业：（餐饮   ）",
+          "testQuestionAnswers": [
+            {
+              "id": "35b4b695a5224da1bf190be6036075ed",
+              "questionId": "56c41c7a83404a1eacfae493bc4812a6",
+              "optionContent": "服装加工",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "a0fccab347bf4fef9ff4d163d1e055e9",
+              "questionId": "56c41c7a83404a1eacfae493bc4812a6",
+              "optionContent": ".旅游产品店",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "88b0de95747b4bc285d04d1bfc144365",
+              "questionId": "56c41c7a83404a1eacfae493bc4812a6",
+              "optionContent": "餐饮 ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "ab6957467c3349bfbcc4199c84a46da0",
+              "questionId": "56c41c7a83404a1eacfae493bc4812a6",
+              "optionContent": "种植蔬菜水果",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5773229f8641467bac0965c15965beba",
+          "questionTitle": "创业行为对于创业者可能带来的双重效应是（   ）。",
+          "questionSolution": "答案：C\r\n解析：创业行为对于创业者可能带来的双重效应是（成功与失败  ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "1869b43c6ae940f98eec6234ab185547",
+              "questionId": "5773229f8641467bac0965c15965beba",
+              "optionContent": "功成与名就",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "bf565e0f98814f49b34177da0b499ca6",
+              "questionId": "5773229f8641467bac0965c15965beba",
+              "optionContent": "身败与名列 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8cc72a09051d4167b833d44a7eb0f283",
+              "questionId": "5773229f8641467bac0965c15965beba",
+              "optionContent": "成功与失败 ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "966a7b63d298431190ba5a3e57dbea19",
+              "questionId": "5773229f8641467bac0965c15965beba",
+              "optionContent": "事业与亲情",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5858120b91524ba4b7f9f618459ce178",
+          "questionTitle": "微小型企业在激烈的竞争中较为适宜有效的是（   ）。",
+          "questionSolution": "答案：B\r\n解析：微小型企业在激烈的竞争中较为适宜有效的是（   服务取胜  ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "cfc20494b11b453e8ff3fb99701b9382",
+              "questionId": "5858120b91524ba4b7f9f618459ce178",
+              "optionContent": "技术取胜",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b6475011c3794a208bbcf9e339b30273",
+              "questionId": "5858120b91524ba4b7f9f618459ce178",
+              "optionContent": "服务取胜  ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "f0a41d36a8ca46f4aa438fb7af31c011",
+              "questionId": "5858120b91524ba4b7f9f618459ce178",
+              "optionContent": "价格取胜",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "8dc36c47a1ce4c53a254b6598e52a159",
+              "questionId": "5858120b91524ba4b7f9f618459ce178",
+              "optionContent": "形象取胜",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5879d15504514aca8ab481c6669998e6",
+          "questionTitle": "下面关于《企业想法一览表》的内容叙述正确的是",
+          "questionSolution": "答案：B\r\n下面关于《企业想法一览表》的内容叙述正确的是 潜在的且能做的企业 ",
+          "testQuestionAnswers": [
+            {
+              "id": "4cb7086c45494588a3b2ddff0146d25e",
+              "questionId": "5879d15504514aca8ab481c6669998e6",
+              "optionContent": "现有的企业 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "c7a9ca6e92e4402891e1ead840183238",
+              "questionId": "5879d15504514aca8ab481c6669998e6",
+              "optionContent": " 潜在的且能做的企业",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "46f81cae781e457f9a4fb7b3794e5266",
+              "questionId": "5879d15504514aca8ab481c6669998e6",
+              "optionContent": "潜在的企业 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d3735a671ce3428ba2866f21b53c2edf",
+              "questionId": "5879d15504514aca8ab481c6669998e6",
+              "optionContent": " 现有的且不能做的企业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "59704bc28e6548bfa3180925be5369d4",
+          "questionTitle": "下列哪种表现应是你创业者应有的良好心理素质，如（）",
+          "questionSolution": "答案：B\r\n下列哪种表现应是你创业者应有的良好心理素质，如面对挫折百折不回",
+          "testQuestionAnswers": [
+            {
+              "id": "6dbea032cb47443a8e94853dc0edc814",
+              "questionId": "59704bc28e6548bfa3180925be5369d4",
+              "optionContent": "不顺利时心浮气躁",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b017292ef46e48aba2cb2aca2a9b20e9",
+              "questionId": "59704bc28e6548bfa3180925be5369d4",
+              "optionContent": "面对挫折百折不回",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "85358833ee3b4392a8c91c1c44694427",
+              "questionId": "59704bc28e6548bfa3180925be5369d4",
+              "optionContent": "稍有吃亏耿耿于怀",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "cf71c8e853e043b483be255f41b7a423",
+              "questionId": "59704bc28e6548bfa3180925be5369d4",
+              "optionContent": "稍有成就得意忘形",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "59991393d1dc482a93c29db97e6f935a",
+          "questionTitle": "哪种性格特点适合创业：（  ）",
+          "questionSolution": "答案：A\r\n解析：哪种性格特点适合创业：（坚韧不拨  ）",
+          "testQuestionAnswers": [
+            {
+              "id": "74d079a012b34ce28b6b0d7440072043",
+              "questionId": "59991393d1dc482a93c29db97e6f935a",
+              "optionContent": "坚韧不拨 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "03ab6b3d98704f748b8a900c184d6db5",
+              "questionId": "59991393d1dc482a93c29db97e6f935a",
+              "optionContent": "优柔寡断 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "47ac0df3df8a4e77961fa6c2c0243ae0",
+              "questionId": "59991393d1dc482a93c29db97e6f935a",
+              "optionContent": "畏首畏尾",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "1de637ebe812405abcb7b1a5b2870cd4",
+              "questionId": "59991393d1dc482a93c29db97e6f935a",
+              "optionContent": "刚愎自用",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "59db3526637343cebf94f5dfe93a8f2a",
+          "questionTitle": " SWOT分析是（）",
+          "questionSolution": "答案：B\r\n解析： SWOT分析是（优势、劣势、机会、威胁分析法）",
+          "testQuestionAnswers": [
+            {
+              "id": "745a357184df43639d3db9e5c700d6dd",
+              "questionId": "59db3526637343cebf94f5dfe93a8f2a",
+              "optionContent": "优势分析法 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "808c034aef4a4dd9a091bc73f14167b1",
+              "questionId": "59db3526637343cebf94f5dfe93a8f2a",
+              "optionContent": "优势、劣势、机会、威胁分析法 ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "462a4af744aa4851b7f3fefb7b7b85f3",
+              "questionId": "59db3526637343cebf94f5dfe93a8f2a",
+              "optionContent": "机会、威胁分析法 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "54206e2418864ddfa5547638f54a85fb",
+              "questionId": "59db3526637343cebf94f5dfe93a8f2a",
+              "optionContent": "威胁、劣势分析法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5b2981c8115e4ce38d2bcd1df03f4261",
+          "questionTitle": "下面不属于实地调研的内容。",
+          "questionSolution": "答案：C\r\n资金不属于实地调研的内容",
+          "testQuestionAnswers": [
+            {
+              "id": "ecb6fd697a1f4820909e340dd32c5afb",
+              "questionId": "5b2981c8115e4ce38d2bcd1df03f4261",
+              "optionContent": "  外部资源 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "7c1fe55c1440402cae93a256600663cc",
+              "questionId": "5b2981c8115e4ce38d2bcd1df03f4261",
+              "optionContent": " 需求",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7b24bc805d54484aa5315f14dbe91a49",
+              "questionId": "5b2981c8115e4ce38d2bcd1df03f4261",
+              "optionContent": " 资金",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "beefb8a416ee412d8efa1ab932630231",
+              "questionId": "5b2981c8115e4ce38d2bcd1df03f4261",
+              "optionContent": " 机会 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5bc5533315f64024b1e7e09b1d838ac9",
+          "questionTitle": "自己当老板会遇到的问题是（   ）。",
+          "questionSolution": "答案：D\r\n解析：自己当老板会遇到的问题是（  无法度假 、缺乏稳定的工资收入、 .拿自己的积蓄去冒风险）。",
+          "testQuestionAnswers": [
+            {
+              "id": "463449b572634205af50abeddbb96405",
+              "questionId": "5bc5533315f64024b1e7e09b1d838ac9",
+              "optionContent": "无法度假  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "fed3311e1e9845049b9db18555a2a175",
+              "questionId": "5bc5533315f64024b1e7e09b1d838ac9",
+              "optionContent": "缺乏稳定的工资收入",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8100ae5a4e6043adb261dfa2a7bcd391",
+              "questionId": "5bc5533315f64024b1e7e09b1d838ac9",
+              "optionContent": "拿自己的积蓄去冒风险",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "dfc85668b2834f809caa579b61fcb28e",
+              "questionId": "5bc5533315f64024b1e7e09b1d838ac9",
+              "optionContent": "以上都是  ",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5c8b552367b44182a229730b1b33e901",
+          "questionTitle": "黄亮对自己的关于生产销售旅游纪念品的企业构思进行了SWOT分析，他认为，他所在的地区旅游业将持续发展，这将长期带动工艺纪念品的需求增长。这属于SWOT中的（）",
+          "questionSolution": "答案：C\r\n黄亮对自己的关于生产销售旅游纪念品的企业构思进行了SWOT分析，他认为，他所在的地区旅游业将持续发展，这将长期带动工艺纪念品的需求增长。这属于SWOT中的机会",
+          "testQuestionAnswers": [
+            {
+              "id": "730d83c906b94832bbd462c0da79ad32",
+              "questionId": "5c8b552367b44182a229730b1b33e901",
+              "optionContent": "优势   ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "65fdf6b953394809809888106a361fc5",
+              "questionId": "5c8b552367b44182a229730b1b33e901",
+              "optionContent": "劣势",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "5270f6e9f7c348f1b671f10e6a9c4c13",
+              "questionId": "5c8b552367b44182a229730b1b33e901",
+              "optionContent": "机会 ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "8887a4afba094fddb1377e1a530bac2a",
+              "questionId": "5c8b552367b44182a229730b1b33e901",
+              "optionContent": "威胁",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5d0c7ba4cbaa40fca252016f786ccfe2",
+          "questionTitle": "自己创业当老板，可以获得许多好处，以下哪项不是获得的好处",
+          "questionSolution": "答案：B\r\n解析：自己创业当老板，可以获得许多好处，为其他人搭建发展平台不是获得的好处",
+          "testQuestionAnswers": [
+            {
+              "id": "7abae86027e345b383ca140b69b1c697",
+              "questionId": "5d0c7ba4cbaa40fca252016f786ccfe2",
+              "optionContent": "更好地掌握自己的命运",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2424131a8c944b6484ad7e28966f1035",
+              "questionId": "5d0c7ba4cbaa40fca252016f786ccfe2",
+              "optionContent": "为其他人搭建发展平台",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "d3ea7e6960394627a601c3e8438fd296",
+              "questionId": "5d0c7ba4cbaa40fca252016f786ccfe2",
+              "optionContent": "不必听命于他人",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "03f7321a90084c31aaf8d1eaf0945866",
+              "questionId": "5d0c7ba4cbaa40fca252016f786ccfe2",
+              "optionContent": "按自己的节奏工作生活",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "5d37a7bd2aa740b28005b1181d020062",
+          "questionTitle": " 以下不属于服务行业的是：",
+          "questionSolution": "答案：C\r\n 以下不属于服务行业的是百货商场",
+          "testQuestionAnswers": [
+            {
+              "id": "98b0bde53cef44458c7dbf966ceb91d4",
+              "questionId": "5d37a7bd2aa740b28005b1181d020062",
+              "optionContent": "代理中介 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "afbb1f12c3b34de5bbe258839a4db643",
+              "questionId": "5d37a7bd2aa740b28005b1181d020062",
+              "optionContent": " 代购代销",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9253b3c35cbe42949cc8bd162aa0e1c2",
+              "questionId": "5d37a7bd2aa740b28005b1181d020062",
+              "optionContent": "百货商场",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "5f236198a2b44baa8844a0f91dcb986b",
+          "questionTitle": "从一个词语或题目开始的进行发散性思维的方法是：（）",
+          "questionSolution": "答案：A\r\n解析：.从一个词语或题目开始的进行发散性思维的方法是：（一般性头脑风暴法 ）",
+          "testQuestionAnswers": [
+            {
+              "id": "24f1fee003a840a4a80721b4c42dcaa0",
+              "questionId": "5f236198a2b44baa8844a0f91dcb986b",
+              "optionContent": "一般性头脑风暴法 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "1559ddf7c7fa4744817059d5487e58ab",
+              "questionId": "5f236198a2b44baa8844a0f91dcb986b",
+              "optionContent": "技术性头脑风暴法 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "945ae5db588f40b3a883a5c1297f3c8d",
+              "questionId": "5f236198a2b44baa8844a0f91dcb986b",
+              "optionContent": "特殊方法  ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "303974ef92c74282a60e655d7aa81854",
+              "questionId": "5f236198a2b44baa8844a0f91dcb986b",
+              "optionContent": "结构性头脑风暴法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "6013a104970e47e5b0e697dc98a9eb0e",
+          "questionTitle": "公司与竞争者谁能获取更大的成功，取决于（）",
+          "questionSolution": "答案：D\r\n公司与竞争者谁能获取更大的成功，取决于构建更为有效的市场营销系统、更好地管理、整合更有效的环境力量",
+          "testQuestionAnswers": [
+            {
+              "id": "cd50e5cb324844159d017aa2e1de3c7b",
+              "questionId": "6013a104970e47e5b0e697dc98a9eb0e",
+              "optionContent": "构建更为有效的市场营销系统",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "bbd777e001b348efa0b0fb336ee36015",
+              "questionId": "6013a104970e47e5b0e697dc98a9eb0e",
+              "optionContent": "更好地管理",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7e759257fa8043e3ac7fa04c01db70f3",
+              "questionId": "6013a104970e47e5b0e697dc98a9eb0e",
+              "optionContent": "整合更有效的环境力量",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "76b90a50c1f54e298504e119711c5362",
+              "questionId": "6013a104970e47e5b0e697dc98a9eb0e",
+              "optionContent": "以上均是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "6067b36e3a0a4a7d82f2909ea8076381",
+          "questionTitle": " 创业成功的基础是做好",
+          "questionSolution": "答案：B\r\n 创业成功的基础是做好市场调查分析 ",
+          "testQuestionAnswers": [
+            {
+              "id": "e9a6c02d84d64fea8efa74a637fa9952",
+              "questionId": "6067b36e3a0a4a7d82f2909ea8076381",
+              "optionContent": " 库存",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1d73e7b2c52b4112bfdeab773523dc0b",
+              "questionId": "6067b36e3a0a4a7d82f2909ea8076381",
+              "optionContent": " 市场调查分析",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "1cb7df4fe2384e0ba6342a89fd61cacf",
+              "questionId": "6067b36e3a0a4a7d82f2909ea8076381",
+              "optionContent": " 找到地方 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "5d1765a794444945874ac83285cd1477",
+              "questionId": "6067b36e3a0a4a7d82f2909ea8076381",
+              "optionContent": " 记帐 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "60b9b39797ea4596a093b973f76118d7",
+          "questionTitle": "调查居住地区企业的主要目的是",
+          "questionSolution": "答案：D\r\n调查居住地区企业的主要目的是通过已有企业找到市场需要却没有的企业",
+          "testQuestionAnswers": [
+            {
+              "id": "39c0cf2e816847ebb8b6e5e56a00a508",
+              "questionId": "60b9b39797ea4596a093b973f76118d7",
+              "optionContent": "找到已有企业的需求 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "c9c808d932fa498a9850c2dec7667a98",
+              "questionId": "60b9b39797ea4596a093b973f76118d7",
+              "optionContent": " 找到没有的企业",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "80f1a74c26744d479a9c29444d715cd3",
+              "questionId": "60b9b39797ea4596a093b973f76118d7",
+              "optionContent": " 找到已有企业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "24727f3f228c43a59abadbfa53852556",
+              "questionId": "60b9b39797ea4596a093b973f76118d7",
+              "optionContent": "通过已有企业找到市场需要却没有的企业",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "615bbe601df4435d993e540a05a3a3d1",
+          "questionTitle": "（   ）是实地调研主导方法。 ",
+          "questionSolution": "答案：A\r\n访谈法是实地调研主导方法。 ",
+          "testQuestionAnswers": [
+            {
+              "id": "f264739de57e4a9485b9869de3d02996",
+              "questionId": "615bbe601df4435d993e540a05a3a3d1",
+              "optionContent": "访谈法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "a58e2b5c77a947928e84bd3d2d7e0438",
+              "questionId": "615bbe601df4435d993e540a05a3a3d1",
+              "optionContent": "观察法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "0acf6aac5a6247beb081aa9141a7acf3",
+              "questionId": "615bbe601df4435d993e540a05a3a3d1",
+              "optionContent": "网络查询法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b7d199998f45422283219cd782a7243c",
+              "questionId": "615bbe601df4435d993e540a05a3a3d1",
+              "optionContent": "排除法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "633b2ab2dd154924823ec9dcaba48f28",
+          "questionTitle": "不少成功的创业者和企业家往往都具有（   ）",
+          "questionSolution": "答案：D\r\n解析：不少成功的创业者和企业家往往都具有（对成功的强烈愿望   ）",
+          "testQuestionAnswers": [
+            {
+              "id": "a8ba4560ebad4e808a0bf237dd12db71",
+              "questionId": "633b2ab2dd154924823ec9dcaba48f28",
+              "optionContent": "良好的教育条件",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "cbbe0f14354642518557769252870c02",
+              "questionId": "633b2ab2dd154924823ec9dcaba48f28",
+              "optionContent": "经商家庭的影响  ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e5a2a4813e3640158c2033bb1a691169",
+              "questionId": "633b2ab2dd154924823ec9dcaba48f28",
+              "optionContent": "广泛的社会人缘",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d0457d94dcff40acbf29341c734ee762",
+              "questionId": "633b2ab2dd154924823ec9dcaba48f28",
+              "optionContent": "对成功的强烈愿望",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "637cb7a4b163409e9f36490c8539c320",
+          "questionTitle": "选择出一个适合自己的创业项目以后，还需要做点什么？",
+          "questionSolution": "答案：B\r\n选择出一个适合自己的创业项目以后，还需要做制定行动计划表",
+          "testQuestionAnswers": [
+            {
+              "id": "d7676e4184744132b9e48c05ee24efbb",
+              "questionId": "637cb7a4b163409e9f36490c8539c320",
+              "optionContent": "看黄历选择注册公司",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "114a9816b45c4ddebe3a4d277f37e29b",
+              "questionId": "637cb7a4b163409e9f36490c8539c320",
+              "optionContent": "制定行动计划表",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "f5e1bacfa76e49fc9bad6b5ec8aa7a1f",
+              "questionId": "637cb7a4b163409e9f36490c8539c320",
+              "optionContent": "马上找资金",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "6caac2d37a7b456d86a9c08b1119796b",
+              "questionId": "637cb7a4b163409e9f36490c8539c320",
+              "optionContent": "先签合同找合伙人",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "64785271a08d438894e907a4ee35fb38",
+          "questionTitle": "行业经验要求高、创新研发能力、生产管理经验和技术适合进行哪种行业创业：（ ）",
+          "questionSolution": "答案：A\r\n解析：行业经验要求高、创新研发能力、生产管理经验和技术适合进行哪种行业创业：（制造 ）",
+          "testQuestionAnswers": [
+            {
+              "id": "0c4b833334a4469287282a62656d0714",
+              "questionId": "64785271a08d438894e907a4ee35fb38",
+              "optionContent": "制造",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c2697f48ec474dbf8355e6e12e775303",
+              "questionId": "64785271a08d438894e907a4ee35fb38",
+              "optionContent": "贸易   ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f65b1594c1e9425fbdd3e71dba492024",
+              "questionId": "64785271a08d438894e907a4ee35fb38",
+              "optionContent": "畜牧 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "0d438708f03143d584fa79c7062976f3",
+              "questionId": "64785271a08d438894e907a4ee35fb38",
+              "optionContent": "服务",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "654b6ff3b8d546918a501c030e36d72a",
+          "questionTitle": "企业只有（  ）才能收到国家法律的保护。",
+          "questionSolution": "答案：A\r\n解析：企业只有（ 登记注册  ）才能收到国家法律的保护。",
+          "testQuestionAnswers": [
+            {
+              "id": "e3c8cb4e687f4401b8f7af15b1b80079",
+              "questionId": "654b6ff3b8d546918a501c030e36d72a",
+              "optionContent": "登记注册 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9f69efa88df94878856de592c7c95781",
+              "questionId": "654b6ff3b8d546918a501c030e36d72a",
+              "optionContent": "开展业务",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e355654ae6104fbf93fe6208dfa032d2",
+              "questionId": "654b6ff3b8d546918a501c030e36d72a",
+              "optionContent": "采购原料 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "0f50718a94824449a3695da528e95a0a",
+              "questionId": "654b6ff3b8d546918a501c030e36d72a",
+              "optionContent": "生产设备",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "6703798c7ad345b09534e63b99876a89",
+          "questionTitle": "企业是以（   ）为目的而进行商品生产和交换活动的经济组织。",
+          "questionSolution": "答案：A\r\n企业是以盈利为目的而进行商品生产和交换活动的经济组织。",
+          "testQuestionAnswers": [
+            {
+              "id": "752c0cc8154f4cec9be70c5daa7f89d4",
+              "questionId": "6703798c7ad345b09534e63b99876a89",
+              "optionContent": "盈利",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "91e78093e42e4a149b031e9907e7af8c",
+              "questionId": "6703798c7ad345b09534e63b99876a89",
+              "optionContent": "现金流",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "aec22870aaf64b1b853141d578418ea9",
+              "questionId": "6703798c7ad345b09534e63b99876a89",
+              "optionContent": "市场",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "6ba146b0a1944356bbca7affff904f0f",
+              "questionId": "6703798c7ad345b09534e63b99876a89",
+              "optionContent": "收入",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "6734f39925134d1aa7860925c6cc7240",
+          "questionTitle": "从制造线、服务线、销售线、副产品线方向开始思考的头脑风暴法，属于那种？",
+          "questionSolution": "答案：D\r\n从制造线、服务线、销售线、副产品线方向开始思考的头脑风暴法，属于结构性头脑风暴法",
+          "testQuestionAnswers": [
+            {
+              "id": "945d392af44e41c5b05322ba9b37adef",
+              "questionId": "6734f39925134d1aa7860925c6cc7240",
+              "optionContent": "特殊方法",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "735f2dd9a67f4356b3910d5d22c7623c",
+              "questionId": "6734f39925134d1aa7860925c6cc7240",
+              "optionContent": "一般性头脑风暴法 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "125023e5756244a8a4b4bd21b3ac5963",
+              "questionId": "6734f39925134d1aa7860925c6cc7240",
+              "optionContent": "技术性头脑风暴法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "bef11073ce6f4db19ec9fc1e0dc4319a",
+              "questionId": "6734f39925134d1aa7860925c6cc7240",
+              "optionContent": "结构性头脑风暴法",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "67ed0027bb05494f8942bd6890849900",
+          "questionTitle": "具有较丰富的相关行业经验，有一定的创新研发能力，有较强的生产管理经验和技术适合哪种行业创业：（  ）",
+          "questionSolution": "答案：A\r\n解析：具有较丰富的相关行业经验，有一定的创新研发能力，有较强的生产管理经验和技术适合哪种行业创业：（制造业   ）",
+          "testQuestionAnswers": [
+            {
+              "id": "3f0f617c8f2f4c83a2e82ca2e385da71",
+              "questionId": "67ed0027bb05494f8942bd6890849900",
+              "optionContent": "制造业",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "a6eca5675d4449f2b5a3a26b2a04a438",
+              "questionId": "67ed0027bb05494f8942bd6890849900",
+              "optionContent": "贸易",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "16b3da391fa94f2181d66b9385730557",
+              "questionId": "67ed0027bb05494f8942bd6890849900",
+              "optionContent": "服务业 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "c9a98d83509d4116932d99d9610e0cdb",
+              "questionId": "67ed0027bb05494f8942bd6890849900",
+              "optionContent": "农、林、牧、渔业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "689d997128d5470db9cecadd0bd69d96",
+          "questionTitle": "下面对于经营核算的表述，错误的是（   ）。",
+          "questionSolution": "答案：C\r\n解析：下面对于经营核算的表述，错误的是（资金流入  <  资金流出=盈利    ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "aceadc64e7ac4c9f96cf1df645992c24",
+              "questionId": "689d997128d5470db9cecadd0bd69d96",
+              "optionContent": "资金流入  <  资金流出=亏损",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b5101680d822455594549088194e4c2c",
+              "questionId": "689d997128d5470db9cecadd0bd69d96",
+              "optionContent": "资金流入  >  资金流出=盈利",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8d4456d7d9aa4a99af030f1dcc9a7c52",
+              "questionId": "689d997128d5470db9cecadd0bd69d96",
+              "optionContent": "资金流入  <  资金流出=盈利",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "65b4085cf5ee4d0f9472c8c364c24f96",
+              "questionId": "689d997128d5470db9cecadd0bd69d96",
+              "optionContent": "资金流入  =  资金流出  不亏不盈",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "76f5b22d7b2345c890a9c74968220f52",
+          "questionTitle": "创业成功的基础是做好",
+          "questionSolution": "答案：D\r\n创业成功的基础是做好市场调查分析",
+          "testQuestionAnswers": [
+            {
+              "id": "fc05aa75faa540f5b9b3aae163aae8b4",
+              "questionId": "76f5b22d7b2345c890a9c74968220f52",
+              "optionContent": " 库存",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "4e725749798d4327ac45ee51a98af0ac",
+              "questionId": "76f5b22d7b2345c890a9c74968220f52",
+              "optionContent": "找到地方",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f43572175b524559828e628cf4bfb62c",
+              "questionId": "76f5b22d7b2345c890a9c74968220f52",
+              "optionContent": "记帐",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "23c418ef6cb941eba89cdb20d9c44c58",
+              "questionId": "76f5b22d7b2345c890a9c74968220f52",
+              "optionContent": "市场调查分析",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "77194c023cb443f885f34707c1dd54a2",
+          "questionTitle": " SIYB的含义是",
+          "questionSolution": "答案：D\r\n SIYB的含义是调整你的企业 ",
+          "testQuestionAnswers": [
+            {
+              "id": "4ce26792645b4a87969f6ea9decec177",
+              "questionId": "77194c023cb443f885f34707c1dd54a2",
+              "optionContent": " 创办和改善你的企业",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "33bf151380504bea9da8c055f9467349",
+              "questionId": "77194c023cb443f885f34707c1dd54a2",
+              "optionContent": " 创办你的企业 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "53e0d17281ba4fe896c828894bc01cc4",
+              "questionId": "77194c023cb443f885f34707c1dd54a2",
+              "optionContent": " 改善你的企业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "c7fdbd7f7bc64cd2b1ff52aa2251c390",
+              "questionId": "77194c023cb443f885f34707c1dd54a2",
+              "optionContent": "调整你的企业 ",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "77b394e2aa754184a8353f7aa8189208",
+          "questionTitle": "小李根据几个顾客的抱怨内容，产生了一个好的企业想法，这种获取企业想法的方法属于：",
+          "questionSolution": "答案：D\r\n小李根据几个顾客的抱怨内容，产生了一个好的企业想法，这种获取企业想法的方法属于利用别人的经验 ",
+          "testQuestionAnswers": [
+            {
+              "id": "0990ecc5102c4cdba9eefdc01792e956",
+              "questionId": "77b394e2aa754184a8353f7aa8189208",
+              "optionContent": "调查你所居住地区的企业 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2b07efdf2e5244469199708e6918c3a8",
+              "questionId": "77b394e2aa754184a8353f7aa8189208",
+              "optionContent": "利用自己的经验",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "b1f3d8dbc38c44f6a8ed4be24cc4559f",
+              "questionId": "77b394e2aa754184a8353f7aa8189208",
+              "optionContent": "调查你所处环境的自然资源",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "51567afc5b5c46d58912e4c016f569d2",
+              "questionId": "77b394e2aa754184a8353f7aa8189208",
+              "optionContent": "利用别人的经验",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7857fd6488a74e32a47c0d1f39d63cbb",
+          "questionTitle": "以下哪类企业属于贸易企业（）",
+          "questionSolution": "答案：A\r\n以下哪类企业属于贸易企业日用品批发",
+          "testQuestionAnswers": [
+            {
+              "id": "49fa330f61044d139163accbde419571",
+              "questionId": "7857fd6488a74e32a47c0d1f39d63cbb",
+              "optionContent": "日用品批发  ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "b898aa441336453fb1864a3f8c677a46",
+              "questionId": "7857fd6488a74e32a47c0d1f39d63cbb",
+              "optionContent": "生产销售砖瓦",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "61a41cfec7aa45d8a273eeb29965a70b",
+              "questionId": "7857fd6488a74e32a47c0d1f39d63cbb",
+              "optionContent": "技术培训",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "73ebb707c37c42dca445339adabd4c4a",
+              "questionId": "7857fd6488a74e32a47c0d1f39d63cbb",
+              "optionContent": "邮件快递",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7878df32d11f49b2902adfec5e39fca9",
+          "questionTitle": "企业想法中“如何销售产品和服务”指的是",
+          "questionSolution": "答案：B\r\n企业想法中“如何销售产品和服务”指的是分销渠道",
+          "testQuestionAnswers": [
+            {
+              "id": "17a132933e604cea9200b16643c5e795",
+              "questionId": "7878df32d11f49b2902adfec5e39fca9",
+              "optionContent": "如何开店",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "0944ede4423f4bd38fb0c1d05733b0f4",
+              "questionId": "7878df32d11f49b2902adfec5e39fca9",
+              "optionContent": "分销渠道",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "de13de1d34fc4d6e9ff86eccb7457dde",
+              "questionId": "7878df32d11f49b2902adfec5e39fca9",
+              "optionContent": "在哪开店",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d18f7cef629a45faab7374605b9c96d6",
+              "questionId": "7878df32d11f49b2902adfec5e39fca9",
+              "optionContent": "在哪销售",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "792ad1356f6e4577898d86104a121579",
+          "questionTitle": "以下不属于服务行业的是：（  ）",
+          "questionSolution": "答案：D\r\n解析：以下不属于服务行业的是：（制鞋厂 ）",
+          "testQuestionAnswers": [
+            {
+              "id": "2c00c3987c8e407fba585c00e0aa5d3d",
+              "questionId": "792ad1356f6e4577898d86104a121579",
+              "optionContent": "代理中介",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f8221bf303514b9c8f65f05fbb89abe2",
+              "questionId": "792ad1356f6e4577898d86104a121579",
+              "optionContent": "代购代销 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "887b8a0542884cb8a5f0cf5ac19848bd",
+              "questionId": "792ad1356f6e4577898d86104a121579",
+              "optionContent": "百货商场 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "f08c9ec90d904c789b4d0cb9d9dba1b6",
+              "questionId": "792ad1356f6e4577898d86104a121579",
+              "optionContent": "制鞋厂",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "793fb20a1d864ec095961ec2e047d4d9",
+          "questionTitle": "关于企业的负面环境影响内容，下面说法正确的是？",
+          "questionSolution": "答案：C\r\n关于企业的负面环境影响内容，正确的是顾客拒绝 、政府拒绝、 员工拒绝 ",
+          "testQuestionAnswers": [
+            {
+              "id": "dff5e8a340284e9e93761e33c45e3283",
+              "questionId": "793fb20a1d864ec095961ec2e047d4d9",
+              "optionContent": "顾客拒绝 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "ea3283e347614527b4a98f2b4d991f74",
+              "questionId": "793fb20a1d864ec095961ec2e047d4d9",
+              "optionContent": "  政府拒绝",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "aa66f71453d84c76b4c84cda100ab3d5",
+              "questionId": "793fb20a1d864ec095961ec2e047d4d9",
+              "optionContent": "以上都正确",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "3c4b7f5e19704d77913cee54b491d6cf",
+              "questionId": "793fb20a1d864ec095961ec2e047d4d9",
+              "optionContent": " 员工拒绝 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7b528a59c69a4026be12cccc4e2fb79a",
+          "questionTitle": "房屋装修、邮件快递、家政服务、法律咨询等企业应属于（）",
+          "questionSolution": "答案：B\r\n房屋装修、邮件快递、家政服务、法律咨询等企业应属于服务企业",
+          "testQuestionAnswers": [
+            {
+              "id": "a96e9339e5fe43e396bd36e068088818",
+              "questionId": "7b528a59c69a4026be12cccc4e2fb79a",
+              "optionContent": "贸易企业 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "cf87bc8b9caa42a8bd2584ffe944db11",
+              "questionId": "7b528a59c69a4026be12cccc4e2fb79a",
+              "optionContent": "服务企业",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "9881ababde764b509e343f09ff6c2d4f",
+              "questionId": "7b528a59c69a4026be12cccc4e2fb79a",
+              "optionContent": "制造企业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "bfb626535b90439193b9e051fc457540",
+              "questionId": "7b528a59c69a4026be12cccc4e2fb79a",
+              "optionContent": "农林牧渔业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7c7186adc15f469890b3ab651d3d74ad",
+          "questionTitle": "（）统计因素是最常用的市场细分基础",
+          "questionSolution": "答案：B\r\n人口统计因素是最常用的市场细分基础",
+          "testQuestionAnswers": [
+            {
+              "id": "cb92cb6e57df4357ae3d0700ed0139e8",
+              "questionId": "7c7186adc15f469890b3ab651d3d74ad",
+              "optionContent": "地理",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "498ce25a1e1041a190bd1d8ab5d4172a",
+              "questionId": "7c7186adc15f469890b3ab651d3d74ad",
+              "optionContent": "人口",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "1d67a288f78a4a5bb22acae265bf7e98",
+              "questionId": "7c7186adc15f469890b3ab651d3d74ad",
+              "optionContent": "心理",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a437ed15ae844cadb998b0d21936931c",
+              "questionId": "7c7186adc15f469890b3ab651d3d74ad",
+              "optionContent": "行为",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7c95c93418aa4d5ab855e36b040e3d72",
+          "questionTitle": "以下不属于企业内部环境的是（   ）。",
+          "questionSolution": "答案：D\r\n解析：以下不属于企业内部环境的是（.顾客   ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "b71cd05050e0417caa97dc2a0f209c8d",
+              "questionId": "7c95c93418aa4d5ab855e36b040e3d72",
+              "optionContent": "企业员工 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "37de17de1b5542a49626b100ab6da2e9",
+              "questionId": "7c95c93418aa4d5ab855e36b040e3d72",
+              "optionContent": "原材料投入 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "ebba00d5f24349c9ad3e57e23e5c065a",
+              "questionId": "7c95c93418aa4d5ab855e36b040e3d72",
+              "optionContent": "产品或服务 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "3b50a42b4b304b61b8eee6aff9b7cf5b",
+              "questionId": "7c95c93418aa4d5ab855e36b040e3d72",
+              "optionContent": ".顾客",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7ca8b55536364af59c2dfd011adaba41",
+          "questionTitle": "没有绝对可靠的企业构思，企业时刻存在倒闭的(   )",
+          "questionSolution": "答案：D\r\n没有绝对可靠的企业构思，企业时刻存在倒闭的风险",
+          "testQuestionAnswers": [
+            {
+              "id": "1d13cbc2548a466b950e9403c2a2b6b7",
+              "questionId": "7ca8b55536364af59c2dfd011adaba41",
+              "optionContent": "评估",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d86e42e04088480da9505876ffbbf6ec",
+              "questionId": "7ca8b55536364af59c2dfd011adaba41",
+              "optionContent": "优势",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8c3aee4b63c840dba9ca87fc031a9720",
+              "questionId": "7ca8b55536364af59c2dfd011adaba41",
+              "optionContent": "验证",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "f2ea50e99e944e2f9a4cccf06a01fe7a",
+              "questionId": "7ca8b55536364af59c2dfd011adaba41",
+              "optionContent": "风险",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7cd697cb73b54c25b238e63195c72a8a",
+          "questionTitle": "自己当老板讲遇到的问题是（）",
+          "questionSolution": "答案：D\r\n自己当老板讲遇到的问题是无法度假、缺乏稳定的工资收入、拿自己的积蓄去冒风险",
+          "testQuestionAnswers": [
+            {
+              "id": "cdd2888287474014b75b5f03c132c940",
+              "questionId": "7cd697cb73b54c25b238e63195c72a8a",
+              "optionContent": "无法度假",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "9736bb34f46a47d39e5c17bd761c982c",
+              "questionId": "7cd697cb73b54c25b238e63195c72a8a",
+              "optionContent": "缺乏稳定的工资收入",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "5e5eeb270e6b4a7e99b26d19eb49de46",
+              "questionId": "7cd697cb73b54c25b238e63195c72a8a",
+              "optionContent": "自己的积蓄去冒风险  ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "71281092159e48019d3be91d85431fba",
+              "questionId": "7cd697cb73b54c25b238e63195c72a8a",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "7df563267e3d41c9abd299b34db0c680",
+          "questionTitle": ".创业的第一个条件，就是要有(   )。",
+          "questionSolution": "答案：B\r\n解析：.创业的第一个条件，就是要有( 强烈的欲望  )。",
+          "testQuestionAnswers": [
+            {
+              "id": "fac3d645ba4643dea68b8a74e4a49f47",
+              "questionId": "7df563267e3d41c9abd299b34db0c680",
+              "optionContent": "众人相助",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "9606ba1971cc450a9e5c5fc2cfd990ee",
+              "questionId": "7df563267e3d41c9abd299b34db0c680",
+              "optionContent": "强烈的欲望 ",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "e062df2f210b42778fc8e589c3e4d070",
+              "questionId": "7df563267e3d41c9abd299b34db0c680",
+              "optionContent": "充足的资金",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "fb14b7196281439099272ad784be73bb",
+              "questionId": "7df563267e3d41c9abd299b34db0c680",
+              "optionContent": "平和的心态",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8122a96c6b884369ab4587b9a6bc9528",
+          "questionTitle": "识别机会的最好办法，就是（   ）。",
+          "questionSolution": "答案：D\r\n解析：识别机会的最好办法，就是（  倾听人们的不满 ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "67c95d59d49f4628929aec0883f78de1",
+              "questionId": "8122a96c6b884369ab4587b9a6bc9528",
+              "optionContent": "向能人专家请教",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d015d7a391b64073af00c69ab2bd7621",
+              "questionId": "8122a96c6b884369ab4587b9a6bc9528",
+              "optionContent": "闭门分析思考 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "a5b8854b9f814879aacbdd15a5b6d13f",
+              "questionId": "8122a96c6b884369ab4587b9a6bc9528",
+              "optionContent": "看卖得最好的 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ceb30240822247c981e07fde7521469a",
+              "questionId": "8122a96c6b884369ab4587b9a6bc9528",
+              "optionContent": "倾听人们的不满",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "823572094ca14862a4fc031a72951b08",
+          "questionTitle": "利用机会的技能和资源包括？",
+          "questionSolution": "答案：A\r\n利用机会的技能和资源包括资源和要求和个人的技能、知识和经验",
+          "testQuestionAnswers": [
+            {
+              "id": "2d7679e2346344fd80904dda8f63bc32",
+              "questionId": "823572094ca14862a4fc031a72951b08",
+              "optionContent": "资源和要求和个人的技能、知识和经验",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "cef9e7371e1c4e6ca323d034f26dcc5d",
+              "questionId": "823572094ca14862a4fc031a72951b08",
+              "optionContent": "环境和技能和个人的技能、知识和经验",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "b8aed3cecb1e4e51ae7a190480842d17",
+              "questionId": "823572094ca14862a4fc031a72951b08",
+              "optionContent": "资源和财务状况和环境和技能",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ca8aed93bf77450fb9491984dcced01d",
+              "questionId": "823572094ca14862a4fc031a72951b08",
+              "optionContent": "资源和要求和资源和财务状况",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "832840521d14402288055feefb62efe8",
+          "questionTitle": "分析你的企业构思不包括以下哪种方法",
+          "questionSolution": "答案：D\r\n解析：你的企业构思不包括DISC测评",
+          "testQuestionAnswers": [
+            {
+              "id": "5daf63a918ed4460b608c8e9a8432ed2",
+              "questionId": "832840521d14402288055feefb62efe8",
+              "optionContent": "实地调研",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "ff9f588e447d444cb1e47083289fb526",
+              "questionId": "832840521d14402288055feefb62efe8",
+              "optionContent": "SWOT分析",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "663eb1f8c04b4d72927f914acad0cfa0",
+              "questionId": "832840521d14402288055feefb62efe8",
+              "optionContent": "环境影响评估",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "988c1112242f4f8c86c887ac7cfd1f3b",
+              "questionId": "832840521d14402288055feefb62efe8",
+              "optionContent": "DISC测评",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "833e33a04e4e4e3ca1822de6f66954ff",
+          "questionTitle": " 产品是人们需要付钱购买的",
+          "questionSolution": "答案：B\r\n 产品是人们需要付钱购买的物品",
+          "testQuestionAnswers": [
+            {
+              "id": "e12939b7ac3647ddac8041d0c975ef2a",
+              "questionId": "833e33a04e4e4e3ca1822de6f66954ff",
+              "optionContent": "市场",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b4df5fc2594848e6a8378ac60d158dce",
+              "questionId": "833e33a04e4e4e3ca1822de6f66954ff",
+              "optionContent": "物品",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "61d5c1896eb04829b1a00fe1140645f4",
+              "questionId": "833e33a04e4e4e3ca1822de6f66954ff",
+              "optionContent": "业绩",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "5e0aed6bb0b14d19b9d4a35c15d6a78e",
+              "questionId": "833e33a04e4e4e3ca1822de6f66954ff",
+              "optionContent": "运气",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "83eb94122f5a4f1a8b3ec0848766b413",
+          "questionTitle": "销售商从批发商购买现成的商品再通过转手卖给顾客而获利。是哪一种企业类型",
+          "questionSolution": "答案：A\r\n销售商从批发商购买现成的商品再通过转手卖给顾客而获利。是零售业企业类型",
+          "testQuestionAnswers": [
+            {
+              "id": "91923c95395d467089ec0537d70d39d8",
+              "questionId": "83eb94122f5a4f1a8b3ec0848766b413",
+              "optionContent": "零售业 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "16216946df0c4768984892e1cce87cb9",
+              "questionId": "83eb94122f5a4f1a8b3ec0848766b413",
+              "optionContent": " 服务业",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e67622ac7b2f4b8facafc1d229f2293e",
+              "questionId": "83eb94122f5a4f1a8b3ec0848766b413",
+              "optionContent": "制造业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "863cc325b9b64857a2860814ada118ec",
+          "questionTitle": "下列哪项不是GYB的培训内容（  ）",
+          "questionSolution": "答案：B\r\n下列哪项不是GYB的培训内容建立你的企业",
+          "testQuestionAnswers": [
+            {
+              "id": "75b7b56dea02421c88ee49dce15b8dde",
+              "questionId": "863cc325b9b64857a2860814ada118ec",
+              "optionContent": "你适合创办企业吗",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "fe20c944c43d447296d5d8720609346b",
+              "questionId": "863cc325b9b64857a2860814ada118ec",
+              "optionContent": "建立你的企业",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "5a18bc051a614b659e63cbb230ea643e",
+              "questionId": "863cc325b9b64857a2860814ada118ec",
+              "optionContent": ".什么是企业想法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a704d4a3018440bab3e6704092db3814",
+              "questionId": "863cc325b9b64857a2860814ada118ec",
+              "optionContent": "你自己的企业想法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "865134e2c5994176adf86cbe1a955c14",
+          "questionTitle": "创业的第一个条件，就是要有（）",
+          "questionSolution": "答案：B\r\n创业的第一个条件，就是要有强烈的欲望",
+          "testQuestionAnswers": [
+            {
+              "id": "ccfb86994a3a4f5e9eae22c0cbccae2e",
+              "questionId": "865134e2c5994176adf86cbe1a955c14",
+              "optionContent": "众人相助",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "57b11260284b4ab3b15adb98e2b0717e",
+              "questionId": "865134e2c5994176adf86cbe1a955c14",
+              "optionContent": "强烈的欲望",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "d343a7171a5e47178b057eb23e90cba9",
+              "questionId": "865134e2c5994176adf86cbe1a955c14",
+              "optionContent": "充足的资金",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "0d54bc67d5df403ea0c63f2a897040d4",
+              "questionId": "865134e2c5994176adf86cbe1a955c14",
+              "optionContent": "平和的心态",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8767e7eedb264cbcaa4a16a13acb9178",
+          "questionTitle": " 以下哪项不属于在SWOT分析法中，进行综合分析的比较角度？",
+          "questionSolution": "答案：D\r\n现状结合发展不属于在SWOT分析法中，进行综合分析的比较角度",
+          "testQuestionAnswers": [
+            {
+              "id": "f27dcffa678040cf8e95cc652c503dac",
+              "questionId": "8767e7eedb264cbcaa4a16a13acb9178",
+              "optionContent": "分析数据变量",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "8b1c00d0f9ae497cab3e2020485485cd",
+              "questionId": "8767e7eedb264cbcaa4a16a13acb9178",
+              "optionContent": "找得出最后结论 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "0082c75f2eee46638e541fde6126c606",
+              "questionId": "8767e7eedb264cbcaa4a16a13acb9178",
+              "optionContent": "进行矩阵比对",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2e165021239b4fc6b89e19418020bd90",
+              "questionId": "8767e7eedb264cbcaa4a16a13acb9178",
+              "optionContent": "现状结合发展",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "87c31d073b1e4b01a00deed9e2585cc6",
+          "questionTitle": "使用头脑风暴法即使你没有发现自己喜欢的（ ），这项练习对于帮助你打开思路并用新的方法思考问题仍然是很有用的",
+          "questionSolution": "答案：B\r\n使用头脑风暴法即使你没有发现自己喜欢的企业想法 ，这项练习对于帮助你打开思路并用新的方法思考问题仍然是很有用的",
+          "testQuestionAnswers": [
+            {
+              "id": "bfe8325c04884780b7211bd8af10e5b0",
+              "questionId": "87c31d073b1e4b01a00deed9e2585cc6",
+              "optionContent": " 衣服  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "66ee0141be12462f898e495a0eb5ce40",
+              "questionId": "87c31d073b1e4b01a00deed9e2585cc6",
+              "optionContent": "企业想法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "83581f4b5a87433faa3a17922cf04c08",
+              "questionId": "87c31d073b1e4b01a00deed9e2585cc6",
+              "optionContent": "食品 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "136538cc536c4a1a8634d1a6393bfbf1",
+              "questionId": "87c31d073b1e4b01a00deed9e2585cc6",
+              "optionContent": " 房子  ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8bcf7d329671498784608af04b11a06e",
+          "questionTitle": " 以下哪项不属于调查你所处环境的目的？",
+          "questionSolution": "答案：A\r\n 能力不属于调查你所处环境的目的’",
+          "testQuestionAnswers": [
+            {
+              "id": "c2da50eef3ed4cf7b382531950e64a37",
+              "questionId": "8bcf7d329671498784608af04b11a06e",
+              "optionContent": "能力 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c02321ed95624a9594523de4671093b8",
+              "questionId": "8bcf7d329671498784608af04b11a06e",
+              "optionContent": "需求 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "a6c872092c3747e19fa35969f4ea95f9",
+              "questionId": "8bcf7d329671498784608af04b11a06e",
+              "optionContent": "资源",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "e3c8226bdeca4b95a8867a5a0f55b6b4",
+              "questionId": "8bcf7d329671498784608af04b11a06e",
+              "optionContent": "  机会",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8bd6fee089fb476283f20c4da07660a0",
+          "questionTitle": "以下属于企业的是（）",
+          "questionSolution": "答案：C\r\n属于企业的是超市",
+          "testQuestionAnswers": [
+            {
+              "id": "485e0353a75644519f1f6cf0593a5631",
+              "questionId": "8bd6fee089fb476283f20c4da07660a0",
+              "optionContent": "炒股",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "81d2d6dd2eec48118cb56afd57a40682",
+              "questionId": "8bd6fee089fb476283f20c4da07660a0",
+              "optionContent": "流动摊点",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "445fe75189334bdcab319c1a99dd81c5",
+              "questionId": "8bd6fee089fb476283f20c4da07660a0",
+              "optionContent": "超市",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "8cfba5431cf849538bc962bdcf8058a4",
+          "questionTitle": "（   ）是使用原材料制作实物产品的企业",
+          "questionSolution": "答案：C\r\n解析：（ 制造企业  ）是使用原材料制作实物产品的企业",
+          "testQuestionAnswers": [
+            {
+              "id": "30c4aba326d04adab734c0780f88d8d6",
+              "questionId": "8cfba5431cf849538bc962bdcf8058a4",
+              "optionContent": "贸易企业",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "ca9cee00535e42858409e1077fdbec37",
+              "questionId": "8cfba5431cf849538bc962bdcf8058a4",
+              "optionContent": "服务企业 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7b1cb37148a04b85b8cc0d6107c07955",
+              "questionId": "8cfba5431cf849538bc962bdcf8058a4",
+              "optionContent": "制造企业",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "7c9870265ae94a1384c1e560556bed6d",
+              "questionId": "8cfba5431cf849538bc962bdcf8058a4",
+              "optionContent": "金融业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8dac10e2e9c84bfca52a80b6c25e2e76",
+          "questionTitle": "市场定位的分类（    ）",
+          "questionSolution": "答案：C\r\n市场定位的分类现有产品的再定位、潜在产品的预定位",
+          "testQuestionAnswers": [
+            {
+              "id": "2be1b84d8e5049a19c94912758df055d",
+              "questionId": "8dac10e2e9c84bfca52a80b6c25e2e76",
+              "optionContent": "产品价值的定位、产品质量的定位",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "a97394f4bad442dfa5e9729abca6b0d5",
+              "questionId": "8dac10e2e9c84bfca52a80b6c25e2e76",
+              "optionContent": "消费者需求的定位、企业发展方向的定位",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "3639ae032c994c469ff6864d5984465d",
+              "questionId": "8dac10e2e9c84bfca52a80b6c25e2e76",
+              "optionContent": "现有产品的再定位、潜在产品的预定位",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "6f0e1a29e013473297d6a614aa5b6f02",
+              "questionId": "8dac10e2e9c84bfca52a80b6c25e2e76",
+              "optionContent": "消费群体定位、生产方向定位",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "8ea90b744ccf4e9086e3c7572f33bae5",
+          "questionTitle": "选择开办生产制造业，应该考虑以下哪些因素：",
+          "questionSolution": "答案：A\r\n解析：选择开办生产制造业，应该考虑以下哪些因素：以下全部都是 ",
+          "testQuestionAnswers": [
+            {
+              "id": "f0b8e8d1a63c4e9a87ebe6e12298d011",
+              "questionId": "8ea90b744ccf4e9086e3c7572f33bae5",
+              "optionContent": "以下全部都是",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9e67454eaa624c90a7901285dfde51e5",
+              "questionId": "8ea90b744ccf4e9086e3c7572f33bae5",
+              "optionContent": "市场 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "5f6d27346b974b34a45ca4fad0d13deb",
+              "questionId": "8ea90b744ccf4e9086e3c7572f33bae5",
+              "optionContent": "劳动力",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2a138e92b9f843449d2b5fd1a8595055",
+              "questionId": "8ea90b744ccf4e9086e3c7572f33bae5",
+              "optionContent": "生产原料",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "90edf4d04e4644a5ae3b1c7eebca9636",
+          "questionTitle": "企业想法中的“销售什么产品和服务”指的是（  ） ",
+          "questionSolution": "答案：B\r\n企业想法中的“销售什么产品和服务”指的是买什么、要卖的东西从哪来、是买自己熟悉的还是不熟悉的",
+          "testQuestionAnswers": [
+            {
+              "id": "ba5c83ea3d61424a82956cc8192f37f1",
+              "questionId": "90edf4d04e4644a5ae3b1c7eebca9636",
+              "optionContent": "买什么",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f20c00a90b9548c595d4a1f7f775cae5",
+              "questionId": "90edf4d04e4644a5ae3b1c7eebca9636",
+              "optionContent": "全部都是",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "872215a5434b46a29a8bb2a491653893",
+              "questionId": "90edf4d04e4644a5ae3b1c7eebca9636",
+              "optionContent": "要卖的东西从哪来",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "0ab80ae9fbf74443bface86b211a1b00",
+              "questionId": "90edf4d04e4644a5ae3b1c7eebca9636",
+              "optionContent": "是买自己熟悉的还是不熟悉的",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "947a4c1c693b4b22b86da5f2f48be04a",
+          "questionTitle": "销售商从批发商购买现成的商品再通过转手卖给顾客而获利，是哪一种企业类型：（）",
+          "questionSolution": "答案：A\r\n解析：销售商从批发商购买现成的商品再通过转手卖给顾客而获利，是哪一种企业类型：（零售业）",
+          "testQuestionAnswers": [
+            {
+              "id": "45c3f201444b4065a51ea96939ca0cca",
+              "questionId": "947a4c1c693b4b22b86da5f2f48be04a",
+              "optionContent": "零售业",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "e29daf1151414496b8a764d6e2109d82",
+              "questionId": "947a4c1c693b4b22b86da5f2f48be04a",
+              "optionContent": "服务业  ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f16d75cf73144deeaa94b86c7a4b29e9",
+              "questionId": "947a4c1c693b4b22b86da5f2f48be04a",
+              "optionContent": "制造业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "9082aa45df18474fa12bb56cdbf33920",
+              "questionId": "947a4c1c693b4b22b86da5f2f48be04a",
+              "optionContent": "石油加工业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "94933c23c687449fbc135bf689e46e72",
+          "questionTitle": "营销策略的出发点（   ）",
+          "questionSolution": "答案：B\r\n营销策略的出发点消费者需要",
+          "testQuestionAnswers": [
+            {
+              "id": "a2ea44dc7f56426bae3cb065492fc46f",
+              "questionId": "94933c23c687449fbc135bf689e46e72",
+              "optionContent": "企业需要",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1568b2eca9b74113822d1ae74120cb54",
+              "questionId": "94933c23c687449fbc135bf689e46e72",
+              "optionContent": "消费者需要",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "1fdb2642273a4c26ae8fb42ae0ce3383",
+              "questionId": "94933c23c687449fbc135bf689e46e72",
+              "optionContent": "生产者需要",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d8a454ed1eb0410c92980b9b39632c9a",
+              "questionId": "94933c23c687449fbc135bf689e46e72",
+              "optionContent": "产品需要",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "953cab790bd44c5abdf9366efd2bc99b",
+          "questionTitle": "王女士由于工作原因，会接触到很多进口家具，由于进口关税高，家具价格平民百姓望尘莫及，于是王女士萌生自己开一家工作室，一定能做出和这些一样的产品，并且价格更低，王女士这种获取企业想法的方法属于：",
+          "questionSolution": "答案：B\r\n王女士由于工作原因，会接触到很多进口家具，由于进口关税高，家具价格平民百姓望尘莫及，于是王女士萌生自己开一家工作室，一定能做出和这些一样的产品，并且价格更低，王女士这种获取企业想法的方法属于调查你所处环境的进口替代品",
+          "testQuestionAnswers": [
+            {
+              "id": "ea3572835d0b425496843cb5059db4bd",
+              "questionId": "953cab790bd44c5abdf9366efd2bc99b",
+              "optionContent": "调查你所处环境的商品展销会",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "a6defdb1cc0d4c379f0935fd4a1a93ee",
+              "questionId": "953cab790bd44c5abdf9366efd2bc99b",
+              "optionContent": " 调查你所处环境的进口替代品",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "56348c86696a45e496f43f0229ea6729",
+              "questionId": "953cab790bd44c5abdf9366efd2bc99b",
+              "optionContent": "调查你所处环境的出版物",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ddd95107b4734123a3db19d3af6c4cd7",
+              "questionId": "953cab790bd44c5abdf9366efd2bc99b",
+              "optionContent": " 调查你所处环境的自然资源",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "96187cf4bd1642928a227ae72d9783f3",
+          "questionTitle": "创业意识培训第一步“评价你是否适合创业中”，不包括以下哪一小节？",
+          "questionSolution": "答案：B\r\n解析：创业意识培训第一步“评价你是否适合创业中”，不包括企业类型",
+          "testQuestionAnswers": [
+            {
+              "id": "b4e9299c556d4973b4440bf07cf40528",
+              "questionId": "96187cf4bd1642928a227ae72d9783f3",
+              "optionContent": "什么是企业",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "be6f849dac3843639a4633121538bd2c",
+              "questionId": "96187cf4bd1642928a227ae72d9783f3",
+              "optionContent": "企业类型",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "f5a56c8f0da942e0ad56f44fbe2c0955",
+              "questionId": "96187cf4bd1642928a227ae72d9783f3",
+              "optionContent": "从创业者角度分析自己",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b87fa3dd358a415f94fe849acb0226b3",
+              "questionId": "96187cf4bd1642928a227ae72d9783f3",
+              "optionContent": "评估你的财务状况",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "97f9442bec2743cf9b873eb175d44d0e",
+          "questionTitle": "以下哪项是测试企业构思的方法（）",
+          "questionSolution": "答案：B\r\n以下哪项是测试企业构思的方法SWOT分析法",
+          "testQuestionAnswers": [
+            {
+              "id": "c39e16a01c7548f596c8531d60901637",
+              "questionId": "97f9442bec2743cf9b873eb175d44d0e",
+              "optionContent": "4P方法  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "a769a01f4a8c41abac5d68d26c57c108",
+              "questionId": "97f9442bec2743cf9b873eb175d44d0e",
+              "optionContent": "SWOT分析法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "6b8083684b9f484992c8873a4777b892",
+              "questionId": "97f9442bec2743cf9b873eb175d44d0e",
+              "optionContent": "6∑方法  ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a7758b7fc11945aebbb1edd87a38bce3",
+              "questionId": "97f9442bec2743cf9b873eb175d44d0e",
+              "optionContent": "5S方法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "99d3e06d9b5a49ce841d0f56bfceab4a",
+          "questionTitle": "SWOT分析中的优势“S”是指（   ）。",
+          "questionSolution": "答案：C\r\n解析：SWOT分析中的优势“S”是指（ 创办企业的有利因素   ）。",
+          "testQuestionAnswers": [
+            {
+              "id": "1e2f3ff03f1947f3a257cfc20d6dafb0",
+              "questionId": "99d3e06d9b5a49ce841d0f56bfceab4a",
+              "optionContent": "创办企业不太擅长的方面",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1139245f659047719226ae616c4b5d40",
+              "questionId": "99d3e06d9b5a49ce841d0f56bfceab4a",
+              "optionContent": "周边存在的对你计划创办企业有利的事情",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7c260f49c7e94caf8c5712be28015b13",
+              "questionId": "99d3e06d9b5a49ce841d0f56bfceab4a",
+              "optionContent": "创办企业的有利因素  ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "00a9df3a6f374d578cc7feb728378782",
+              "questionId": "99d3e06d9b5a49ce841d0f56bfceab4a",
+              "optionContent": "周边存在的对你计划创办企业不利的事情",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "99d5caa48f264f8ebc1c374c489dfa58",
+          "questionTitle": "在创业的初创阶段，创业者最主要的需求首先是解决（   ）问题。",
+          "questionSolution": "答案：C\r\n解析：在创业的初创阶段，创业者最主要的需求首先是解决（ 生存    ）问题。",
+          "testQuestionAnswers": [
+            {
+              "id": "acdae13f964740a198afe5b16034a3fe",
+              "questionId": "99d5caa48f264f8ebc1c374c489dfa58",
+              "optionContent": "资金",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "6a55d455496f4406ae1c881628b05718",
+              "questionId": "99d5caa48f264f8ebc1c374c489dfa58",
+              "optionContent": "项目  ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8e87c32535704787a97d9254c09cf3b1",
+              "questionId": "99d5caa48f264f8ebc1c374c489dfa58",
+              "optionContent": "生存",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "fa5f52ee69d74944adbc3ad2579a04b6",
+              "questionId": "99d5caa48f264f8ebc1c374c489dfa58",
+              "optionContent": "技术",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "99ea1d632ac341ee8ae908f35192e915",
+          "questionTitle": "开一家杂货店要考虑（   ）",
+          "questionSolution": "答案：D\r\n解析：开一家杂货店要考虑（ 是否雷同 、产品质量、.产品价格    ）",
+          "testQuestionAnswers": [
+            {
+              "id": "ed0af2da29854fcca0e98e74ee861360",
+              "questionId": "99ea1d632ac341ee8ae908f35192e915",
+              "optionContent": "是否雷同 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "e6f9b26520e14f91b94e9f08e0621429",
+              "questionId": "99ea1d632ac341ee8ae908f35192e915",
+              "optionContent": ".产品质量 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "244f5cf6dbc041ef9c0f90d095ad5c78",
+              "questionId": "99ea1d632ac341ee8ae908f35192e915",
+              "optionContent": "产品价格 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "4d02ef782a574c1a8f5a0fc5c2318cf6",
+              "questionId": "99ea1d632ac341ee8ae908f35192e915",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "9a9f10029b5c458286235712e7e49b3e",
+          "questionTitle": "选择开办生产制造业，应该考虑以下哪些因素：",
+          "questionSolution": "答案：A\r\n选择开办生产制造业，应该考虑以下哪些因素市场、劳动力、生产原料 ",
+          "testQuestionAnswers": [
+            {
+              "id": "0bd5f2519b854ef0a03036a9f7b1870b",
+              "questionId": "9a9f10029b5c458286235712e7e49b3e",
+              "optionContent": " 全部都是 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "70c8319a370241beadcb6cc196132e3d",
+              "questionId": "9a9f10029b5c458286235712e7e49b3e",
+              "optionContent": "市场",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "23053c0fd28e4c2f8a4af7709f63093a",
+              "questionId": "9a9f10029b5c458286235712e7e49b3e",
+              "optionContent": "劳动力 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "feddf34f9e2f4b7cbf14c48836ef39bd",
+              "questionId": "9a9f10029b5c458286235712e7e49b3e",
+              "optionContent": "生产原料 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "9c30a813796b41cdb67aed8eafddd5ea",
+          "questionTitle": "什么样的人群属于关键信息提供者？",
+          "questionSolution": "答案：A\r\n有经验的和有资源的的人群属于关键信息提供者",
+          "testQuestionAnswers": [
+            {
+              "id": "cd3bbcd59c1744ef8d0515a55d62aa51",
+              "questionId": "9c30a813796b41cdb67aed8eafddd5ea",
+              "optionContent": " 有经验的和有资源的 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "f6a574de1aff41fe8ff3b36abbf25c29",
+              "questionId": "9c30a813796b41cdb67aed8eafddd5ea",
+              "optionContent": "有专业特长的和有经验的",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "0a610879de9f44c491cd3748c17ce380",
+              "questionId": "9c30a813796b41cdb67aed8eafddd5ea",
+              "optionContent": "有管理能力的和有经验的",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "9e9b5a654a434363a12f05b83a573564",
+              "questionId": "9c30a813796b41cdb67aed8eafddd5ea",
+              "optionContent": "有资源的和有专业特长的",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "9e40bd89ea7242908f58b4a6a248a2d6",
+          "questionTitle": "房屋装修、邮件快递、家政服务、法律咨询等企业应属于（   ）",
+          "questionSolution": "答案：B\r\n解析：房屋装修、邮件快递、家政服务、法律咨询等企业应属于（  服务企业 ）",
+          "testQuestionAnswers": [
+            {
+              "id": "3afb14cca2bb4fe6a4990226a37a2a1a",
+              "questionId": "9e40bd89ea7242908f58b4a6a248a2d6",
+              "optionContent": "贸易企业",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "07357407d3dc4f6d90e51fd4bfa3f103",
+              "questionId": "9e40bd89ea7242908f58b4a6a248a2d6",
+              "optionContent": "服务企业",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "8d49a89269de482aa860004f711a35a2",
+              "questionId": "9e40bd89ea7242908f58b4a6a248a2d6",
+              "optionContent": "制造企业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "08238b8b107846e78fbc3fa357e20587",
+              "questionId": "9e40bd89ea7242908f58b4a6a248a2d6",
+              "optionContent": "农林牧渔业  ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "9f691197acbd4656abd87de86efa6c2c",
+          "questionTitle": "下面的说法符合市场销售规则的是（  ）",
+          "questionSolution": "答案：D\r\n下面的说法符合市场销售规则的是做熟不做生",
+          "testQuestionAnswers": [
+            {
+              "id": "1a9c9e1625304c62b0c064ccaf232474",
+              "questionId": "9f691197acbd4656abd87de86efa6c2c",
+              "optionContent": "做大不做小",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1aa53488797d4c28a2ed4ef683d31e11",
+              "questionId": "9f691197acbd4656abd87de86efa6c2c",
+              "optionContent": "做生不做熟",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "d60bca2de467494eadf42969a35907bb",
+              "questionId": "9f691197acbd4656abd87de86efa6c2c",
+              "optionContent": ".做小不做大",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "35efdb9f69dd42a19b33c718f2e4a998",
+              "questionId": "9f691197acbd4656abd87de86efa6c2c",
+              "optionContent": "做熟不做生",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "a0652928b196467ebf48bae5b7726242",
+          "questionTitle": " 陈女士试图找到一个好的企业想法，于是她针对自己所居住的小镇，调查了当地的工业区、集市和商业中心，她的这种产生企业想法的办法属于",
+          "questionSolution": "答案：C\r\n 陈女士试图找到一个好的企业想法，于是她针对自己所居住的小镇，调查了当地的工业区、集市和商业中心，她的这种产生企业想法的办法属于调查你居住地区的企业",
+          "testQuestionAnswers": [
+            {
+              "id": "4b38f1310478478393607a4f09836ec6",
+              "questionId": "a0652928b196467ebf48bae5b7726242",
+              "optionContent": " 调查你所处环境的自然资源",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "e5aed98f43474ff582fc1c8e4abe0d9c",
+              "questionId": "a0652928b196467ebf48bae5b7726242",
+              "optionContent": "一般性头脑风暴法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "6ba73522963e4cd89888d18184810c4c",
+              "questionId": "a0652928b196467ebf48bae5b7726242",
+              "optionContent": "调查你居住地区的企业",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "c03c606c57604b318ff89527d162e56f",
+              "questionId": "a0652928b196467ebf48bae5b7726242",
+              "optionContent": "结构性头脑风暴法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "a0653e8d4ea045c0966b2e8056f13a0b",
+          "questionTitle": "（  ）类型的企业提供的产品是无形的。",
+          "questionSolution": "答案：C\r\n（  服务）类型的企业提供的产品是无形的。",
+          "testQuestionAnswers": [
+            {
+              "id": "1cef895bf6124e2a9f42591781c8f42e",
+              "questionId": "a0653e8d4ea045c0966b2e8056f13a0b",
+              "optionContent": "贸易 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "722f183842e24ef4a5d8c18960c5a70b",
+              "questionId": "a0653e8d4ea045c0966b2e8056f13a0b",
+              "optionContent": "制造",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "0a015272d0ca42bc8c4c33591fdb258f",
+              "questionId": "a0653e8d4ea045c0966b2e8056f13a0b",
+              "optionContent": "服务",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "1ddee936f76e43029edaaa82e0aadcf4",
+              "questionId": "a0653e8d4ea045c0966b2e8056f13a0b",
+              "optionContent": "农林牧渔",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "a06bc8159a0b4b7e8be9088a46e1d0ba",
+          "questionTitle": "通常可以使用头脑风暴法、调查你居住地区的企业、调查你所处的环境和利用（  ）等方法来产生你的企业想法。",
+          "questionSolution": "答案：D\r\n解析：通常可以使用头脑风暴法、调查你居住地区的企业、调查你所处的环境和利用（ 各种问题）等方法来产生你的企业想法。",
+          "testQuestionAnswers": [
+            {
+              "id": "97128934326c4aea8bccce437d27b20e",
+              "questionId": "a06bc8159a0b4b7e8be9088a46e1d0ba",
+              "optionContent": "年龄",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "edefdf918e024179a6aa4de359863607",
+              "questionId": "a06bc8159a0b4b7e8be9088a46e1d0ba",
+              "optionContent": "经验",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7bb7c52ca5064f53810d571e2e95d696",
+              "questionId": "a06bc8159a0b4b7e8be9088a46e1d0ba",
+              "optionContent": "技能",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "db48072c2d8d40a1bea05ccb605a786c",
+              "questionId": "a06bc8159a0b4b7e8be9088a46e1d0ba",
+              "optionContent": "各种问题",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ce45875517d247fda445748b8560377e",
+          "questionTitle": "管理大师汤姆.彼得斯认为：商业届变化无常（）才是唯一的生存策略",
+          "questionSolution": "答案：D\r\n管理大师汤姆.彼得斯认为：商业届变化无常持续创新才是唯一的生存策略",
+          "testQuestionAnswers": [
+            {
+              "id": "fcdbd7d9705a4436a4c622db1c3d64ca",
+              "questionId": "ce45875517d247fda445748b8560377e",
+              "optionContent": "以变应变",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d4d0eb8bc0a3408a89a418922dbb56e2",
+              "questionId": "ce45875517d247fda445748b8560377e",
+              "optionContent": "以不变应万变",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "353da2402ddb462dbd2952124604487c",
+              "questionId": "ce45875517d247fda445748b8560377e",
+              "optionContent": "紧跟他人",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "6139429e72bb46b3bf2d6c34c1161654",
+              "questionId": "ce45875517d247fda445748b8560377e",
+              "optionContent": "持续创新",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        }
+      ],
+      "questionType": "单项选择题"
+    },
+    {
+      "question": [
+        {
+          "id": "557a0a0d80ed4ab3ba54835f85380b69",
+          "questionTitle": "从一个词语或题目开始的进行发散性思维的方法是结构性头脑风暴法。",
+          "questionSolution": "从一个词语或题目开始的进行发散性思维的方法不是结构性头脑风暴法。",
+          "testQuestionAnswers": [
+            {
+              "id": "19b51301219c4e1d81c8a5655446b427",
+              "questionId": "557a0a0d80ed4ab3ba54835f85380b69",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "14ab77ad91f6485696c7c7e2ff027dff",
+              "questionId": "557a0a0d80ed4ab3ba54835f85380b69",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "58e6d9dcaff74c36ba489a19b813c103",
+          "questionTitle": "企业的创办是艰难的，迅速致富的奢望是不现实的",
+          "questionSolution": "企业的创办是艰难的，迅速致富的奢望是不现实的",
+          "testQuestionAnswers": [
+            {
+              "id": "faa01e99e511472596503615d447c4dd",
+              "questionId": "58e6d9dcaff74c36ba489a19b813c103",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "70777d5ddee14aefae6714f2ed3f8e7c",
+              "questionId": "58e6d9dcaff74c36ba489a19b813c103",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "59f2aaf5c616448483319e6bb1d0e946",
+          "questionTitle": "活页纸是唯一实地调研访谈法的工具。 ",
+          "questionSolution": "活页纸不是唯一实地调研访谈法的工具。 ",
+          "testQuestionAnswers": [
+            {
+              "id": "5efa9e03ccce4574a81b98bb532e85e8",
+              "questionId": "59f2aaf5c616448483319e6bb1d0e946",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "010a1b5681e84430be968394c2ea8da9",
+              "questionId": "59f2aaf5c616448483319e6bb1d0e946",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "5fdde32e7d06421b96e4e763b293d175",
+          "questionTitle": "产生企业好的想法在分析确认时不用实地调研。",
+          "questionSolution": "产生企业好的想法在分析确认时不能不实地调研。",
+          "testQuestionAnswers": [
+            {
+              "id": "c463bdd93ded46aeaa3f5f6f069a2228",
+              "questionId": "5fdde32e7d06421b96e4e763b293d175",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "e5b71df38c214af99d29dda385026671",
+              "questionId": "5fdde32e7d06421b96e4e763b293d175",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6009bf45447d474f818033950af06c61",
+          "questionTitle": "所有人经过学习都可以创办企业。",
+          "questionSolution": "不是所有人经过学习都可以创办企业。",
+          "testQuestionAnswers": [
+            {
+              "id": "a00d3d528e42481b844370a984ca9c63",
+              "questionId": "6009bf45447d474f818033950af06c61",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "6a61768b800041f8bbdb08c074465c5e",
+              "questionId": "6009bf45447d474f818033950af06c61",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6013f2b5b72541549d8c876bbdfe6e13",
+          "questionTitle": "潜在顾客是实地调研了解对象之一。",
+          "questionSolution": "潜在顾客必须是实地调研了解对象之一。",
+          "testQuestionAnswers": [
+            {
+              "id": "31ec30c5945e4a9a8e49b2e6965203ad",
+              "questionId": "6013f2b5b72541549d8c876bbdfe6e13",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "29bda42149034c198ffc46e4caa4b197",
+              "questionId": "6013f2b5b72541549d8c876bbdfe6e13",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "62e466a5466b4ef1bd6885ba841a4e80",
+          "questionTitle": "人们遇到的问题和未满足的需要为新的商机提供了线索。优秀的创业者善于从他人的问题中发现商机。",
+          "questionSolution": "人们遇到的问题和未满足的需要为新的商机提供了线索。优秀的创业者善于从他人的问题中发现商机。",
+          "testQuestionAnswers": [
+            {
+              "id": "7398499d3d4e44309ff95f5e2e71713c",
+              "questionId": "62e466a5466b4ef1bd6885ba841a4e80",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "55a3e98a1d194ae0b90da03ae0d6738e",
+              "questionId": "62e466a5466b4ef1bd6885ba841a4e80",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "65e1dc2ae1674f4cbc18055a19212eb9",
+          "questionTitle": "服务业对从业人员的要求是：性格开朗、有耐心、讲诚信、善于交际、处理各种矛盾。",
+          "questionSolution": "服务业对从业人员的要求一定是：性格开朗、有耐心、讲诚信、善于交际、处理各种矛盾。",
+          "testQuestionAnswers": [
+            {
+              "id": "b1b3f00f390b4502a6502f9eb6af3f29",
+              "questionId": "65e1dc2ae1674f4cbc18055a19212eb9",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "a0fd2998fc6b4bae8ae1375510e7c757",
+              "questionId": "65e1dc2ae1674f4cbc18055a19212eb9",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "68fbfa6cd7f14b8f9cd1bc1693affad0",
+          "questionTitle": "成功的企业既要盈利还要满足广大顾客的需求",
+          "questionSolution": "成功的企业既要盈利还要满足广大顾客的需求",
+          "testQuestionAnswers": [
+            {
+              "id": "a526543f89e14afba1a82968edaac793",
+              "questionId": "68fbfa6cd7f14b8f9cd1bc1693affad0",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "e2f89136f4924c93840f9fc92a591457",
+              "questionId": "68fbfa6cd7f14b8f9cd1bc1693affad0",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "69b782b69ff94983ae1b2618b9fc40f7",
+          "questionTitle": "失业人员可以参加GYB的培训课程。",
+          "questionSolution": "失业人员可以参加GYB的培训课程。",
+          "testQuestionAnswers": [
+            {
+              "id": "fcea32802a90464f93ebc9c13290046e",
+              "questionId": "69b782b69ff94983ae1b2618b9fc40f7",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c44571c08fbe4ebe82c4d4d2997e39b0",
+              "questionId": "69b782b69ff94983ae1b2618b9fc40f7",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6a47268179234df4a0297cd41dcf1911",
+          "questionTitle": "小企业创办原则：志向要大，计算要准、规模要小，准备要充分。",
+          "questionSolution": "小企业创办原则不是志向要大，计算要准、规模要小，准备要充分。",
+          "testQuestionAnswers": [
+            {
+              "id": "9053951a44984ed6b002e82e209509ee",
+              "questionId": "6a47268179234df4a0297cd41dcf1911",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "01dcfe6e374e4e5693180d8003f61396",
+              "questionId": "6a47268179234df4a0297cd41dcf1911",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6b635df45b2a4c94a281235130cbf483",
+          "questionTitle": "你应该花更多的时间盘算开办企业的任何具体活动而不是把时间花在斟酌创办企业的构思",
+          "questionSolution": "你应该花更多的时间斟酌创办企业的构思而不是把时间花在开办企业的任何具体活动",
+          "testQuestionAnswers": [
+            {
+              "id": "46d5ab77f4c14a4fb84c822ee6d80391",
+              "questionId": "6b635df45b2a4c94a281235130cbf483",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "34c5a02ae756479cb915c9f479f9f4f0",
+              "questionId": "6b635df45b2a4c94a281235130cbf483",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6c49c57bbc504b25b91a87994cbb51cb",
+          "questionTitle": "产生企业想法的方法有：头脑风暴法、冥思苦想法、调查创业地区的企业、调查所处环境、利用经验等五种。",
+          "questionSolution": "产生企业想法的方法不是只有：头脑风暴法、冥思苦想法、调查创业地区的企业、调查所处环境、利用经验等五种。",
+          "testQuestionAnswers": [
+            {
+              "id": "4811f6b001eb46349fc29a127b1e89f2",
+              "questionId": "6c49c57bbc504b25b91a87994cbb51cb",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d0018044f5534e438fade82e0c58f559",
+              "questionId": "6c49c57bbc504b25b91a87994cbb51cb",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6d5788df51c94ba6b38bf835fc54ac33",
+          "questionTitle": "GYB的培训对象是潜在的企业主。",
+          "questionSolution": "GYB的培训对象一定是潜在的企业主。",
+          "testQuestionAnswers": [
+            {
+              "id": "065c56c669ab41b3b9ae23446e0408f8",
+              "questionId": "6d5788df51c94ba6b38bf835fc54ac33",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "8cd6998824b244428656737bc62d369a",
+              "questionId": "6d5788df51c94ba6b38bf835fc54ac33",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6f41573fa9814d47836d480ff551b917",
+          "questionTitle": "微小型企业在开办前企业主不必亲自做市场调查和制定创业计划,只要出钱可以请人代劳",
+          "questionSolution": "微小型企业不是在开办前企业主不必亲自做市场调查和制定创业计划,只要出钱可以请人代劳的",
+          "testQuestionAnswers": [
+            {
+              "id": "a04154343f0742d680f4efc7dd78bca6",
+              "questionId": "6f41573fa9814d47836d480ff551b917",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "791174ee56cf4cf9bcbcd4ab1c6c0730",
+              "questionId": "6f41573fa9814d47836d480ff551b917",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "6fc505e3542048cdb551932ddcbbaa40",
+          "questionTitle": "要想使企业成功，必须对企业的每个方面进行分析，以求在每个方面所提供的产品或服务都是最好的。",
+          "questionSolution": "要想使企业成功，必须对企业的每个方面进行分析，以求在每个方面所提供的产品或服务都是最好的。",
+          "testQuestionAnswers": [
+            {
+              "id": "3de4b0d5113d48c8b01cedc0bfaeca06",
+              "questionId": "6fc505e3542048cdb551932ddcbbaa40",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "331f7a9d2d4b43c5b7748bc94335513e",
+              "questionId": "6fc505e3542048cdb551932ddcbbaa40",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "719d4149784a4d1380073cb4c0133918",
+          "questionTitle": "五金店、海产干货档、水果批发零售店、保洁公司等属于贸易企业。",
+          "questionSolution": "五金店、海产干货档、水果批发零售店、保洁公司等有些不属于贸易企业。",
+          "testQuestionAnswers": [
+            {
+              "id": "d89d6df873a343c69c29adc9e0b0b736",
+              "questionId": "719d4149784a4d1380073cb4c0133918",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "764cfff9846a4f7fb728de45d4ea0839",
+              "questionId": "719d4149784a4d1380073cb4c0133918",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "72aae67a23ab4dcc859b22f2ce0a4301",
+          "questionTitle": "如果你用自己的积蓄创办企业，为确保创办成功，必须把自己所有的钱都投进去。",
+          "questionSolution": "如果你用自己的积蓄创办企业，为确保创办成功，不必把自己所有的钱都投进去。",
+          "testQuestionAnswers": [
+            {
+              "id": "7b6a39d1a5d045c9b28ad02938144e35",
+              "questionId": "72aae67a23ab4dcc859b22f2ce0a4301",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "446d904998db4461a62ae5523d7f6f43",
+              "questionId": "72aae67a23ab4dcc859b22f2ce0a4301",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "7a319aef41874a94a7920b6299356acb",
+          "questionTitle": "“对象准确、样本合适”属于实地调研访谈法的技巧。",
+          "questionSolution": "“对象准确、样本合适”一定是属于实地调研访谈法的技巧。",
+          "testQuestionAnswers": [
+            {
+              "id": "da3561f20ae24e3badebbd4fb4f787d3",
+              "questionId": "7a319aef41874a94a7920b6299356acb",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "cfa4ca0ce89742dc96f0ab7ef07e8b55",
+              "questionId": "7a319aef41874a94a7920b6299356acb",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "833515364c474e729c7130f465676248",
+          "questionTitle": "为了能在自己选定的日子开业，有些准备工作来不及做，就放到以后再说吧",
+          "questionSolution": "为了能在自己选定的日子开业，有些准备工作来不及做，不能放到以后再说吧",
+          "testQuestionAnswers": [
+            {
+              "id": "00ac9273ca7e48d8b72aad680f5e25be",
+              "questionId": "833515364c474e729c7130f465676248",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "50efc82deed8411e99d3f493e5368f06",
+              "questionId": "833515364c474e729c7130f465676248",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "84b6bf8ac75941c2bde46763c5206bcf",
+          "questionTitle": "你计划创办企业时，不要盲目的想做大做强，而是先要考虑如何保证企业生存。",
+          "questionSolution": "你计划创办企业时，不要盲目的想做大做强，而是先要考虑如何保证企业生存。",
+          "testQuestionAnswers": [
+            {
+              "id": "8299bdf9c1cf43ecac87949f9f4484a2",
+              "questionId": "84b6bf8ac75941c2bde46763c5206bcf",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "31fe66c4f4164570b8334242e58f0cde",
+              "questionId": "84b6bf8ac75941c2bde46763c5206bcf",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "862ce380c7124d56a2afcffcb3a62d2f",
+          "questionTitle": "如果你的企业是服务型企业，那么所提供的服务就是你的产品",
+          "questionSolution": "如果你的企业是服务型企业，那么所提供的服务就是你的产品",
+          "testQuestionAnswers": [
+            {
+              "id": "26b65b958df649e2accb2164eaeec0cc",
+              "questionId": "862ce380c7124d56a2afcffcb3a62d2f",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "90b98a2954144944b0000e48ed12e290",
+              "questionId": "862ce380c7124d56a2afcffcb3a62d2f",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "87e7c406b5f241d785f094d8635f3397",
+          "questionTitle": "调查你所处的环境，是为了调查所处环境的机会。",
+          "questionSolution": "调查你所处的环境，一定是为了调查所处环境的机会。",
+          "testQuestionAnswers": [
+            {
+              "id": "5d95b61ed53c46c8b67b21d2d2998898",
+              "questionId": "87e7c406b5f241d785f094d8635f3397",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "ec337757ba294a0fb3a2472213678050",
+              "questionId": "87e7c406b5f241d785f094d8635f3397",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        }
+      ],
+      "questionType": "是非题"
+    }
+  ]
+}

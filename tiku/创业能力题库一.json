@@ -1,0 +1,3815 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "questionBank": [
+    {
+      "question": [
+        {
+          "id": "d99a229172a24d939638d96b0f8328e5",
+          "questionTitle": "按照在企业经营过程中的周转情况，可以把资产分为固定资产和(     )",
+          "questionSolution": "答案：D\r\n按照在企业经营过程中的周转情况，可以把资产分为固定资产和流动资产",
+          "testQuestionAnswers": [
+            {
+              "id": "eb353d5edc1646189c7189915a81e608",
+              "questionId": "d99a229172a24d939638d96b0f8328e5",
+              "optionContent": "有形资产 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "0769a899e26645db9cf727a16ed4d02d",
+              "questionId": "d99a229172a24d939638d96b0f8328e5",
+              "optionContent": "无形资产",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "30d817b986c94c308b164cf4e8e94d45",
+              "questionId": "d99a229172a24d939638d96b0f8328e5",
+              "optionContent": "实物资产",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ad85975556c849b3a99cabe9edf02ee8",
+              "questionId": "d99a229172a24d939638d96b0f8328e5",
+              "optionContent": "流动资产",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "da85825ff77243bda71302a25e5a1ac7",
+          "questionTitle": "下列各项中，不会引起企业预提费用增加的项目是(    )",
+          "questionSolution": "答案：A\r\n解析：下列各项中，不会引起企业预提费用增加的项目是成本费用",
+          "testQuestionAnswers": [
+            {
+              "id": "0e7a4355d0e2466c9924902c934808ed",
+              "questionId": "da85825ff77243bda71302a25e5a1ac7",
+              "optionContent": "成本费用",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "334d9c4d769f4bd5ac33dd76f019714f",
+              "questionId": "da85825ff77243bda71302a25e5a1ac7",
+              "optionContent": "财务费用",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "968047c550f04389ae8a55f331aceb9d",
+              "questionId": "da85825ff77243bda71302a25e5a1ac7",
+              "optionContent": "管理费用",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "f4d1c732044245428cd78720c3e63ea8",
+              "questionId": "da85825ff77243bda71302a25e5a1ac7",
+              "optionContent": "经营费用",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "daf89ac5ce774eed957d2123cdb42ed5",
+          "questionTitle": "企业是指从事生产、流通、服务等经济活动，以产品或劳务满足社会需要，并以获取盈利为目的，(     )，实行自主经营、自负盈亏的经济组织",
+          "questionSolution": "答案：D\r\n、企业是指从事生产、流通、服务等经济活动，以产品或劳务满足社会需要，并以获取盈利为目的，依法设立，实行自主经营、自负盈亏的经济组织",
+          "testQuestionAnswers": [
+            {
+              "id": "9fd9709b6efe44cd80b7985a9a838429",
+              "questionId": "daf89ac5ce774eed957d2123cdb42ed5",
+              "optionContent": "上级批准设立  ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "357e6756214b4438aed81d3f2181c028",
+              "questionId": "daf89ac5ce774eed957d2123cdb42ed5",
+              "optionContent": "具有固定的经营场所",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f80980db009e4e4ab589cd52527e932e",
+              "questionId": "daf89ac5ce774eed957d2123cdb42ed5",
+              "optionContent": "具有完善的组织机构",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "7efa9a07b59346f39bc345967103291a",
+              "questionId": "daf89ac5ce774eed957d2123cdb42ed5",
+              "optionContent": "依法设立",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dbb10b4ca1944a31a9559c7b107781cc",
+          "questionTitle": "制定价格的主要方法有(    )",
+          "questionSolution": "答案：A\r\n解析：制定价格的主要方法有成本加价法和竟争加价法。",
+          "testQuestionAnswers": [
+            {
+              "id": "03f6a7490f0141eb9094d1cfecc364f0",
+              "questionId": "dbb10b4ca1944a31a9559c7b107781cc",
+              "optionContent": "成本加价法和竟争加价法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "48882506fd794262b2cac529715e0a16",
+              "questionId": "dbb10b4ca1944a31a9559c7b107781cc",
+              "optionContent": "利润加价法和费用价格法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "368e5a63b8144bb8937d96ff5d731790",
+              "questionId": "dbb10b4ca1944a31a9559c7b107781cc",
+              "optionContent": "利润加价法和成本价价法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2ce9cb1bbbdc489a8ff7db373ec9722c",
+              "questionId": "dbb10b4ca1944a31a9559c7b107781cc",
+              "optionContent": "费用价格法和竟争加价法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dbe93f32fe684fea87b1e8652a82a3f5",
+          "questionTitle": "某小吃店总投资额是24000元，每月盈利2000元，如果经营顺利，则收回投资的时间是(    )",
+          "questionSolution": "答案：B\r\n某小吃店总投资额是24000元，每月盈利2000元，如果经营顺利，则收回投资的时间是1年",
+          "testQuestionAnswers": [
+            {
+              "id": "6454f1d25bb44277a30886b570ef5481",
+              "questionId": "dbe93f32fe684fea87b1e8652a82a3f5",
+              "optionContent": "l0个月",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "7bd4b7bd7c5f46f4a96c5912fd919d20",
+              "questionId": "dbe93f32fe684fea87b1e8652a82a3f5",
+              "optionContent": "1年",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "8a74e23ca138411899a644e4f60eeefc",
+              "questionId": "dbe93f32fe684fea87b1e8652a82a3f5",
+              "optionContent": "2年 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "117d4348ce7d43248aa7b0fe9367b261",
+              "questionId": "dbe93f32fe684fea87b1e8652a82a3f5",
+              "optionContent": "3年",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dbf931ffdc7d4daaacda67d4c3154af3",
+          "questionTitle": "在招聘录取环节，业主应该向（   ）发通知,这是一种良好的职业习惯，不管他们是否被录取",
+          "questionSolution": "答案：A\r\n解析：在招聘录取环节，业主应该向所有的面试人员发通知,这是一种良好的职业习惯，不管他们是否被录取",
+          "testQuestionAnswers": [
+            {
+              "id": "a4f48f78568a4066a7a6f6beb5a808f0",
+              "questionId": "dbf931ffdc7d4daaacda67d4c3154af3",
+              "optionContent": "所有的面试人员",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "d29814118c14403c83c03934780839ce",
+              "questionId": "dbf931ffdc7d4daaacda67d4c3154af3",
+              "optionContent": "被录取的面试人员",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "68f083a474234ca0b352d4e71edf8145",
+              "questionId": "dbf931ffdc7d4daaacda67d4c3154af3",
+              "optionContent": "未被录取的面试人员",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "efcc6480fcca4f8fb16f42ebddb6d182",
+              "questionId": "dbf931ffdc7d4daaacda67d4c3154af3",
+              "optionContent": "参加复试的人员",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dc05b2679b45465b93467b2d1776b4d5",
+          "questionTitle": "以下哪种价格形式不属于差别定价(   )",
+          "questionSolution": "答案：D\r\n对大量购买的顾客所给予的优惠不属于差别定价",
+          "testQuestionAnswers": [
+            {
+              "id": "55b6fd675c14496c9410c7c2d14f7d47",
+              "questionId": "dc05b2679b45465b93467b2d1776b4d5",
+              "optionContent": "公园门票对某些社会成员给予优惠",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "58058e28166641a0955cffd66da37848",
+              "questionId": "dc05b2679b45465b93467b2d1776b4d5",
+              "optionContent": "对不同花色、款式的同种商品所定的价格不同",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e8e21b8eb23249749580b29257ae0219",
+              "questionId": "dc05b2679b45465b93467b2d1776b4d5",
+              "optionContent": "剧院里不同位置的座位票价不同",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2e6a6cc5e5e24c6782b938789badb432",
+              "questionId": "dc05b2679b45465b93467b2d1776b4d5",
+              "optionContent": "对大量购买的顾客所给予的优惠",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dd43fea177c84cf29cd7ab574761a52b",
+          "questionTitle": "预测某企业的年营业额是100万元，毛利率25%，年管理成本l2万元，则年利润率为(   )",
+          "questionSolution": "答案：D\r\n预测某企业的年营业额是100万元，毛利率25%，年管理成本l2万元，则年利润率为13%",
+          "testQuestionAnswers": [
+            {
+              "id": "2ce67728a6444c5a8ff7deead9ac8089",
+              "questionId": "dd43fea177c84cf29cd7ab574761a52b",
+              "optionContent": "25%",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b808889a1b5f440ebf0218e5087f20a3",
+              "questionId": "dd43fea177c84cf29cd7ab574761a52b",
+              "optionContent": "12% ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "1b88f24f7f9e486280904d3a402d1596",
+              "questionId": "dd43fea177c84cf29cd7ab574761a52b",
+              "optionContent": "15%",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "09de182a19414762a1d44658a545c25a",
+              "questionId": "dd43fea177c84cf29cd7ab574761a52b",
+              "optionContent": "13%",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dd8377c38e1e40e799d8b16efd779e3a",
+          "questionTitle": "市场调查的方式中，（）是通过发放书面问卷的方式，采集顾客的信息，分析研究",
+          "questionSolution": "答案：A\r\n解析：市场调查的方式中，问卷调查是通过发放书面问卷的方式，采集顾客的信息，分析研究",
+          "testQuestionAnswers": [
+            {
+              "id": "18494b3dc0374dbb9c58652d32d27f27",
+              "questionId": "dd8377c38e1e40e799d8b16efd779e3a",
+              "optionContent": "问卷调查",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "df387c0c27584010a88506b43f75e2a6",
+              "questionId": "dd8377c38e1e40e799d8b16efd779e3a",
+              "optionContent": "行业信息",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "b29cb672c50d412e833b7ad877cb6b74",
+              "questionId": "dd8377c38e1e40e799d8b16efd779e3a",
+              "optionContent": "抽样访问",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "7d0bdcda751747b6a6ac40a5cffd165a",
+              "questionId": "dd8377c38e1e40e799d8b16efd779e3a",
+              "optionContent": "市场观察",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ddf26fb11c774ef1ba00dcd32405bb98",
+          "questionTitle": "（   ）是企业的灵魂和核心",
+          "questionSolution": "答案：A\r\n解析：业主是企业的灵魂和核心",
+          "testQuestionAnswers": [
+            {
+              "id": "f84a2a12991a4635be66bfc7aae89f7f",
+              "questionId": "ddf26fb11c774ef1ba00dcd32405bb98",
+              "optionContent": "业主",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "19ef6eb0663b4e78a9500f8006e87803",
+              "questionId": "ddf26fb11c774ef1ba00dcd32405bb98",
+              "optionContent": "企业合伙人",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "bbd1653c12a04af69dfc42d98cf04256",
+              "questionId": "ddf26fb11c774ef1ba00dcd32405bb98",
+              "optionContent": "员工",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "acf7673f3b68420ba2396c2633aab123",
+              "questionId": "ddf26fb11c774ef1ba00dcd32405bb98",
+              "optionContent": "企业顾问",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "de24abe079fb44db847abe733d46fbd3",
+          "questionTitle": "教育附加费以（   ）为税基，缴纳（   ）",
+          "questionSolution": "答案：A\r\n教育附加费以流转税为税基，缴纳3%",
+          "testQuestionAnswers": [
+            {
+              "id": "5f66aaa3786a4f3ba8e1a23f663bc895",
+              "questionId": "de24abe079fb44db847abe733d46fbd3",
+              "optionContent": "流转税；3%",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "f092d335b55a49eda85b6dd736bdd6c4",
+              "questionId": "de24abe079fb44db847abe733d46fbd3",
+              "optionContent": "流转税；1%",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "0b3e41bde20d40488548f734fe07324c",
+              "questionId": "de24abe079fb44db847abe733d46fbd3",
+              "optionContent": "增值税；3%",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "c4cc1cfc838447d386c1452f7affa2f5",
+              "questionId": "de24abe079fb44db847abe733d46fbd3",
+              "optionContent": "增值税；1%",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dfafb21ed9544cb18f10fa2a5ac7e517",
+          "questionTitle": "最关心企业盈利能力和利润分配政策的会计报表使用者是(   )",
+          "questionSolution": "答案：C\r\n解析：最关心企业盈利能力和利润分配政策的会计报表使用者是企业职工。",
+          "testQuestionAnswers": [
+            {
+              "id": "742ce2f19f4e4962bab3331e15347d81",
+              "questionId": "dfafb21ed9544cb18f10fa2a5ac7e517",
+              "optionContent": "投资者",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f698a0692811408587500adf75b164a6",
+              "questionId": "dfafb21ed9544cb18f10fa2a5ac7e517",
+              "optionContent": "货物供应商",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "4a48a6b4c81d4f709cd620ba92e6f2aa",
+              "questionId": "dfafb21ed9544cb18f10fa2a5ac7e517",
+              "optionContent": "企业职工",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "1dca49b7d3a84dd7912d83b8ae374e6b",
+              "questionId": "dfafb21ed9544cb18f10fa2a5ac7e517",
+              "optionContent": "债权人",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dfe3d639fd294fb986b448bce3a7f306",
+          "questionTitle": "促销方法选择一般要思考以下几个要素：产品类型、顾客认识、（  ）",
+          "questionSolution": "答案：A\r\n促销方法选择一般要思考以下几个要素：产品类型、顾客认识、产品生命周期",
+          "testQuestionAnswers": [
+            {
+              "id": "69b0d1d4c48e4ff4af47ca5809a985ec",
+              "questionId": "dfe3d639fd294fb986b448bce3a7f306",
+              "optionContent": "产品生命周期 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "3be12e2e9c784be486f28fc2d6dea8c4",
+              "questionId": "dfe3d639fd294fb986b448bce3a7f306",
+              "optionContent": "消费关系",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e87c931b918d4ffc9f0d225452b06c5b",
+              "questionId": "dfe3d639fd294fb986b448bce3a7f306",
+              "optionContent": "目标定位",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "91ce2dfcbc4f4aef9a2ce661c7373dac",
+              "questionId": "dfe3d639fd294fb986b448bce3a7f306",
+              "optionContent": "营销策略",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e0ac6e32cc4d4c5cadc3359666d6d485",
+          "questionTitle": "启动资金的类型包括（）",
+          "questionSolution": "答案：C\r\n解析：启动资金的类型包括投资和流动资金",
+          "testQuestionAnswers": [
+            {
+              "id": "122c0e5d97c242ccbc9fe11b3aec8bc4",
+              "questionId": "e0ac6e32cc4d4c5cadc3359666d6d485",
+              "optionContent": "投资",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "5bbcbe1a1df445f19c577a453ed8aeeb",
+              "questionId": "e0ac6e32cc4d4c5cadc3359666d6d485",
+              "optionContent": "流动资金",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "a23c7d6699c54c1e918610d079c569d3",
+              "questionId": "e0ac6e32cc4d4c5cadc3359666d6d485",
+              "optionContent": "投资和流动资金",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "6d5bf64a28b04ad8a975e802e2f8095c",
+              "questionId": "e0ac6e32cc4d4c5cadc3359666d6d485",
+              "optionContent": "工资",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e132d97c5abc44db936058fe156a772f",
+          "questionTitle": "下列说法不正确的是（）",
+          "questionSolution": "答案：C\r\n解析：创业要成功必须依靠国家政策来支持说法不正确。",
+          "testQuestionAnswers": [
+            {
+              "id": "7022875bd56d4968b87daf5cb841d1f1",
+              "questionId": "e132d97c5abc44db936058fe156a772f",
+              "optionContent": "创业者必须进行市场调查，善于发现和捕捉市场机会",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "869881750c26415fa86801f50d1278fc",
+              "questionId": "e132d97c5abc44db936058fe156a772f",
+              "optionContent": "创业资金不是万能的，但没有资金是万万不能的",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7d873ccefc8e4377ab0e9d8791961f22",
+              "questionId": "e132d97c5abc44db936058fe156a772f",
+              "optionContent": "创业要成功必须依靠国家政策来支持",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "d436060afefb45bc9a0e5b854ce25c7d",
+              "questionId": "e132d97c5abc44db936058fe156a772f",
+              "optionContent": "创业构想要变为实践，必须具备相关知识技能",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e16f87acf5fb4778a05b9157f64fe81f",
+          "questionTitle": "以下哪个选项不属于劳动法范畴（）",
+          "questionSolution": "答案：A\r\n知识产权不属于劳动法范畴",
+          "testQuestionAnswers": [
+            {
+              "id": "fc17c46238e54321a3d115d4d40ab460",
+              "questionId": "e16f87acf5fb4778a05b9157f64fe81f",
+              "optionContent": "知识产权",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "4b7122003f13455986e12a3229b6ca22",
+              "questionId": "e16f87acf5fb4778a05b9157f64fe81f",
+              "optionContent": "工资",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "991a9fbd785d42e0abbe73b9d129d2d2",
+              "questionId": "e16f87acf5fb4778a05b9157f64fe81f",
+              "optionContent": "职业培训",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "6b4c61d852874e6db93f301438436840",
+              "questionId": "e16f87acf5fb4778a05b9157f64fe81f",
+              "optionContent": "社会保险和福利",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e192f40e5db74e8ab24465c77d5382a0",
+          "questionTitle": "下列管理员工的方法不正确的是（）",
+          "questionSolution": "答案：C\r\n管理员工的方法不正确的是生搬硬套别人的管理方法",
+          "testQuestionAnswers": [
+            {
+              "id": "71bb20a1f4d54ae68c696e1bf16ee610",
+              "questionId": "e192f40e5db74e8ab24465c77d5382a0",
+              "optionContent": "需要制度保障",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "81710089556d4bc38a3baa8e63c97793",
+              "questionId": "e192f40e5db74e8ab24465c77d5382a0",
+              "optionContent": "业主的个人魅力",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e06703cb45bb437da2d78cfea195a84a",
+              "questionId": "e192f40e5db74e8ab24465c77d5382a0",
+              "optionContent": "生搬硬套别人的管理方法",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "6128bbe812ac4b89aaeffcd7a7e94a6d",
+              "questionId": "e192f40e5db74e8ab24465c77d5382a0",
+              "optionContent": "在实践中摸索经验",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e3860b8f9da54c1ca3f90ad3dee7660c",
+          "questionTitle": "有限责任公司的股东按出资比例分配利润，并以出资额为限承担（   ）",
+          "questionSolution": "答案：B\r\n解析：有限责任公司的股东按出资比例分配利润，并以出资额为限承担有限责任。",
+          "testQuestionAnswers": [
+            {
+              "id": "d7aef7c95cbf4ecd9b84b06e948ecfe3",
+              "questionId": "e3860b8f9da54c1ca3f90ad3dee7660c",
+              "optionContent": "无限责任",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "317c28e8279b4447ae91d431eb607db0",
+              "questionId": "e3860b8f9da54c1ca3f90ad3dee7660c",
+              "optionContent": "有限责任",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "4962bd5b2d5248678dc2ee9d075763c9",
+              "questionId": "e3860b8f9da54c1ca3f90ad3dee7660c",
+              "optionContent": "相应责任",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "89fd2765309541f58e44db62e061d6f0",
+              "questionId": "e3860b8f9da54c1ca3f90ad3dee7660c",
+              "optionContent": "一般责任",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e4104640a3e1423e8f02ca4fd706dbbb",
+          "questionTitle": "下列哪项法律不属于企业法的范畴",
+          "questionSolution": "答案：B\r\n《劳动合同法》不属于企业法的范畴",
+          "testQuestionAnswers": [
+            {
+              "id": "29f1878904414dd089e422b46a0669c9",
+              "questionId": "e4104640a3e1423e8f02ca4fd706dbbb",
+              "optionContent": "《公司法》",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f602850904544d75a499baf36103ba02",
+              "questionId": "e4104640a3e1423e8f02ca4fd706dbbb",
+              "optionContent": "《劳动合同法》",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "a78147188129437ab8b593a2cc3dfd82",
+              "questionId": "e4104640a3e1423e8f02ca4fd706dbbb",
+              "optionContent": "《个体工商户条例》",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "71d15e84f00f4601a33f2145ded51f3b",
+              "questionId": "e4104640a3e1423e8f02ca4fd706dbbb",
+              "optionContent": "《合伙企业法》",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e65286ca538440a49b26ca0044699491",
+          "questionTitle": "小王从自己和朋友每月要吃十多次小龙虾的现象中，萌生自己去做生意的念头，这是（）的创业动机",
+          "questionSolution": "答案：B\r\n小王从自己和朋友每月要吃十多次小龙虾的现象中，萌生自己去做生意的念头，这是偶尔发现市场机会的创业动机",
+          "testQuestionAnswers": [
+            {
+              "id": "d2690169d06045c98327d512c4633f2b",
+              "questionId": "e65286ca538440a49b26ca0044699491",
+              "optionContent": "向往发财致富",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "9c04e5519765447a84194160957e87a9",
+              "questionId": "e65286ca538440a49b26ca0044699491",
+              "optionContent": "偶尔发现市场机会",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "2de39a62f4e34f25902d579ae539fd7d",
+              "questionId": "e65286ca538440a49b26ca0044699491",
+              "optionContent": "展现个人才能 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "60e697cee4fd4334abfda0cbc50cf5d4",
+              "questionId": "e65286ca538440a49b26ca0044699491",
+              "optionContent": "受他人成功影响",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e6e2f9d98df4498ca4896d2bca5eb2eb",
+          "questionTitle": "下列哪种方法不属于预测销售量的方法",
+          "questionSolution": "答案：C\r\n数据分析法不属于预测销售量的方法",
+          "testQuestionAnswers": [
+            {
+              "id": "a8057163210c44ba8450935b8420566f",
+              "questionId": "e6e2f9d98df4498ca4896d2bca5eb2eb",
+              "optionContent": "订单预测法",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d72d1994d24840cf8f488836fb252a56",
+              "questionId": "e6e2f9d98df4498ca4896d2bca5eb2eb",
+              "optionContent": "经验判断法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "304abd78097144b691efab16fdbe2ae2",
+              "questionId": "e6e2f9d98df4498ca4896d2bca5eb2eb",
+              "optionContent": "数据分析法",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "a682b1c02e5e4b4694930b1fef69c1d3",
+              "questionId": "e6e2f9d98df4498ca4896d2bca5eb2eb",
+              "optionContent": "调查预测法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e7078f2640b84f8e87965fe9b8e2fb65",
+          "questionTitle": "在定价时除考虑成本外，还要了解一下当地同类商品或服务的价格，叫(   )",
+          "questionSolution": "答案：B\r\n在定价时除考虑成本外，还要了解一下当地同类商品或服务的价格，叫竞争价格法",
+          "testQuestionAnswers": [
+            {
+              "id": "95f7facf3c5046eba34b322b44322dc4",
+              "questionId": "e7078f2640b84f8e87965fe9b8e2fb65",
+              "optionContent": "成本加价法",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2d747741dac542318154855290b29b06",
+              "questionId": "e7078f2640b84f8e87965fe9b8e2fb65",
+              "optionContent": "竞争价格法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "5abc4ce871b84a07b95936274960b7ab",
+              "questionId": "e7078f2640b84f8e87965fe9b8e2fb65",
+              "optionContent": "加权平均法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "9b240e07a7e84b0e9ad262473d6e4398",
+              "questionId": "e7078f2640b84f8e87965fe9b8e2fb65",
+              "optionContent": "以上都不对",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e7cfbe1052274096881b267e140d16ee",
+          "questionTitle": "目前我国的社会保险不包括（）",
+          "questionSolution": "答案：B\r\n目前我国的社会保险不包括意外保险",
+          "testQuestionAnswers": [
+            {
+              "id": "128507272293487a98decb88e06eed22",
+              "questionId": "e7cfbe1052274096881b267e140d16ee",
+              "optionContent": "养老保险",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "8184f428baa54f49bc609a37426d5eb1",
+              "questionId": "e7cfbe1052274096881b267e140d16ee",
+              "optionContent": "意外保险",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "51b8f16dd9d04919a35c6aa861dd7037",
+              "questionId": "e7cfbe1052274096881b267e140d16ee",
+              "optionContent": "医疗保险",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "ad334aeffdae4bc2bd056e0003b796c6",
+              "questionId": "e7cfbe1052274096881b267e140d16ee",
+              "optionContent": "失业保险",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e8b89557643e4715b6ec69c27cb10934",
+          "questionTitle": "生产管理的工作说明中不包括（    ）",
+          "questionSolution": "答案：B\r\n解析：生产管理的工作说明中不包括准确把握客户需求、收集客户素材",
+          "testQuestionAnswers": [
+            {
+              "id": "2b48dd0db9ca4622b2b19a2409928aec",
+              "questionId": "e8b89557643e4715b6ec69c27cb10934",
+              "optionContent": "组织、监督生产",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "21c17168a9b74429b0e7840233da6a87",
+              "questionId": "e8b89557643e4715b6ec69c27cb10934",
+              "optionContent": "准确把握客户需求、收集客户素材",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "ed7d761e5ffd49a28134b496c2bedc53",
+              "questionId": "e8b89557643e4715b6ec69c27cb10934",
+              "optionContent": "制定生产计划",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "9f8cbf02559c47ecbbf2bb16540a64c2",
+              "questionId": "e8b89557643e4715b6ec69c27cb10934",
+              "optionContent": "控制质量、管理工具设备和技术资料",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e9293f794a2840ad8a10b72efb76b692",
+          "questionTitle": "企业提价原因之一是：由于通货膨胀，（       ），企业的成本费用提高，因此，许多企业不得不提高产品价格",
+          "questionSolution": "答案：C\r\n企业提价原因之一是：由于通货膨胀，物价上涨，企业的成本费用提高，因此，许多企业不得不提高产品价格",
+          "testQuestionAnswers": [
+            {
+              "id": "a9d7967bc06f4a988dd8403bf4683894",
+              "questionId": "e9293f794a2840ad8a10b72efb76b692",
+              "optionContent": "物价下降",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "5794f9a26594474496899e1c3773276f",
+              "questionId": "e9293f794a2840ad8a10b72efb76b692",
+              "optionContent": "物价持平",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "ecc1d80bdd90444b8fb5ed651edfc875",
+              "questionId": "e9293f794a2840ad8a10b72efb76b692",
+              "optionContent": "物价上涨 ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "1791fd1404c1460fb84fc7557c3d0ea7",
+              "questionId": "e9293f794a2840ad8a10b72efb76b692",
+              "optionContent": "竞争者多",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e987fa2f17e64622b115d2290bf4e475",
+          "questionTitle": "（      ）是指产品价格的确定以需求为依据，首先强调适应消费者需求的不同特性，而将成本补偿放在次要的地位",
+          "questionSolution": "答案：B\r\n需求差异定价法是指产品价格的确定以需求为依据，首先强调适应消费者需求的不同特性，而将成本补偿放在次要的地位",
+          "testQuestionAnswers": [
+            {
+              "id": "5739c9392fe44c91be9a653b9236f28b",
+              "questionId": "e987fa2f17e64622b115d2290bf4e475",
+              "optionContent": "理解价值定价法",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f505300d57dc454f83ead4bb671b2b61",
+              "questionId": "e987fa2f17e64622b115d2290bf4e475",
+              "optionContent": "需求差异定价法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "599a80ba94c14ed6818a0224339dd6e3",
+              "questionId": "e987fa2f17e64622b115d2290bf4e475",
+              "optionContent": "逆向定价法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "16b054450f1e4d6ca830cd7cbb76225d",
+              "questionId": "e987fa2f17e64622b115d2290bf4e475",
+              "optionContent": "盈亏平衡定价法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ea127b556d4742d5bc8ed0304181cfff",
+          "questionTitle": "对有限责任公司适用的法律为（   ）",
+          "questionSolution": "答案：D\r\n解析：对有限责任公司适用的法律为公司法。",
+          "testQuestionAnswers": [
+            {
+              "id": "0e3a577345854d949d03406988d38029",
+              "questionId": "ea127b556d4742d5bc8ed0304181cfff",
+              "optionContent": "乡镇企业法",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "df44796f160b4872a04f29ccf763e682",
+              "questionId": "ea127b556d4742d5bc8ed0304181cfff",
+              "optionContent": "个人独资企业法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e1b391097e9146769f3ca0853db00c80",
+              "questionId": "ea127b556d4742d5bc8ed0304181cfff",
+              "optionContent": "合伙企业法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2ecad242447a4ffe968170db9b4933e5",
+              "questionId": "ea127b556d4742d5bc8ed0304181cfff",
+              "optionContent": "公司法",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ea99ace520824b959793143c4968e921",
+          "questionTitle": "国家和地方对图书、报纸、杂志征收增值税（  ）",
+          "questionSolution": "答案：C\r\n国家和地方对图书、报纸、杂志征收增值税13%",
+          "testQuestionAnswers": [
+            {
+              "id": "6544e98cf4044499bd2929788c3ec25d",
+              "questionId": "ea99ace520824b959793143c4968e921",
+              "optionContent": "5%",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "006340f9471f4be99017791c6e268930",
+              "questionId": "ea99ace520824b959793143c4968e921",
+              "optionContent": "7%",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f5b5e67fffe9423b98daa7d45996fce5",
+              "questionId": "ea99ace520824b959793143c4968e921",
+              "optionContent": "13% ",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "f3e03dba8c004848931f56355b425efb",
+              "questionId": "ea99ace520824b959793143c4968e921",
+              "optionContent": "17%",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ea9b8673cdd84ccdb79b52a68c41c4bd",
+          "questionTitle": "二手房销售需要缴纳（）",
+          "questionSolution": "答案：A\r\n解析：二手房销售需要缴纳营业税，5%",
+          "testQuestionAnswers": [
+            {
+              "id": "2ddd79ead11f444da8b230f5859fe3d7",
+              "questionId": "ea9b8673cdd84ccdb79b52a68c41c4bd",
+              "optionContent": "营业税，5%",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "2636a079862c45d9ab48541b7401863e",
+              "questionId": "ea9b8673cdd84ccdb79b52a68c41c4bd",
+              "optionContent": "营业税，3%",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "8d2723a827e342ee83d31d4933212355",
+              "questionId": "ea9b8673cdd84ccdb79b52a68c41c4bd",
+              "optionContent": "增值税，5%",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "535c3ae56b784c21948508d64be2dc02",
+              "questionId": "ea9b8673cdd84ccdb79b52a68c41c4bd",
+              "optionContent": "增值税，3%",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ec3c79cf5d7a4a1185897173b1e16edc",
+          "questionTitle": "顺达自行车为顾客修理自行车，在成本核算里，李顺达先生计算了自行车零件的成本和人工成本，但是，为了得出总成本，李顺达先生必须加上(    )",
+          "questionSolution": "答案：B\r\n解析：顺达自行车为顾客修理自行车，在成本核算里，李顺达先生计算了自行车零件的成本和人工成本，但是，为了得出总成本，李顺达先生必须加上间接成本",
+          "testQuestionAnswers": [
+            {
+              "id": "fdf04774ca3447ca95ae2fa320b41945",
+              "questionId": "ec3c79cf5d7a4a1185897173b1e16edc",
+              "optionContent": "直接材料成本",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d05607af950e4642b5a3d2ce9b08be1d",
+              "questionId": "ec3c79cf5d7a4a1185897173b1e16edc",
+              "optionContent": "间接成本",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "7637b332c16d44eba00512805f936d90",
+              "questionId": "ec3c79cf5d7a4a1185897173b1e16edc",
+              "optionContent": "直接成本",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "ec51f6c4726c4a4489635c07e5a91d35",
+          "questionTitle": "下列各项中，不会引起企业预提费用增加的项目是(    )",
+          "questionSolution": "答案：A\r\n下列各项中，不会引起企业预提费用增加的项目是成本费用",
+          "testQuestionAnswers": [
+            {
+              "id": "2d4cdf406267485c8f31360c5d5576dd",
+              "questionId": "ec51f6c4726c4a4489635c07e5a91d35",
+              "optionContent": "成本费用 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "02452127a0854c8190769d26cb127500",
+              "questionId": "ec51f6c4726c4a4489635c07e5a91d35",
+              "optionContent": "财务费用",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9c1c0121017649c5804fb6b2f588cee0",
+              "questionId": "ec51f6c4726c4a4489635c07e5a91d35",
+              "optionContent": "管理费用",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b45ff971be1a4564a12723e40a44f353",
+              "questionId": "ec51f6c4726c4a4489635c07e5a91d35",
+              "optionContent": "经营费用",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ec6c1c48e0c842749311f478faa64be6",
+          "questionTitle": "选择项目要综合考虑个人能力等诸多要素，最好是（）",
+          "questionSolution": "答案：B\r\n解析：选择项目要综合考虑个人能力等诸多要素，最好是不熟悉不做",
+          "testQuestionAnswers": [
+            {
+              "id": "82fd6914f0204242b2f482575ab4f4fa",
+              "questionId": "ec6c1c48e0c842749311f478faa64be6",
+              "optionContent": "利润不高不做",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f2a14b6f78564ca38b1fac0bf7129384",
+              "questionId": "ec6c1c48e0c842749311f478faa64be6",
+              "optionContent": "不熟悉不做",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "f328500c4da344158d26bcad587860ed",
+              "questionId": "ec6c1c48e0c842749311f478faa64be6",
+              "optionContent": "投资大不做",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "fa7f574f922a4fb585882e3253edebd4",
+              "questionId": "ec6c1c48e0c842749311f478faa64be6",
+              "optionContent": "风险大不做",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "edbb3fdd52be44f595842a0d1aea137a",
+          "questionTitle": "如果你的现金流量表显示某个月份里现金短缺，你应采取(   )措施",
+          "questionSolution": "答案：D\r\n解析：如果你的现金流量表显示某个月份里现金短缺，你应采取措施减少赊销额加快现金回笼、推迟添置新设备、推迟添置新设备、要求供应商延长你的付款期限",
+          "testQuestionAnswers": [
+            {
+              "id": "bb7ee96c6d3a4ff98acdaa7e53db58e4",
+              "questionId": "edbb3fdd52be44f595842a0d1aea137a",
+              "optionContent": "减少赊销额加快现金回笼",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "fea68d0286e5415f80229cc4dfca15ef",
+              "questionId": "edbb3fdd52be44f595842a0d1aea137a",
+              "optionContent": "推迟添置新设备",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "d5e9dd18316a488e84fc8e3c40926ed2",
+              "questionId": "edbb3fdd52be44f595842a0d1aea137a",
+              "optionContent": "要求供应商延长你的付款期限",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "7749351fbe994bdd8fea51e5588a9ca4",
+              "questionId": "edbb3fdd52be44f595842a0d1aea137a",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "edfb85ae868a407f8ddadb20cf5b98c0",
+          "questionTitle": "企业人员组成有（  ）",
+          "questionSolution": "答案：D\r\n企业人员组成有业主、企业合伙人、企业顾问、员工",
+          "testQuestionAnswers": [
+            {
+              "id": "1a39d65400d54a96ab6eb7194e8a545e",
+              "questionId": "edfb85ae868a407f8ddadb20cf5b98c0",
+              "optionContent": "业主",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "dff6212a0b2c4557bc911e459b8777e0",
+              "questionId": "edfb85ae868a407f8ddadb20cf5b98c0",
+              "optionContent": "企业合伙人、企业顾问",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7ef40706a16b4ba8b88f4ca683f3ca6f",
+              "questionId": "edfb85ae868a407f8ddadb20cf5b98c0",
+              "optionContent": "员工",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "f51f0f5ed4b343a58020cf5a3764afb9",
+              "questionId": "edfb85ae868a407f8ddadb20cf5b98c0",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "eeaef4b9ce8a4107bf8efa433997af77",
+          "questionTitle": "市场上存在的尚未满足或尚未完全满足的需求即(    )",
+          "questionSolution": "答案：B\r\n市场上存在的尚未满足或尚未完全满足的需求即市场机会",
+          "testQuestionAnswers": [
+            {
+              "id": "6fff354bf0d4410e952b5dbbe684e050",
+              "questionId": "eeaef4b9ce8a4107bf8efa433997af77",
+              "optionContent": "环境威胁",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "cba61141ce1448638f0be5f442881aa2",
+              "questionId": "eeaef4b9ce8a4107bf8efa433997af77",
+              "optionContent": "市场机会",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "7b005367f98f4b77a95dd9c43d37ed51",
+              "questionId": "eeaef4b9ce8a4107bf8efa433997af77",
+              "optionContent": "市场利润",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "53db17b21b95480dace087fbb199db19",
+              "questionId": "eeaef4b9ce8a4107bf8efa433997af77",
+              "optionContent": "成本优势",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f047a44ead1c47d4949bf1fa3d0a606a",
+          "questionTitle": "以下哪项支出属于流动资金（）",
+          "questionSolution": "答案：A\r\n解析：房屋租金属于流动资金。",
+          "testQuestionAnswers": [
+            {
+              "id": "41bd07540bce41678c6e42abc165085d",
+              "questionId": "f047a44ead1c47d4949bf1fa3d0a606a",
+              "optionContent": "房屋租金",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "ef22b1cb1b134fa6ad7a99fc088010c7",
+              "questionId": "f047a44ead1c47d4949bf1fa3d0a606a",
+              "optionContent": "工商注册费",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "6104e7889a824978a04068269595841c",
+              "questionId": "f047a44ead1c47d4949bf1fa3d0a606a",
+              "optionContent": "生产设备",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "bd7377855e654ddc80bf496ac57c47ca",
+              "questionId": "f047a44ead1c47d4949bf1fa3d0a606a",
+              "optionContent": "开业前的市场调查费",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f0b3ed75f88e4f038a35f65bb9ae8708",
+          "questionTitle": "为产品定价有两种导向，一种是产品导向，另一种是（   ）导向",
+          "questionSolution": "答案：C\r\n为产品定价有两种导向，一种是产品导向，另一种是价值导向",
+          "testQuestionAnswers": [
+            {
+              "id": "fe57c558f73a46b3b680a571d258f888",
+              "questionId": "f0b3ed75f88e4f038a35f65bb9ae8708",
+              "optionContent": "生产 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b443d66e6382400689dcd2ee7828fd91",
+              "questionId": "f0b3ed75f88e4f038a35f65bb9ae8708",
+              "optionContent": "定价",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "04bd7813570f49ebad7e67387ddec989",
+              "questionId": "f0b3ed75f88e4f038a35f65bb9ae8708",
+              "optionContent": "价值",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "6f54fc0187954ef884b8bb755af5e7a3",
+              "questionId": "f0b3ed75f88e4f038a35f65bb9ae8708",
+              "optionContent": "价格",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f122cf5158ad43e390615bb84fc6b32d",
+          "questionTitle": "合伙企业的合伙人对企业债务需要承担的责任是（   ）",
+          "questionSolution": "答案：C\r\n解析：合伙企业的合伙人对企业债务需要承担的责任是无限连带责任。",
+          "testQuestionAnswers": [
+            {
+              "id": "56391dfe90674995b4c802ee235284c2",
+              "questionId": "f122cf5158ad43e390615bb84fc6b32d",
+              "optionContent": "无限责任 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "80b9fe0b15b243ddaa073571a6c4eea5",
+              "questionId": "f122cf5158ad43e390615bb84fc6b32d",
+              "optionContent": "有限责任",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "c535859b51d94e7999232ce4d86ad45f",
+              "questionId": "f122cf5158ad43e390615bb84fc6b32d",
+              "optionContent": "无限连带责任",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "af296fb905844c61912c4a0e155f2b3d",
+              "questionId": "f122cf5158ad43e390615bb84fc6b32d",
+              "optionContent": "全部责任",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f1c6812a4cfb40b1989c2742f7122aa9",
+          "questionTitle": "(  ) 是指与市场有关的人类活动，即以满足人类需要和欲望为目的，通过市场变潜在交换为现实交换的一系列活动和过程",
+          "questionSolution": "答案：B\r\n市场营销是指与市场有关的人类活动，即以满足人类需要和欲望为目的，通过市场变潜在交换为现实交换的一系列活动和过程",
+          "testQuestionAnswers": [
+            {
+              "id": "9cc8a3629f2d4c659108def98fa4aab0",
+              "questionId": "f1c6812a4cfb40b1989c2742f7122aa9",
+              "optionContent": "销售",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "46562bc4e8f642db81cab3c60577f761",
+              "questionId": "f1c6812a4cfb40b1989c2742f7122aa9",
+              "optionContent": "市场营销",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "ded3c9e1ad1646058c4426b5a622b59e",
+              "questionId": "f1c6812a4cfb40b1989c2742f7122aa9",
+              "optionContent": "目标定位",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "3d63163781d8476aa9fec3074ccbba82",
+              "questionId": "f1c6812a4cfb40b1989c2742f7122aa9",
+              "optionContent": "营销策略",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f228d787e1c1446892af7692940fa8ed",
+          "questionTitle": "以下哪种费用属于非现金支付(   )",
+          "questionSolution": "答案：A\r\n折旧费用属于非现金支付",
+          "testQuestionAnswers": [
+            {
+              "id": "c277b1a38fdf4358a407180e4bc4229c",
+              "questionId": "f228d787e1c1446892af7692940fa8ed",
+              "optionContent": "折旧",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "330cf0f500d745058383dce04a426878",
+              "questionId": "f228d787e1c1446892af7692940fa8ed",
+              "optionContent": "购材料",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "7ab1a315b61347b2aea568bace806265",
+              "questionId": "f228d787e1c1446892af7692940fa8ed",
+              "optionContent": "工资",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "76da8fd2fe294be0a43c4d98bde94932",
+              "questionId": "f228d787e1c1446892af7692940fa8ed",
+              "optionContent": "水电费",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f2e9eed4391047afa6426d1caf69f0e2",
+          "questionTitle": "以下哪些因素会导致企业失败(  )",
+          "questionSolution": "答案：D\r\n缺乏技能和专门知识、赊销和现金控制不当、某些资产过多、灾害会导致企业失败",
+          "testQuestionAnswers": [
+            {
+              "id": "b16fc843bbfd4a37826ff8b0cff685be",
+              "questionId": "f2e9eed4391047afa6426d1caf69f0e2",
+              "optionContent": "缺乏技能和专门知识 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "d7c09f84fcb04cfb85cc13932713aaa4",
+              "questionId": "f2e9eed4391047afa6426d1caf69f0e2",
+              "optionContent": "赊销和现金控制不当",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "22474003342d4afa86c2f64513f7a2eb",
+              "questionId": "f2e9eed4391047afa6426d1caf69f0e2",
+              "optionContent": "某些资产过多、灾害",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "26479c01fe95443485386d3425f8fc18",
+              "questionId": "f2e9eed4391047afa6426d1caf69f0e2",
+              "optionContent": "以上都是",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f417ca85811148c280551a3d9100af91",
+          "questionTitle": "下面属于流动资金支出款是(   )",
+          "questionSolution": "答案：C\r\n下面属于流动资金支出款是一个木匠的工资",
+          "testQuestionAnswers": [
+            {
+              "id": "be53ac6a674e4e8a89819be1a3d2aba5",
+              "questionId": "f417ca85811148c280551a3d9100af91",
+              "optionContent": "购买摩托车",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "0d875d4b929b40879e9b68661f2f04de",
+              "questionId": "f417ca85811148c280551a3d9100af91",
+              "optionContent": "做企业帐目需要使用的一台计算机  ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "c2555527ce7b47a682c2c1039fcebbdf",
+              "questionId": "f417ca85811148c280551a3d9100af91",
+              "optionContent": "一个木匠的工资",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "ab7c67419f0b4c95b487cd0c9ece8b8c",
+              "questionId": "f417ca85811148c280551a3d9100af91",
+              "optionContent": "裁缝需要的缝纫机",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f47ddac1e7dc4147b2eab56a78ad3a72",
+          "questionTitle": "企业作为生产力组织形式和商品经济的基本单位，具有一定的组织特征。下列对于企业的组织特征不正确的是 (    )",
+          "questionSolution": "答案：B\r\n解析：企业作为生产力组织形式和商品经济的基本单位，具有一定的组织特征。下列对于企业的组织特征不正确的是企业生产力总和构成社会生产力。",
+          "testQuestionAnswers": [
+            {
+              "id": "f468b31643574b02844dac0ed885baeb",
+              "questionId": "f47ddac1e7dc4147b2eab56a78ad3a72",
+              "optionContent": "企业自主经营、自负盈亏",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f4b5d6542259469399e92e6dda09c756",
+              "questionId": "f47ddac1e7dc4147b2eab56a78ad3a72",
+              "optionContent": "企业生产力总和构成社会生产力",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "51245a348beb48069fa8f8a07f934343",
+              "questionId": "f47ddac1e7dc4147b2eab56a78ad3a72",
+              "optionContent": "企业都是企业法人",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "e7bb8862bd60475cb2eb343102436cda",
+              "questionId": "f47ddac1e7dc4147b2eab56a78ad3a72",
+              "optionContent": "企业都要依法设立",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f48e17f4b9b94ac7b9ed72f166fddb44",
+          "questionTitle": "在成本核算中，你将折旧作为(    )的一部分",
+          "questionSolution": "答案：B\r\n解析：在成本核算中，你将折旧作为间接成本的一部分",
+          "testQuestionAnswers": [
+            {
+              "id": "80879accc6854c67b3e81adfb6516b91",
+              "questionId": "f48e17f4b9b94ac7b9ed72f166fddb44",
+              "optionContent": "直接成本",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "dfa6b31e1b0d4d96b5cd0c3d13fb9ead",
+              "questionId": "f48e17f4b9b94ac7b9ed72f166fddb44",
+              "optionContent": "间接成本",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "81a7a0b6b42f48499a8d2bc53898807d",
+              "questionId": "f48e17f4b9b94ac7b9ed72f166fddb44",
+              "optionContent": "直接材料成本",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            }
+          ]
+        },
+        {
+          "id": "f4d493a495e64682b099caecb0c4959e",
+          "questionTitle": "如果企业不止一个业主，这些业主将以合伙人的身份，共享收益、（   ）",
+          "questionSolution": "答案：C\r\n如果企业不止一个业主，这些业主将以合伙人的身份，共享收益、共担风险",
+          "testQuestionAnswers": [
+            {
+              "id": "e621d54ba2dc4f67916bb30b070bf7c2",
+              "questionId": "f4d493a495e64682b099caecb0c4959e",
+              "optionContent": "同时经营",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "fae001950f21462a8c6eeb29dd4c3cd3",
+              "questionId": "f4d493a495e64682b099caecb0c4959e",
+              "optionContent": "同时管理 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "131ef0bb58794e6ca6e3958b36db1437",
+              "questionId": "f4d493a495e64682b099caecb0c4959e",
+              "optionContent": "共担风险",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "d6d43df353554c31a73eb80e60799279",
+              "questionId": "f4d493a495e64682b099caecb0c4959e",
+              "optionContent": "同时负责",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f5ea0412329a4bd8a070cc0b9a5b1f4e",
+          "questionTitle": "该岗位员工所应具备的素质和技能是（   ）的内容",
+          "questionSolution": "答案：D\r\n该岗位员工所应具备的素质和技能是岗位说明书的内容",
+          "testQuestionAnswers": [
+            {
+              "id": "1a239e5baf20422b94e1b468fb349591",
+              "questionId": "f5ea0412329a4bd8a070cc0b9a5b1f4e",
+              "optionContent": "劳动合同",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "1ebcaa8668c74702981d5f2ce898dd0b",
+              "questionId": "f5ea0412329a4bd8a070cc0b9a5b1f4e",
+              "optionContent": "企业规章制度",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "72ee315b5c7e458b8c3c62a218adcc2d",
+              "questionId": "f5ea0412329a4bd8a070cc0b9a5b1f4e",
+              "optionContent": "岗位协议",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "f3170d29ff6c4799be2a2aadb6cc5642",
+              "questionId": "f5ea0412329a4bd8a070cc0b9a5b1f4e",
+              "optionContent": "岗位说明书",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f62f3d79459e43d5b5f9e3d0177a231f",
+          "questionTitle": "收集顾客信息、了解顾客需求，对于创办企业（）",
+          "questionSolution": "答案：A\r\n收集顾客信息、了解顾客需求，对于创办企业至关重要",
+          "testQuestionAnswers": [
+            {
+              "id": "15a0d46424064144b90e9a87562edc3f",
+              "questionId": "f62f3d79459e43d5b5f9e3d0177a231f",
+              "optionContent": "至关重要",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "20da2128a4874956ac0d8e34fcde17a5",
+              "questionId": "f62f3d79459e43d5b5f9e3d0177a231f",
+              "optionContent": "无关紧要",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9fbe01ccd79c406cbce47d71d670fce2",
+              "questionId": "f62f3d79459e43d5b5f9e3d0177a231f",
+              "optionContent": "没有关系",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "7e16aa78784d42b8828d94787d23dacd",
+              "questionId": "f62f3d79459e43d5b5f9e3d0177a231f",
+              "optionContent": "有时候重要，有时候不重要",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f660168b5eee43f987c0ae2ca2c86d60",
+          "questionTitle": "在创业的初创阶段，创业者最主要的需求首先是解决（）问题",
+          "questionSolution": "答案：C\r\n解析：在创业的初创阶段，创业者最主要的需求首先是解决生存问题",
+          "testQuestionAnswers": [
+            {
+              "id": "0a2f8ea50068430fb9054b5fcd493a0e",
+              "questionId": "f660168b5eee43f987c0ae2ca2c86d60",
+              "optionContent": "资金",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2d391d9c0d2941aa8271d5d686a7ae62",
+              "questionId": "f660168b5eee43f987c0ae2ca2c86d60",
+              "optionContent": "项目",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "b909e05c1de6433cb805ad85d4dcff81",
+              "questionId": "f660168b5eee43f987c0ae2ca2c86d60",
+              "optionContent": "生存",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "ac84d129ea484fe6becd353e7d90df19",
+              "questionId": "f660168b5eee43f987c0ae2ca2c86d60",
+              "optionContent": "技术",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f68656e36b774e84bf2222bee2cbdb2f",
+          "questionTitle": "促销方式中下列哪项属于营业推广的方法",
+          "questionSolution": "答案：C\r\n促销方式中展示陈列属于营业推广的方法",
+          "testQuestionAnswers": [
+            {
+              "id": "a84ade050c9b43ba98c0f81280064cda",
+              "questionId": "f68656e36b774e84bf2222bee2cbdb2f",
+              "optionContent": "宣传单页",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "53d25ecc655a4a74b5204d2825d7392d",
+              "questionId": "f68656e36b774e84bf2222bee2cbdb2f",
+              "optionContent": "条幅海报",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "789363489a17474e8c212c978a187fb5",
+              "questionId": "f68656e36b774e84bf2222bee2cbdb2f",
+              "optionContent": "展示陈列",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "50a82ff632994eabb35c38658aef4e5d",
+              "questionId": "f68656e36b774e84bf2222bee2cbdb2f",
+              "optionContent": "优惠券",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f731fad453e34e02831e70e87ead5770",
+          "questionTitle": "以下哪种费用属于非现金支付(   )",
+          "questionSolution": "答案：A\r\n解析：以下哪种费用属于非现金支付折旧",
+          "testQuestionAnswers": [
+            {
+              "id": "d04d98449c6c4cd58c1be23dfa2898cb",
+              "questionId": "f731fad453e34e02831e70e87ead5770",
+              "optionContent": "折旧 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "b71a8557566d4b7d93a56ace7a651918",
+              "questionId": "f731fad453e34e02831e70e87ead5770",
+              "optionContent": "购材料",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "180f7296d980427bab00c37e254bb564",
+              "questionId": "f731fad453e34e02831e70e87ead5770",
+              "optionContent": "工资 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a1f07850d385417ca37abef7e7e07bc0",
+              "questionId": "f731fad453e34e02831e70e87ead5770",
+              "optionContent": "水电费",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f74eabfe21e44278ada3a3dabfbde630",
+          "questionTitle": "对（    ）创业者而言，必须明确市场营销计划应同时具有战略与决策匹配性",
+          "questionSolution": "答案：A\r\n解析：对初始型创业者而言，必须明确市场营销计划应同时具有战略与决策匹配性",
+          "testQuestionAnswers": [
+            {
+              "id": "e36fe56e60ea46b2879e84683b416cfc",
+              "questionId": "f74eabfe21e44278ada3a3dabfbde630",
+              "optionContent": "初始型",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "ed369be70aca49f59fd24d40eec169b4",
+              "questionId": "f74eabfe21e44278ada3a3dabfbde630",
+              "optionContent": "发展型",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "5875f1cfed0f4f66ae364e8796fba14f",
+              "questionId": "f74eabfe21e44278ada3a3dabfbde630",
+              "optionContent": "创新型",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "26cba5a6bf9f43f9a716e2c3fb5837c0",
+              "questionId": "f74eabfe21e44278ada3a3dabfbde630",
+              "optionContent": "开拓型",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f7a9b6a4bd1d478baa239337103e0043",
+          "questionTitle": "根据企业资本构成和承担的法律责任的差异，世界各国通常将企业划分为( )三种基本类型",
+          "questionSolution": "答案：A\r\n根据企业资本构成和承担的法律责任的差异，世界各国通常将企业划分为个人独资企业、合伙企业、公司三种基本类型",
+          "testQuestionAnswers": [
+            {
+              "id": "2af8dead87934833beda3c2ba4a4875d",
+              "questionId": "f7a9b6a4bd1d478baa239337103e0043",
+              "optionContent": "个人独资企业、合伙企业、公司",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "98a6cfb377d34a1db9251714a5efb190",
+              "questionId": "f7a9b6a4bd1d478baa239337103e0043",
+              "optionContent": "个人独资企业、合资企业、公司",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "be332ba68cc54fadae2586242367fd06",
+              "questionId": "f7a9b6a4bd1d478baa239337103e0043",
+              "optionContent": "个人独资企业、合伙企业、合资企业",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "2a6d461a5cab48df80bcadfa0cc76090",
+              "questionId": "f7a9b6a4bd1d478baa239337103e0043",
+              "optionContent": "合伙企业、公司、合资企业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f8481f407e334b3a9307cb6e3923fb72",
+          "questionTitle": "个体工商户的业主，是（）",
+          "questionSolution": "答案：D\r\n个体工商户的业主，是既是所有者，又是劳动者和管理者",
+          "testQuestionAnswers": [
+            {
+              "id": "5fd65f0050df4b99ab08d7d5aae62c47",
+              "questionId": "f8481f407e334b3a9307cb6e3923fb72",
+              "optionContent": "管理者 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "b2fd737086e54b2585f8da161f3c6108",
+              "questionId": "f8481f407e334b3a9307cb6e3923fb72",
+              "optionContent": "劳动者",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "d30484f8cd4841a3905c09a557040de7",
+              "questionId": "f8481f407e334b3a9307cb6e3923fb72",
+              "optionContent": "所有者和管理者 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "711a275c0a01448caa6bde72b9c2418d",
+              "questionId": "f8481f407e334b3a9307cb6e3923fb72",
+              "optionContent": "既是所有者，又是劳动者和管理者",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f87dc021f4ab4fcf9b03dc83f33bf984",
+          "questionTitle": "（     ）在市场上通常表现为产品质量水平、外观特色、式样、品牌名称和包装等",
+          "questionSolution": "答案：A\r\n解析：实物产品在市场上通常表现为产品质量水平、外观特色、式样、品牌名称和包装等",
+          "testQuestionAnswers": [
+            {
+              "id": "a239cb8e0f3b4820adaa34792e43bd40",
+              "questionId": "f87dc021f4ab4fcf9b03dc83f33bf984",
+              "optionContent": "实物产品",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c1319b73e8bc4d759c0f34fc2763beed",
+              "questionId": "f87dc021f4ab4fcf9b03dc83f33bf984",
+              "optionContent": "外部产品",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f03fe023757b493691c9556c64ca74da",
+              "questionId": "f87dc021f4ab4fcf9b03dc83f33bf984",
+              "optionContent": "附加产品",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d2fa27fe5b8a47ce89467a4459ecd766",
+              "questionId": "f87dc021f4ab4fcf9b03dc83f33bf984",
+              "optionContent": "无形产品",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f89a5bee984945fe9c25f2aa91ad2d0d",
+          "questionTitle": "以下哪种法律形态的企业可以起字号（   ）",
+          "questionSolution": "答案：A\r\n解析：以下哪种法律形态的企业可以起字号个体工商户。",
+          "testQuestionAnswers": [
+            {
+              "id": "cbba32a061cc4f269e9a346605eea202",
+              "questionId": "f89a5bee984945fe9c25f2aa91ad2d0d",
+              "optionContent": "个体工商户",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "167dabff43374e2ba98da30273d3e407",
+              "questionId": "f89a5bee984945fe9c25f2aa91ad2d0d",
+              "optionContent": "合伙企业",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "cec4e62410c644d1a4022afed3a2d126",
+              "questionId": "f89a5bee984945fe9c25f2aa91ad2d0d",
+              "optionContent": "有限责任公司",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "dc7506ed36894876a0b4af80741dddf5",
+              "questionId": "f89a5bee984945fe9c25f2aa91ad2d0d",
+              "optionContent": "个人独资企业",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f9c70bd14a5545fd9dd655a35bdeb845",
+          "questionTitle": "如企业发生火灾，财产受损失，（）保险开始起作用",
+          "questionSolution": "答案：B\r\n如企业发生火灾，财产受损失，商业保险开始起作用",
+          "testQuestionAnswers": [
+            {
+              "id": "a3a776cbc8344513b066c3620f948d04",
+              "questionId": "f9c70bd14a5545fd9dd655a35bdeb845",
+              "optionContent": "医疗保险",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "6e942f39ec104054ad0bd16de9782348",
+              "questionId": "f9c70bd14a5545fd9dd655a35bdeb845",
+              "optionContent": "商业保险",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "55186382fdbd4f7ebdf987e96ee021c8",
+              "questionId": "f9c70bd14a5545fd9dd655a35bdeb845",
+              "optionContent": "养老保险",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "68741801fe744aa28c65ce529f2c9cb1",
+              "questionId": "f9c70bd14a5545fd9dd655a35bdeb845",
+              "optionContent": "失业保险",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f9da6965172c48f2ace1846843efede9",
+          "questionTitle": "下列哪项不属于流动资金？",
+          "questionSolution": "答案：A\r\n开办费不属于流动资金",
+          "testQuestionAnswers": [
+            {
+              "id": "ba3224a1f0f24aa79973795c2f0b3acc",
+              "questionId": "f9da6965172c48f2ace1846843efede9",
+              "optionContent": "开办费",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "a9132dfc3a3c4b72aaa51228af2ad63c",
+              "questionId": "f9da6965172c48f2ace1846843efede9",
+              "optionContent": "工资",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9d4e3e5faead41439021151790a9b2f1",
+              "questionId": "f9da6965172c48f2ace1846843efede9",
+              "optionContent": "租金",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "d823a298b81f45bfa2a7a7880afc3d7e",
+              "questionId": "f9da6965172c48f2ace1846843efede9",
+              "optionContent": "保险费",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fa5566eb23b64de7b3549cf6d45a2764",
+          "questionTitle": "星巴克长期以来以其优雅闲适的环境，醇香诱人的咖啡而著称，这种营销方式属于（  ）",
+          "questionSolution": "答案：C\r\n星巴克长期以来以其优雅闲适的环境，醇香诱人的咖啡而著称，这种营销方式属于体验营销",
+          "testQuestionAnswers": [
+            {
+              "id": "185806d19a744756974602729eb56d69",
+              "questionId": "fa5566eb23b64de7b3549cf6d45a2764",
+              "optionContent": "关系营销 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "bfc2cceab8184215b155742cd1314c9c",
+              "questionId": "fa5566eb23b64de7b3549cf6d45a2764",
+              "optionContent": "社会营销",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "78c398c242614b1e8ed5b43012c50b97",
+              "questionId": "fa5566eb23b64de7b3549cf6d45a2764",
+              "optionContent": "体验营销",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "4ab5d757620c4521bb1804f1a61707f4",
+              "questionId": "fa5566eb23b64de7b3549cf6d45a2764",
+              "optionContent": "数据库营销",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fab43d0904234bc09245bcfe7bb49ebc",
+          "questionTitle": "企业在刚起步的时候，销售可能并不顺利，所以流动资金计划要（）",
+          "questionSolution": "答案：A\r\n解析：企业在刚起步的时候，销售可能并不顺利，所以流动资金计划要富余些",
+          "testQuestionAnswers": [
+            {
+              "id": "a81938e6f9e046e18339b3154dd7b07f",
+              "questionId": "fab43d0904234bc09245bcfe7bb49ebc",
+              "optionContent": "富余些",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "e94573282eeb41be9f7d77005f06f3ed",
+              "questionId": "fab43d0904234bc09245bcfe7bb49ebc",
+              "optionContent": "尽可能多些",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "9d5027b43665429599d0a13c9262b3f6",
+              "questionId": "fab43d0904234bc09245bcfe7bb49ebc",
+              "optionContent": "尽可能少些",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "5e19e09ca3354d73a8320d893c6aa00c",
+              "questionId": "fab43d0904234bc09245bcfe7bb49ebc",
+              "optionContent": "精确些",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fae40c19d5174abb8c10c33848df2872",
+          "questionTitle": "任何产品的生命都是有限的，会经历新产品投放、成长、市场逐渐成熟、市场慢慢衰退等阶段，选择或者开发新的（    ）是企业经营中与先要计划的工作",
+          "questionSolution": "答案：A\r\n任何产品的生命都是有限的，会经历新产品投放、成长、市场逐渐成熟、市场慢慢衰退等阶段，选择或者开发新的替代产品是企业经营中与先要计划的工作",
+          "testQuestionAnswers": [
+            {
+              "id": "b25ebaae2f2a4a8c8fde4a874496bec5",
+              "questionId": "fae40c19d5174abb8c10c33848df2872",
+              "optionContent": "替代产品 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "476fe9cc29264d1b97c4f9ca3b9fdc79",
+              "questionId": "fae40c19d5174abb8c10c33848df2872",
+              "optionContent": "外部产品",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "d845a8b215134d4a8a3d6369abaa91f2",
+              "questionId": "fae40c19d5174abb8c10c33848df2872",
+              "optionContent": "附加产品",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "332c30091e114da5b434a89da2644312",
+              "questionId": "fae40c19d5174abb8c10c33848df2872",
+              "optionContent": "有型产品",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "faf0e310479745a6b8ab60d4b2cdfcfd",
+          "questionTitle": "（     ）是指企业通过不同营销努力，使同种同质的产品在消费者心目中树立起不同的产品形象，进而根据自身特点，选取低于或高于竞争者的价格作为本企业产品价格",
+          "questionSolution": "答案：A\r\n解析：产品差别定价法是指企业通过不同营销努力，使同种同质的产品在消费者心目中树立起不同的产品形象，进而根据自身特点，选取低于或高于竞争者的价格作为本企业产品价格",
+          "testQuestionAnswers": [
+            {
+              "id": "fbe1c8632ad1445cb6af2d3538431e7b",
+              "questionId": "faf0e310479745a6b8ab60d4b2cdfcfd",
+              "optionContent": "产品差别定价法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "1c298676286e4ed6b51ec0136389395a",
+              "questionId": "faf0e310479745a6b8ab60d4b2cdfcfd",
+              "optionContent": "随行就市定价法",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "fb9f95440e964af497a58c360bd9eb72",
+              "questionId": "faf0e310479745a6b8ab60d4b2cdfcfd",
+              "optionContent": "目标收益定价法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b4436c97331c431e900037928ca7b243",
+              "questionId": "faf0e310479745a6b8ab60d4b2cdfcfd",
+              "optionContent": "盈亏平衡定价法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fcca58241b3f414e9ce4e77e581620ed",
+          "questionTitle": "企业作为生产力组织形式和商品经济的基本单位，具有一定的组织特征。下列对于企业的组织特征不正确的是 (    )",
+          "questionSolution": "答案：B\r\n企业作为生产力组织形式和商品经济的基本单位，具有一定的组织特征。对于企业的组织特征不正确的是企业生产力总和构成社会生产力",
+          "testQuestionAnswers": [
+            {
+              "id": "1f1b7b63953a452eab1b628e4ee10ea3",
+              "questionId": "fcca58241b3f414e9ce4e77e581620ed",
+              "optionContent": "企业自主经营、自负盈亏 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "713d96bfdae1469da03c0f70e9b8f055",
+              "questionId": "fcca58241b3f414e9ce4e77e581620ed",
+              "optionContent": "企业生产力总和构成社会生产力",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "5173eeaddde64c8c87975d321b82eeac",
+              "questionId": "fcca58241b3f414e9ce4e77e581620ed",
+              "optionContent": "企业都是企业法人 ",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b7470d59f8a74802b88f8b98f472a0f4",
+              "questionId": "fcca58241b3f414e9ce4e77e581620ed",
+              "optionContent": "企业都要依法设立",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fd38eedb6c454355a725bd26c44fbb33",
+          "questionTitle": "下列各项中属于流动资产的有(   )",
+          "questionSolution": "答案：A\r\n解析：下列各项中属于流动资产的有现金",
+          "testQuestionAnswers": [
+            {
+              "id": "5484a10c64e147c295da276cf2ed362f",
+              "questionId": "fd38eedb6c454355a725bd26c44fbb33",
+              "optionContent": "现金",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "bdf2048d120842679feef9342340a546",
+              "questionId": "fd38eedb6c454355a725bd26c44fbb33",
+              "optionContent": "运输设备",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "37e85dc692084c1db60fb0ea95521dc0",
+              "questionId": "fd38eedb6c454355a725bd26c44fbb33",
+              "optionContent": "专利权",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "a5256a920883409bb29030c9aa76f8b0",
+              "questionId": "fd38eedb6c454355a725bd26c44fbb33",
+              "optionContent": "应付帐款",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fdc02d4761334842990b16bd39bada39",
+          "questionTitle": "良好的开始是成功的一半，创业者所选择的项目必须是（）",
+          "questionSolution": "答案：D\r\n良好的开始是成功的一半，创业者所选择的项目必须是适合自己的",
+          "testQuestionAnswers": [
+            {
+              "id": "2c602456354d4522838a2ce54935ac47",
+              "questionId": "fdc02d4761334842990b16bd39bada39",
+              "optionContent": "最赚钱",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2a45e2eaf1ad42c49032ac579be9de63",
+              "questionId": "fdc02d4761334842990b16bd39bada39",
+              "optionContent": "别人成功的",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "5b048ae6913b4f81951d8cf08c40af1e",
+              "questionId": "fdc02d4761334842990b16bd39bada39",
+              "optionContent": "朋友推荐的",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "3e87b02cab3c459faa579616c1e09e90",
+              "questionId": "fdc02d4761334842990b16bd39bada39",
+              "optionContent": "适合自己的",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fe0fa3bd6a514a128fd65af90e9f3952",
+          "questionTitle": "下列各项中属于流动资产的有(   )",
+          "questionSolution": "答案：A\r\n下列各项中属于流动资产的有现金",
+          "testQuestionAnswers": [
+            {
+              "id": "782fd0eb310243b1ab4c254181bd9f0b",
+              "questionId": "fe0fa3bd6a514a128fd65af90e9f3952",
+              "optionContent": "现金",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "8caeea6ebe7e4264b2cb0ab78b469312",
+              "questionId": "fe0fa3bd6a514a128fd65af90e9f3952",
+              "optionContent": "运输设备 ",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "e1c655c11b1e4c3b94d2d9eb7ceabee7",
+              "questionId": "fe0fa3bd6a514a128fd65af90e9f3952",
+              "optionContent": "专利权",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "b8a033ddb4bd4921bd9d454f650b5abd",
+              "questionId": "fe0fa3bd6a514a128fd65af90e9f3952",
+              "optionContent": "应付帐款",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fe1eb5ab2d8a48d0817e0ecbd47be2e4",
+          "questionTitle": "对消费品而言，最有效的促销手段是（  ）",
+          "questionSolution": "答案：C\r\n对消费品而言，最有效的促销手段是广告",
+          "testQuestionAnswers": [
+            {
+              "id": "971def4f313643d59d5c24db14aecdd6",
+              "questionId": "fe1eb5ab2d8a48d0817e0ecbd47be2e4",
+              "optionContent": "营业推广 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "bb671d48516f4b5baacf1864b5b9e75f",
+              "questionId": "fe1eb5ab2d8a48d0817e0ecbd47be2e4",
+              "optionContent": "人员推销",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "f005f0b0e9114bd98bb3821cc906b55a",
+              "questionId": "fe1eb5ab2d8a48d0817e0ecbd47be2e4",
+              "optionContent": "广告",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "5aa58bef23c84a51b15644ac73534e5f",
+              "questionId": "fe1eb5ab2d8a48d0817e0ecbd47be2e4",
+              "optionContent": "公共关系",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fe27b8cf18384353868ac762f879265a",
+          "questionTitle": "以下对折旧的说法错误的是(   )",
+          "questionSolution": "答案：B\r\n解析：折旧是一种现金支出折旧的说法错误的",
+          "testQuestionAnswers": [
+            {
+              "id": "77dcd998cc29420399b00b621a0a7460",
+              "questionId": "fe27b8cf18384353868ac762f879265a",
+              "optionContent": "折旧是一种成本",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "cd471e46ebab415d8d4ed31fb8394959",
+              "questionId": "fe27b8cf18384353868ac762f879265a",
+              "optionContent": "折旧是一种现金支出",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "bb41f3e817ca4548a105ed5db1352810",
+              "questionId": "fe27b8cf18384353868ac762f879265a",
+              "optionContent": "折旧是由于固定资产不断贬值而产生的一种成本",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "7391a68dbaf84602b4700bd37b443cae",
+              "questionId": "fe27b8cf18384353868ac762f879265a",
+              "optionContent": "制定成本计划时应考虑折旧",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fe343c3c6eb148f7ac3a72a1f3e0cfbc",
+          "questionTitle": "非促销手段指的是（ ）",
+          "questionSolution": "答案：C\r\n非促销手段指的是市场调研",
+          "testQuestionAnswers": [
+            {
+              "id": "6972ef0a006f4ef58ef067dee5eec383",
+              "questionId": "fe343c3c6eb148f7ac3a72a1f3e0cfbc",
+              "optionContent": "宣传 ",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "2ac5657f47464605a83b4b97cd9e4b10",
+              "questionId": "fe343c3c6eb148f7ac3a72a1f3e0cfbc",
+              "optionContent": "销售促销",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "aa70b26888cd41fea6cbbbef02718d9f",
+              "questionId": "fe343c3c6eb148f7ac3a72a1f3e0cfbc",
+              "optionContent": "市场调研",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "5ef1005f0a0843bb89d0732d20a5147f",
+              "questionId": "fe343c3c6eb148f7ac3a72a1f3e0cfbc",
+              "optionContent": "广告 ",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "fe5ae41865294d42acad50b71449ee19",
+          "questionTitle": "教师喜欢买书，老板喜欢买车的消费习惯，主要是受其（）的影响",
+          "questionSolution": "答案：A\r\n解析：教师喜欢买书，老板喜欢买车的消费习惯，主要是受其职业地位的影响。",
+          "testQuestionAnswers": [
+            {
+              "id": "e3d2181a0e32441ca6a4fec16a373532",
+              "questionId": "fe5ae41865294d42acad50b71449ee19",
+              "optionContent": "职业地位",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "7883d59699ac4074a444f90f71621f4d",
+              "questionId": "fe5ae41865294d42acad50b71449ee19",
+              "optionContent": "年龄性别",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "433cf3c1e29647e89a279c52f8f0c015",
+              "questionId": "fe5ae41865294d42acad50b71449ee19",
+              "optionContent": "文化习俗",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "8eba272dcb104217848f30a2da473874",
+              "questionId": "fe5ae41865294d42acad50b71449ee19",
+              "optionContent": "经济条件",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "ff10a6f6aa23471bbef5a5321c27a902",
+          "questionTitle": "市场细分是根据(    )的差异对市场进行的划分",
+          "questionSolution": "答案：A\r\n市场细分是根据买方的差异对市场进行的划分",
+          "testQuestionAnswers": [
+            {
+              "id": "c83fd8fb08b948a9abb7518bdc08bf44",
+              "questionId": "ff10a6f6aa23471bbef5a5321c27a902",
+              "optionContent": "买方",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "87c7a807621b49ef8ca810ee8c3c64f5",
+              "questionId": "ff10a6f6aa23471bbef5a5321c27a902",
+              "optionContent": "卖方",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            },
+            {
+              "id": "4eabc6d8225842f8b08a5fb3512c173d",
+              "questionId": "ff10a6f6aa23471bbef5a5321c27a902",
+              "optionContent": "产品",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "1eb7b3452554475ba2d24c4e90e5b64f",
+              "questionId": "ff10a6f6aa23471bbef5a5321c27a902",
+              "optionContent": "质量",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        }
+      ],
+      "questionType": "单项选择题"
+    },
+    {
+      "question": [
+        {
+          "id": "e9291bdbcc474070b171ea1ed49cc375",
+          "questionTitle": "“价格地板”是指产品或服务价格的上线，是成本设定的，价格低于它就没有利润了（   ）",
+          "questionSolution": "“价格地板”是指产品或服务价格的上线，是成本设定的，价格低于它就没有利润了",
+          "testQuestionAnswers": [
+            {
+              "id": "18f08beea9414319bb9f3c8c24935935",
+              "questionId": "e9291bdbcc474070b171ea1ed49cc375",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "490e78aa39454d95a2d9b7e4c1616548",
+              "questionId": "e9291bdbcc474070b171ea1ed49cc375",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "e962489c26e54a788b52f52f12b3bbc3",
+          "questionTitle": "业主要根据自己企业的实际情况决定商业保险的险种，不要过度依赖保险公司的推荐()",
+          "questionSolution": "业主要根据自己企业的实际情况决定商业保险的险种，不要过度依赖保险公司的推荐",
+          "testQuestionAnswers": [
+            {
+              "id": "c2b7f4de07274ea3ad2b7d3e2104c3c4",
+              "questionId": "e962489c26e54a788b52f52f12b3bbc3",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "31977d9dc7874798a6b44d0e9ed58230",
+              "questionId": "e962489c26e54a788b52f52f12b3bbc3",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "e963234f8cec442687b463d188fe5306",
+          "questionTitle": "对于连锁加盟，创业者要选择比较成熟的公司，至少要有两年以上的加盟史",
+          "questionSolution": "对于连锁加盟，创业者要选择比较成熟的公司，至少要有两年以上的加盟史",
+          "testQuestionAnswers": [
+            {
+              "id": "6310ef001d204027b2cfc5355d0b2ff8",
+              "questionId": "e963234f8cec442687b463d188fe5306",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "7d2f3b4208bf45f58291b428fac0785b",
+              "questionId": "e963234f8cec442687b463d188fe5306",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "ed19988a859744559f197de9503a2e12",
+          "questionTitle": "个体工商户由家庭为主经营的，以家庭财产承担无限责任",
+          "questionSolution": "个体工商户由家庭为主经营的，以家庭财产承担无限责任",
+          "testQuestionAnswers": [
+            {
+              "id": "0d1dcbd51cb74eb99a58745f0c4b611f",
+              "questionId": "ed19988a859744559f197de9503a2e12",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "0e30ce84ba8347cc8c2771db2f372166",
+              "questionId": "ed19988a859744559f197de9503a2e12",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "ee577d0bf9a84f4ab6f5f2f1fcd091c3",
+          "questionTitle": "当你计划开办一个新企业时，你应该预测第一年中每月的利润（ ）",
+          "questionSolution": "当你计划开办一个新企业时，你应该预测第一年中每月的利润",
+          "testQuestionAnswers": [
+            {
+              "id": "f6cbf109b4ce492eb1b20d06e15caae9",
+              "questionId": "ee577d0bf9a84f4ab6f5f2f1fcd091c3",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "34ebde26dfd9402b82def39f29c69374",
+              "questionId": "ee577d0bf9a84f4ab6f5f2f1fcd091c3",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "efabedc2b80e491c84dad854a1ce7fc1",
+          "questionTitle": "分销渠道决策与营销系统中的产品、价格及促销决策紧密相连",
+          "questionSolution": "分销渠道决策与营销系统中的产品、价格及促销决策紧密相连",
+          "testQuestionAnswers": [
+            {
+              "id": "cb57eae5df7c45c2a7802a42b86bffa7",
+              "questionId": "efabedc2b80e491c84dad854a1ce7fc1",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "ebad33f2cc184fc6a1e1c507f5e2adce",
+              "questionId": "efabedc2b80e491c84dad854a1ce7fc1",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f0b3c31e37b341de8610ee42d260f5fd",
+          "questionTitle": "一个成功的企业始于正确的理念和好的构思，合理而又周密的企业构思可以避免日后的失望和损失（）",
+          "questionSolution": "一个成功的企业始于正确的理念和好的构思，合理而又周密的企业构思可以避免日后的失望和损失",
+          "testQuestionAnswers": [
+            {
+              "id": "91fa10541952427299701a08fae5dc09",
+              "questionId": "f0b3c31e37b341de8610ee42d260f5fd",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "6dea8da8ebb8448894d0f9718cde1d28",
+              "questionId": "f0b3c31e37b341de8610ee42d260f5fd",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f0f9bbe371764ca09866fac18b7b30c0",
+          "questionTitle": "调查问卷中，封闭性问题会给出可能的答案供选择",
+          "questionSolution": "调查问卷中，封闭性问题会给出可能的答案供选择",
+          "testQuestionAnswers": [
+            {
+              "id": "b366a4d5518745169c48ddf1cb894f88",
+              "questionId": "f0f9bbe371764ca09866fac18b7b30c0",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "fb566a5f2d62402b8b1f4ef77790768d",
+              "questionId": "f0f9bbe371764ca09866fac18b7b30c0",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f1339327c298405cbdd0c1fa765be608",
+          "questionTitle": "当你计划开办一个新企业时，你应该预测第一年中每月的利润（ ）",
+          "questionSolution": "当你计划开办一个新企业时，你应该预测第一年中每月的利润",
+          "testQuestionAnswers": [
+            {
+              "id": "774d126fbc4d450099bec79b90232b2b",
+              "questionId": "f1339327c298405cbdd0c1fa765be608",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "4e6b04a8abe846e9b60f507cc4b48553",
+              "questionId": "f1339327c298405cbdd0c1fa765be608",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f1b96cd47f4f41e49280f33245e4e11d",
+          "questionTitle": "流动资金是指企业日常运转所需要支出的资金（ ）",
+          "questionSolution": "流动资金是指企业日常运转所需要支出的资金",
+          "testQuestionAnswers": [
+            {
+              "id": "d5aa6975685d483a9122015837ef8518",
+              "questionId": "f1b96cd47f4f41e49280f33245e4e11d",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "8d2704b2c2b04e349644df350e4ed9f8",
+              "questionId": "f1b96cd47f4f41e49280f33245e4e11d",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f284d2a86ec84659831e70b79dc4a187",
+          "questionTitle": "产品的特征就是产品的风格和设计，特征是将你的产品与竞争对手的产品区别开来的一种竞争工具(    ) ",
+          "questionSolution": "产品的特征不只是产品的风格和设计，特征不是将你的产品与竞争对手的产品区别开来的一种竞争工具",
+          "testQuestionAnswers": [
+            {
+              "id": "4f1cbaffd53d4990963c14c305e3f003",
+              "questionId": "f284d2a86ec84659831e70b79dc4a187",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "4e71d087043045589f5975e90fc88d8d",
+              "questionId": "f284d2a86ec84659831e70b79dc4a187",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f28a4167da8d4deca500c9cb2eb8e2bb",
+          "questionTitle": "任何产品的生命都是有限的，会经历新产品投放、成长、市场逐渐成熟、市场慢慢衰退等阶段，选择或者开发新的替代产品是企业经营中与先要计划的工作（    ）",
+          "questionSolution": "任何产品的生命都是有限的，会经历新产品投放、成长、市场逐渐成熟、市场慢慢衰退等阶段，选择或者开发新的替代产品是企业经营中与先要计划的工作",
+          "testQuestionAnswers": [
+            {
+              "id": "1a06ad8538134c81b87a3cd62c0390c1",
+              "questionId": "f28a4167da8d4deca500c9cb2eb8e2bb",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "8742d56c0a1c40ecb65c70cda6096bb5",
+              "questionId": "f28a4167da8d4deca500c9cb2eb8e2bb",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f2fc22f7fb3244069d1b276cf2bd0ed2",
+          "questionTitle": "通常企业会采用市场调查的方法来收集、处理和分析有关信息（）",
+          "questionSolution": "通常企业会采用市场调查的方法来收集、处理和分析有关信息",
+          "testQuestionAnswers": [
+            {
+              "id": "676d1ca1f65e476094e14978c9e2d68c",
+              "questionId": "f2fc22f7fb3244069d1b276cf2bd0ed2",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "c92286e4862f449084006644e176becf",
+              "questionId": "f2fc22f7fb3244069d1b276cf2bd0ed2",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f35af23f86b5438bb575f200ee272c94",
+          "questionTitle": "定价目标是决定企业价格策略的一个重要因素（    ）",
+          "questionSolution": "定价目标是决定企业价格策略的一个重要因素",
+          "testQuestionAnswers": [
+            {
+              "id": "ece63c2cdeb648c4a509d4751f0be8cd",
+              "questionId": "f35af23f86b5438bb575f200ee272c94",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "4d7e17dfd6b64b6788cb380e348bc0e9",
+              "questionId": "f35af23f86b5438bb575f200ee272c94",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f519721061ad410eb13503172adf4ef4",
+          "questionTitle": "当企业以”推“的策略为主进行促销时，对渠道的依赖性较大 (  )",
+          "questionSolution": "当企业以”推“的策略为主进行促销时，对渠道的依赖性较大",
+          "testQuestionAnswers": [
+            {
+              "id": "76e234094f0e4477aed67d64ac7a0377",
+              "questionId": "f519721061ad410eb13503172adf4ef4",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "86168c3c492a466f8e139840099d3838",
+              "questionId": "f519721061ad410eb13503172adf4ef4",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f551283909d84c3f92b23fafbef42397",
+          "questionTitle": "公司成功建立有价值顾客关系，只取决于公司自身的行为",
+          "questionSolution": "公司成功建立有价值顾客关系，不只取决于公司自身的行为",
+          "testQuestionAnswers": [
+            {
+              "id": "cb711e499e5c478c82faa98a252fa3eb",
+              "questionId": "f551283909d84c3f92b23fafbef42397",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "49639cd404c54fe89d5580d3cc86410a",
+              "questionId": "f551283909d84c3f92b23fafbef42397",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f587a9c10a7445aab15599bd8c0a10d4",
+          "questionTitle": "成功的企业都要制定现金流量计划（ ）",
+          "questionSolution": "成功的企业都要制定现金流量计划",
+          "testQuestionAnswers": [
+            {
+              "id": "20711749b6854391bc4b1ae0254ffc10",
+              "questionId": "f587a9c10a7445aab15599bd8c0a10d4",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "6e26af2058ca41e9902b59e5451cef53",
+              "questionId": "f587a9c10a7445aab15599bd8c0a10d4",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f636516d7bea475da0863dc3d3e803d5",
+          "questionTitle": "不同的购买群体，需要相同的产品和营销计划",
+          "questionSolution": "不同的购买群体，需要不同的产品和营销计划",
+          "testQuestionAnswers": [
+            {
+              "id": "b4101d1f928d45bea77994cf4a6a3aff",
+              "questionId": "f636516d7bea475da0863dc3d3e803d5",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "97ecb561bbee44f78d65d3d9a115c467",
+              "questionId": "f636516d7bea475da0863dc3d3e803d5",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f8104c961e6347e388653e736dad53f5",
+          "questionTitle": "切实可行的企业想法是创业计划的前提和基础",
+          "questionSolution": "切实可行的企业想法是创业计划的前提和基础",
+          "testQuestionAnswers": [
+            {
+              "id": "19687b7de24c46829392633251950e1b",
+              "questionId": "f8104c961e6347e388653e736dad53f5",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "84bde20b13264ad5bdeb7e528e1b6969",
+              "questionId": "f8104c961e6347e388653e736dad53f5",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f8521f012098467ba3cbde5cc550989d",
+          "questionTitle": "公司最直接的竞争者是那些同一行业同一战略群体的公司(   )",
+          "questionSolution": "公司最直接的竞争者是那些同一行业同一战略群体的公司",
+          "testQuestionAnswers": [
+            {
+              "id": "95c469a057b240b3933218b89e258d54",
+              "questionId": "f8521f012098467ba3cbde5cc550989d",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "185a87ba1e4f4ba9a10a3e65a7ccb510",
+              "questionId": "f8521f012098467ba3cbde5cc550989d",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "f8bd6fc57f1a427dade0ba1100245678",
+          "questionTitle": "顾客对某一产品或服务购买成功，与其消费能力无关",
+          "questionSolution": "顾客对某一产品或服务购买成功，与其消费能力有关",
+          "testQuestionAnswers": [
+            {
+              "id": "c5e58f3ec07e4e1ab5b23a08955522e1",
+              "questionId": "f8bd6fc57f1a427dade0ba1100245678",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "f41c4614823145c886fac49dfa1ed8bc",
+              "questionId": "f8bd6fc57f1a427dade0ba1100245678",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fa894aa32abe459987e3541e02ccd269",
+          "questionTitle": "机会是指周边地区存在的对企业有利的事情（）",
+          "questionSolution": "机会是指周边地区存在的对企业有利的事情",
+          "testQuestionAnswers": [
+            {
+              "id": "ae427495c4584766ba5a135d57f06327",
+              "questionId": "fa894aa32abe459987e3541e02ccd269",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9f75642cbd6a420cb61d590363c61b2f",
+              "questionId": "fa894aa32abe459987e3541e02ccd269",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fb204cef036841238c9ff8a44e51ec6a",
+          "questionTitle": "市场营销环境的变化会制约和影响企业营销活动",
+          "questionSolution": "市场营销环境的变化会制约和影响企业营销活动",
+          "testQuestionAnswers": [
+            {
+              "id": "615fbefe10c449849cc70e2ea90b3974",
+              "questionId": "fb204cef036841238c9ff8a44e51ec6a",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "d0f8667b047b4c7fa10227fb447652af",
+              "questionId": "fb204cef036841238c9ff8a44e51ec6a",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fb5b682e71204a1bb2f3b12bb08a23ec",
+          "questionTitle": "产品指你计划向顾客销售的东西，即你计划向目标客户提供的产品和服务的组合（    ）",
+          "questionSolution": "产品指你计划向顾客销售的东西，即你计划向目标客户提供的产品和服务的组合",
+          "testQuestionAnswers": [
+            {
+              "id": "ababd9bde13a4143ab7ccf701d3c1add",
+              "questionId": "fb5b682e71204a1bb2f3b12bb08a23ec",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "f338a669186144c481a89efa22819a95",
+              "questionId": "fb5b682e71204a1bb2f3b12bb08a23ec",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fc77054986ef4b98b78f8d0f8291f422",
+          "questionTitle": "创办企业不必做销售预测（ ）",
+          "questionSolution": "创办企业要做销售预测",
+          "testQuestionAnswers": [
+            {
+              "id": "6dc899f48694475bbc3b76faf303dd09",
+              "questionId": "fc77054986ef4b98b78f8d0f8291f422",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "8f3bf37f487a40af9b42566f79f1d434",
+              "questionId": "fc77054986ef4b98b78f8d0f8291f422",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fe6758f026134a2bafe1d1d316c6ac24",
+          "questionTitle": "顾客对某一产品或服务购买成功，与其消费能力无关（）",
+          "questionSolution": "顾客对某一产品或服务购买成功，与其消费能力有关",
+          "testQuestionAnswers": [
+            {
+              "id": "c008fdd75d634ae0adbd2bd68e760596",
+              "questionId": "fe6758f026134a2bafe1d1d316c6ac24",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "031556b79b3d44e49dafc34b83bf7946",
+              "questionId": "fe6758f026134a2bafe1d1d316c6ac24",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "fe7eb6b568ed45aeafa2ac29ff60acf7",
+          "questionTitle": "微小企业最常见的法律形态是个体工商户、个人独资、合资企业和有限责任（ ）",
+          "questionSolution": "微小企业最常见的法律形态不是个体工商户、个人独资、合资企业和有限责任",
+          "testQuestionAnswers": [
+            {
+              "id": "1baa4b1f2d074dd398bc2527af86cb9c",
+              "questionId": "fe7eb6b568ed45aeafa2ac29ff60acf7",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "cf0d91f789964d1b9730845625775925",
+              "questionId": "fe7eb6b568ed45aeafa2ac29ff60acf7",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "ff600ac6eade4a5582d51890d76c5ba0",
+          "questionTitle": "执行调研计划这一工作必须自己完成，不能外包（）",
+          "questionSolution": "执行调研计划这一工作不一定自己完成",
+          "testQuestionAnswers": [
+            {
+              "id": "97726022cf7c49e7a5a4712604c108e4",
+              "questionId": "ff600ac6eade4a5582d51890d76c5ba0",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "3934970b8e1e49fc8a56b6d0a3121a26",
+              "questionId": "ff600ac6eade4a5582d51890d76c5ba0",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "ff60bd9596fa4b51a7cc78205303f777",
+          "questionTitle": "制定价格的方法有差价法、成本法（ ）",
+          "questionSolution": "制定价格的方法有差价法、成本法",
+          "testQuestionAnswers": [
+            {
+              "id": "4152841d91c645939a8a51051f98ae24",
+              "questionId": "ff60bd9596fa4b51a7cc78205303f777",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9803f4160b9141d6ba229f0b46359565",
+              "questionId": "ff60bd9596fa4b51a7cc78205303f777",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        },
+        {
+          "id": "ff73067990b84437852dfb45bd4ecaab",
+          "questionTitle": "做顾客调查可以有助于企业主判断企业构思是否可行（    ）",
+          "questionSolution": "做顾客调查可以有助于企业主判断企业构思是否可行",
+          "testQuestionAnswers": [
+            {
+              "id": "244f0a49de45471989fbb77b24f80967",
+              "questionId": "ff73067990b84437852dfb45bd4ecaab",
+              "optionContent": "正确",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "5922673d519e4e2ebec99cf03e4e127e",
+              "questionId": "ff73067990b84437852dfb45bd4ecaab",
+              "optionContent": "错误",
+              "optionName": "B",
+              "isCorrect": "0",
+              "sort": 1
+            }
+          ]
+        }
+      ],
+      "questionType": "是非题"
+    },
+    {
+      "question": [
+        {
+          "id": "749ce0e4f928459eaab08e6ab20f88fc",
+          "questionTitle": "利用顾客的心理定价的方法包括（ ）",
+          "questionSolution": "答案：AB\r\n利用顾客的心理定价的方法包括尾数定价、声望定价",
+          "testQuestionAnswers": [
+            {
+              "id": "d2d42b1db77740e0b485d078c3c43e10",
+              "questionId": "749ce0e4f928459eaab08e6ab20f88fc",
+              "optionContent": "尾数定价",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "6aa4c9ed24444b198b99d6d82554844f",
+              "questionId": "749ce0e4f928459eaab08e6ab20f88fc",
+              "optionContent": "声望定价",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "c1e35d1c63be4e6194adc16e600cc60e",
+              "questionId": "749ce0e4f928459eaab08e6ab20f88fc",
+              "optionContent": "撇脂定价",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "04abaaab99104a51b42ca536427fbd7c",
+              "questionId": "749ce0e4f928459eaab08e6ab20f88fc",
+              "optionContent": "渗透定价",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "b1ef9ccd00b8416d9263277ac8154e31",
+          "questionTitle": "下列属于SYB创业培训十步内容的是（  ）",
+          "questionSolution": "答案：ABCD\r\n属于SYB创业培训十步内容的是选择你的企业法律形态、企业的法律环境和责任、预测你的启动资金、制订你的利润计划",
+          "testQuestionAnswers": [
+            {
+              "id": "9b2f3aacec724449b4bec8f6acf784c1",
+              "questionId": "b1ef9ccd00b8416d9263277ac8154e31",
+              "optionContent": "选择你的企业法律形态",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "1ce23f006062453e980a6d28d7ee7af9",
+              "questionId": "b1ef9ccd00b8416d9263277ac8154e31",
+              "optionContent": "企业的法律环境和责任",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "0097921fc838461bbe109698ab72f9c5",
+              "questionId": "b1ef9ccd00b8416d9263277ac8154e31",
+              "optionContent": "预测你的启动资金",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "1aaa7b9d644141649462f0cfadba7236",
+              "questionId": "b1ef9ccd00b8416d9263277ac8154e31",
+              "optionContent": "制订你的利润计划",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "b3728305f0f04af6abd1a7623f2f5788",
+          "questionTitle": "下列哪些属于流动资金的范围（  ）",
+          "questionSolution": "答案：ABCD\r\n促销费、工资、保险费、水电费属于流动资金的范围",
+          "testQuestionAnswers": [
+            {
+              "id": "e1098cf8d789437fa174be3e922a60f6",
+              "questionId": "b3728305f0f04af6abd1a7623f2f5788",
+              "optionContent": "促销费",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9ef19aeabeb24494a7871aeed17d267e",
+              "questionId": "b3728305f0f04af6abd1a7623f2f5788",
+              "optionContent": "工资",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "e5e2fcc4875f4c089af98e9a58bbcff5",
+              "questionId": "b3728305f0f04af6abd1a7623f2f5788",
+              "optionContent": "保险费",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "8d3b20125aa441fcb18ec375d1086a81",
+              "questionId": "b3728305f0f04af6abd1a7623f2f5788",
+              "optionContent": "水电费",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "bdda955e3df2453bb80d1d88fa3e906f",
+          "questionTitle": "具有下列情况之一者，允许变更和解除经济合同（   ）",
+          "questionSolution": "答案：ABC\r\n具有下列情况之一者，允许变更和解除经济合同：双方当事人协商同意、由于发生不可抗力、一方当事人严重违约",
+          "testQuestionAnswers": [
+            {
+              "id": "77c0d55e52054f3d80e69b5f2ede5eb0",
+              "questionId": "bdda955e3df2453bb80d1d88fa3e906f",
+              "optionContent": "双方当事人协商同意",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "2368429e65fc4c188a404234eb2efd50",
+              "questionId": "bdda955e3df2453bb80d1d88fa3e906f",
+              "optionContent": "由于发生不可抗力",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "a3fd547b0839430c9fba4a46ce5e3474",
+              "questionId": "bdda955e3df2453bb80d1d88fa3e906f",
+              "optionContent": "一方当事人严重违约",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "9321c60a2922420b9c293ddf318e15d1",
+              "questionId": "bdda955e3df2453bb80d1d88fa3e906f",
+              "optionContent": "合同本身不合法",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "daba8d408c0145f5964e9b0463b9b1e0",
+          "questionTitle": "下列哪些是预测销售量的方法（  ）",
+          "questionSolution": "答案：ABCD\r\n类比预测法、试销预测法、经验预测法、调查预测法是预测销售量的方法",
+          "testQuestionAnswers": [
+            {
+              "id": "ec224edaded14b4c8703de2975af0b4f",
+              "questionId": "daba8d408c0145f5964e9b0463b9b1e0",
+              "optionContent": "类比预测法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "65609b083b0d4b86b5cbe4a9f70142d3",
+              "questionId": "daba8d408c0145f5964e9b0463b9b1e0",
+              "optionContent": "试销预测法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "3478b6e8e3f540fbad777233c03e7a7d",
+              "questionId": "daba8d408c0145f5964e9b0463b9b1e0",
+              "optionContent": "经验预测法",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "50fb360124ca41e6ae057df08b14034b",
+              "questionId": "daba8d408c0145f5964e9b0463b9b1e0",
+              "optionContent": "调查预测法",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "dcccf8dedb66469b919ef04701b0df62",
+          "questionTitle": "下列哪些属于流转税的范围（   ）",
+          "questionSolution": "答案：BC\r\n增值税、消费税属于流转税的范围",
+          "testQuestionAnswers": [
+            {
+              "id": "53b776623f7a4483bc071fef3fe63606",
+              "questionId": "dcccf8dedb66469b919ef04701b0df62",
+              "optionContent": "个人所得税",
+              "optionName": "A",
+              "isCorrect": "0",
+              "sort": 0
+            },
+            {
+              "id": "807c54c1d99443818aab61cdd2dfb4f5",
+              "questionId": "dcccf8dedb66469b919ef04701b0df62",
+              "optionContent": "增值税",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "646a84f0c6c144559b5101a30130346a",
+              "questionId": "dcccf8dedb66469b919ef04701b0df62",
+              "optionContent": "消费税",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "51fa8a446b0d4e83a33fcf18732f1495",
+              "questionId": "dcccf8dedb66469b919ef04701b0df62",
+              "optionContent": "城建税",
+              "optionName": "D",
+              "isCorrect": "0",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "e50bb20dffa84036acb536061082d622",
+          "questionTitle": "下列哪些是收集顾客信息的方法",
+          "questionSolution": "答案：ABCD\r\n经验判断法、观察法、访谈法、实验法是收集顾客信息的方法",
+          "testQuestionAnswers": [
+            {
+              "id": "2fd9eaa5a936489dbe650b2235db069c",
+              "questionId": "e50bb20dffa84036acb536061082d622",
+              "optionContent": "经验判断法",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "9cd0fe447be64ef6afd1cd0dfe3fd34e",
+              "questionId": "e50bb20dffa84036acb536061082d622",
+              "optionContent": "观察法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "16289fc42d944e3694c17a8ca4c9b5e6",
+              "questionId": "e50bb20dffa84036acb536061082d622",
+              "optionContent": "访谈法",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "075ae3d0f0ed4281b733185234b670ec",
+              "questionId": "e50bb20dffa84036acb536061082d622",
+              "optionContent": "实验法",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f1d325bbc70149629e4fb397bbd77973",
+          "questionTitle": "下列哪些属于企业法的相关内容（  ）",
+          "questionSolution": "答案：ABD\r\n属于企业法的相关内容公司法、合同法、个体工商户条例",
+          "testQuestionAnswers": [
+            {
+              "id": "36800dd3ec0b42d6ad020bc52f4d9a39",
+              "questionId": "f1d325bbc70149629e4fb397bbd77973",
+              "optionContent": "公司法 ",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "80550cec924e462482997a587beecd56",
+              "questionId": "f1d325bbc70149629e4fb397bbd77973",
+              "optionContent": "合同法",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "122d80ce312d4d6b896b4468fbce6e96",
+              "questionId": "f1d325bbc70149629e4fb397bbd77973",
+              "optionContent": "乡镇企业法",
+              "optionName": "C",
+              "isCorrect": "0",
+              "sort": 2
+            },
+            {
+              "id": "cfb6f6fcd1344f52aa72895460969cc5",
+              "questionId": "f1d325bbc70149629e4fb397bbd77973",
+              "optionContent": "个体工商户条例",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f4912400c28241c1a62dc8d72fbf3289",
+          "questionTitle": "下列属于公司章程基本特征的是（  ）",
+          "questionSolution": "答案：ABCD\r\n属于公司章程基本特征的是法定性、真实性、自制性、公开性",
+          "testQuestionAnswers": [
+            {
+              "id": "f8dcbb5332c74a09b3d570ba7bd79448",
+              "questionId": "f4912400c28241c1a62dc8d72fbf3289",
+              "optionContent": "法定性",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "12c6a6785a1b404393389b228d17d5fb",
+              "questionId": "f4912400c28241c1a62dc8d72fbf3289",
+              "optionContent": "真实性",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "6ee231626d734e608d5c3755e7161f8d",
+              "questionId": "f4912400c28241c1a62dc8d72fbf3289",
+              "optionContent": "自制性",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "052acff2d0464d37a5e96d26d73f4744",
+              "questionId": "f4912400c28241c1a62dc8d72fbf3289",
+              "optionContent": "公开性",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        },
+        {
+          "id": "f5acec6482ce45dc9e1a3bc55136a0fe",
+          "questionTitle": "下列属于工商登记注册的流程的是（  ）",
+          "questionSolution": "答案：ABCD\r\n属于工商登记注册的流程的是名称预先核准、准予设立登记、领取营业制造、刻制公章、财务章",
+          "testQuestionAnswers": [
+            {
+              "id": "09d03cb896394498840d5a60c1037245",
+              "questionId": "f5acec6482ce45dc9e1a3bc55136a0fe",
+              "optionContent": "名称预先核准",
+              "optionName": "A",
+              "isCorrect": "1",
+              "sort": 0
+            },
+            {
+              "id": "5e403ef4fbc4418a87a66b11fee2e440",
+              "questionId": "f5acec6482ce45dc9e1a3bc55136a0fe",
+              "optionContent": "准予设立登记",
+              "optionName": "B",
+              "isCorrect": "1",
+              "sort": 1
+            },
+            {
+              "id": "a6ed6445d5634bf69e9da21eab3da69e",
+              "questionId": "f5acec6482ce45dc9e1a3bc55136a0fe",
+              "optionContent": "领取营业制造",
+              "optionName": "C",
+              "isCorrect": "1",
+              "sort": 2
+            },
+            {
+              "id": "0f6b0c11715e4a9e9f161897f8536046",
+              "questionId": "f5acec6482ce45dc9e1a3bc55136a0fe",
+              "optionContent": "刻制公章、财务章",
+              "optionName": "D",
+              "isCorrect": "1",
+              "sort": 3
+            }
+          ]
+        }
+      ],
+      "questionType": "多项选择题"
+    }
+  ]
+}
